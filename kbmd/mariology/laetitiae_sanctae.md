@@ -1,0 +1,1003 @@
+---
+title: "The Infant Jesus of Prague | EWTN"
+source: "https://www.vatican.va"
+category: mariology
+ingested: 2026-06-15T17:16:20.463823+00:00
+---
+
+# The Infant Jesus of Prague | EWTN
+
+*Marian Document*
+
+The Infant Jesus of Prague | EWTN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ On Air
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Watch 
+ 
+ 
+ Listen 
+ 
+ 
+ Bible 
+ 
+ 
+ Shop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Get Started 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ Donate 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Watch
+ 
+ Listen
+ 
+ Bible
+ 
+ Shop
+ 
+
+ 
+ Get Started 
+ 
+ Donate
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Categories 
+ 
+ 
+
+ News
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News Nightly
+ 
+ 
+ 
+ EWTN Pro-Life Weekly
+ 
+ 
+ 
+ EWTN News In Depth
+ 
+ 
+ 
+ The World Over
+ 
+ 
+ 
+ 
+ 
+ Pilgrimage to EWTN 
+ 
+ 
+
+ Support
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Welcome Tutorial
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ TV
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Schedule
+ 
+ 
+ 
+ Other Streaming Options
+ 
+ 
+ 
+ Channel Finder
+ 
+ 
+ 
+ 
+ 
+ Kids 
+ 
+ 
+
+ Radio
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Schedule
+ 
+ 
+ 
+ Audio Archive
+ 
+ 
+ 
+ Podcast Central
+ 
+ 
+ 
+ Affiliates
+ 
+ 
+ 
+ SW Frequency Guide
+ 
+ 
+ 
+ SW Monitoring Form
+ 
+ 
+ 
+ Frequently Asked Questions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Scripture
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Daily Mass and Readings
+ 
+ 
+ 
+ Bible
+ 
+ 
+ 
+ 
+ 
+
+ Catholicism
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Explore
+ 
+ 
+ 
+ See of Peter
+ 
+ 
+ 
+ Teachings
+ 
+ 
+ 
+ Devotions
+ 
+ 
+ 
+ Saints
+ 
+ 
+ 
+ Seasons and Feast Days
+ 
+ 
+ 
+ Library
+ 
+ 
+ 
+ Traditional Latin Mass
+ 
+ 
+ 
+ Prayer Requests
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Giving
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Explore
+ 
+ 
+ 
+ Donate
+ 
+
+ 
+ 
+ 
+ 
+ Give Monthly
+ 
+
+ 
+ 
+ 
+ 
+ Manage My Giving
+ 
+
+ 
+ 
+ 
+ 
+ Ways to Give
+ 
+ 
+ 
+ 
+ 
+
+ Resources
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Pro-life
+ 
+
+ 
+ 
+ 
+ 
+ EWTN Learn
+ 
+
+ 
+ 
+ 
+ 
+ Wings
+ 
+ 
+ 
+ Privacy Policy
+ 
+
+ 
+ 
+ 
+ 
+ International Satellite Feeds
+ 
+ 
+ 
+ Blogs
+ 
+ 
+ 
+ 
+ 
+ Employment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Catholicism 
+ Library 
+ Church 
+ Christ And Church 
+ The Infant Jesus of Prague 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+## The Infant Jesus of Prague
+
+ 
+ 
+ Author: Ann Ball 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ The Infant Jesus of Prague 
+
+ Ann Ball 
+
+Devotion to the Child Jesus under the title "Infant Jesus of Prague" is over three and a half centuries old. The devotion originated in Spain, spread to what is now Czechoslovakia, and from there to all parts of the globe. Replicas of the original statue dressed in royal priestly vestments are to be found in thousands of churches and private homes. In the United States, there is a national shrine in honor of the Christ Child under this title in Prague, Oklahoma. 
+
+In 1556, Maria Manriquez de Lara brought a precious family heirloom, a statue of the child Jesus, with her to Bohemia when she married the Czech nobleman Vratislav of Pernstyn. The statue of the child is eighteen inches tall, carved of wood, and thinly coated with wax. The left foot is barely visible under a long white tunic. The statue stands on a broad pedestal, and there is a waist-high silver case which holds it upright. The left hand holds a miniature globe surmounted by a cross, signifying the worldwide kingship of Christ. The right hand is extended in blessing in a form usually used by the Supreme Pontiff; the first two fingers are upraised to symbolize the two natures in Christ, while the folded thumb and last two fingers touch each other to represent the mystery of the Holy Trinity. 
+
+Since 1788, there have been two jeweled rings on the fingers of the statue. These were gifts of a noble family in thanks for the miraculous cure of their daughter. The head of the image has a wig of blond human hair. Old carvings and pictures indicate that at one time the wig may have been white. In 1655, the statue was solemnly crowned in a special coronation ceremony. The crown was presented by the supreme burgrave of the Czech kingdom. The original garments worn by the statue when it arrived in Bohemia are still preserved. Since the great cholera epidemic of 1713, however, the garments of the statue have been changed with the liturgical season. The wardrobe of the Infant of Prague resembles liturgical vestments. 
+
+There are a number of sets of vestments belonging to the statue which are of artistic and historic importance, including sets presented in thanksgiving by Empress Maria Theresa and Emperor Ferdinand. Today, the nuns from St. Joseph's Church in the Mala Strana quarter of Prague enjoy the privilege of clothing the Infant in keeping with the ancient custom. At the time the change of vestments is made, numerous devotional objects such as medals, pictures and rosaries are touched to the statue to be distributed to all parts of the world. 
+
+Princess Polyxena Lobkowitz inherited the statue of the infant from her mother. She had a great devotion to it, honoring it highly in her own home. On the death of her husband in 1623, she determined to spend the rest of her life in works of charity and piety. She was particularly generous to the Discalced Carmelites of Prague. Their monastery had been founded by Emperor Ferdinand II. After the emperor moved to Vienna, the monastery, having lost its wealthy founder and patron, fell on hard times, often not even having enough to eat. (At that time, cloistered monasteries depended heavily on donations for their daily needs.) 
+
+In 1628, Princess Polyxena presented her beloved statue to the friars, telling them, prophetically, that as long as they honored the Child Jesus as king, venerating His image, they would not want. Her prediction was verified, and as long as the Divine Infant's image was honored the community prospered, spiritually and temporally. However, when the devotions relaxed, it seemed as if God's blessing departed from the house. 
+
+The statue was set up in the oratory of the monastery, and twice daily special devotions were performed before it. The novices were particularly devoted to the Holy Infant. One of them, Cyrillus of the Mother of God, was suffering interior trials. After prayers to the Child Jesus, he found a sudden relief from his worries and became the greatest apostle of the Holy image. 
+
+During the Thirty Years' War, the novitiate was moved to Munich, Germany in 1630. In 1631, King Gustavus Adolphus of Sweden, an inveterate foe of Catholicism, invaded, and many inhabitants of Prague fled, including all of the Carmelites except two who remained to protect the monastery. The enemy took possession of the monastery in November of 1631, and the house was plundered. The image of the Infant was thrown in a heap of rubbish behind the high altar, where it lay forgotten for seven years. 
+
+In 1637, Father Cyrillus returned to Prague. The monastery had suffered many reverses in recent years, and the city was again overrun with hostile troops. The prior of the community called the monks together to offer prayers. Father Cyrillus remembered the favors formerly received through the intercession of the Infant, and he asked permission to search the monastery in hopes that the statue might have been left behind when the monastery was plundered. At last the statue was found, and Father Cyrillus placed the dusty little image on an altar in the oratory, where the long-forgotten devotions were renewed with vigor. 
+
+One day, after the other monks had left the oratory, Father Cyrillus remained kneeling in front of the statue for hours, meditating on the divine goodness. In a mystical ecstasy, he heard the statue speak these words: "Have pity on me, and I will have pity on you. Give me my hands, and I will give you peace. The more you honor me, the more I will bless you!" Startled, the priest looked and noticed for the first time that the statues hands had been broken off. He went immediately to the prior to beg him to have the statue restored. The prior, not having the same devotion or understanding as Father Cyrillus, excused himself by saying that the monastery was too poor. 
+
+Shortly thereafter, a wealthy and pious man came to Prague and fell ill. Father Cyrillus was called to the dying man, who offered financial help to repair the statue. The prior, however, used the donated money to buy an entirely new statue instead of having the old one repaired. On its very first day, the new statue was shattered by a falling candlestick. To Father Cyrillus, this was an indication that the wishes of the Infant must be fulfilled literally. 
+
+The sorrowing priest took the damaged statue to his cell, where he prayed through the intercession of the Blessed Virgin for the money to repair the statue. No sooner had he finished his prayer than he was called to the church, where he found a noble lady waiting for him. She handed him a considerable amount of money and then disappeared. 
+
+Happily, Father Cyrillus took the money to the prior and again requested the repair of the statue. At last, the prior agreed, provided the repairs did not exceed a certain amount. Unfortunately, the estimates were too high, so again the statue was not repaired. Interiorly, the priest heard a voice telling him to place the statue at the entrance of the sacristy. He did so, and soon a stranger came and noticed the broken hands of the statue. The stranger offered to have the statue repaired at his own expense, an offer that was joyously accepted. 
+
+At last the repaired statue was placed in the church. A pestilence was raging in Prague at the time, and the prior himself nearly died. He vowed to spread the devotion of the Infant if he were cured. Shortly thereafter, he ordered a general devotion to the Infant, in which all the friars took part. At last the Infant had won the hearts of the Carmel of Prague and become a cornerstone of their devotion. 
+
+In 1641, a generous benefactress donated money to the monastery for the erection of an altar to the Blessed Trinity with a magnificently gilded tabernacle as the resting place for the miraculous statue, which was then exposed for public veneration In 1642, a baroness financed the erection of a handsome chapel for the Infant which was blessed in 1644 on the feast of the Most Holy Name of Jesus, which has remained the principal feast day of the miraculous Infant ever since. In 1648, the Archbishop of Prague gave the first ecclesiastical approval of the devotion when he consecrated the chapel and gave permission to priests to say Mass at the chapel altar. In 1651 the Carmelite general made a canonical visitation to the monastery to examine matters regarding the devotion. The statue was solemnly crowned in 1655. 
+
+In 1741, the statue was moved to its final magnificent shrine on the epistle side off the church of Our Lady of Victory. It became one of the most famous ,and popular shrines in the world. In 1739 the Carmelites of the Austrian Province made the spread of the devotion a part of their apostolate. The popularity of the little King of Prague spread to other countries in the eighteenth century. Pope Leo XIII confirmed the Sodality of the Infant of Prague in 1896 and granted many indulgences to the devotion. Pope St. Pius X unified an organizing membership into a confraternity under the guidance of the Carmelites which increased the spread of the devotion in our own century. Church authorities have canonically established a U.S. national shrine to the Infant Jesus of Prague at Prague, Oklahoma. 
+
+Excerpt from the book 
+ A Handbook of Catholic Sacramentals , 
+ By Ann Ball
+ Published by Our Sunday Visitor Publishing Division, 
+
+Our Sunday Visitor, Inc.
+ Huntington, Indiana 46750. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ "I cannot bring Christ to my neighbour and to the world if I have not first given him to my family"
+ 
+ 
+
+— Mother Angelica 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ EWTN News Sites
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News 
+ 
+
+ 
+ 
+ National Catholic Register 
+ 
+
+ 
+ 
+ ChurchPOP 
+ 
+
+ 
+ 
+ ACI Prensa 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Affiliates
+ 
+
+ 
+ 
+ 
+ 
+ Español 
+ España 
+ 
+
+ 
+ 
+ Polska 
+ 
+
+ 
+ 
+ Magyar 
+ 
+
+ 
+ 
+ Svenska 
+ 
+
+ 
+ 
+ Yкраїнська 
+ 
+
+ 
+ 
+ Deutsch 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Learn More
+ 
+
+ 
+ 
+ 
+ 
+ About 
+ Mother Angelica 
+ Press Room 
+ Employment 
+ EWTN Everywhere 
+ EWTN Apps 
+ Media Missionaries 
+ Privacy Policy 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Contact
+ 
+
+ 
+ 
+ 
+ 
+ 1-800-447-3986 
+ 5817 Old Leeds Road, Irondale, AL 35210 
+ [email protected] 
+ EIN: 63-0801391 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donate
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+## EWTN News Sites
+
+ 
+ EWTN News 
+ 
+
+ 
+ 
+ National Catholic Register 
+ 
+
+ 
+ 
+ ChurchPOP 
+ 
+
+ 
+ 
+ ACI Prensa 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Affiliates
+
+ 
+ Español 
+ España 
+ 
+
+ 
+ 
+ Polska 
+ 
+
+ 
+ 
+ Magyar 
+ 
+
+ 
+ 
+ Svenska 
+ 
+
+ 
+ 
+ Yкраїнська 
+ 
+
+ 
+ 
+ Deutsch 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Learn More
+
+ 
+ About 
+ Mother Angelica 
+ Press Room 
+ Employment 
+ EWTN Everywhere 
+ EWTN Apps 
+ Media Missionaries 
+ Privacy Policy 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Contact
+
+ 
+ 1-800-447-3986 
+ 5817 Old Leeds Road, Irondale, AL 35210 
+ [email protected] 
+ EIN: 63-0801391 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donate
+ 
+ 
+ 
+ © 2025 EWTN Inc. All Rights Reserved.
+ 
+ 
+ Privacy Policy 
+ Cookie Policy 
+ Terms and Conditions 
+ Your Privacy Choices 
+ Notice at Collection
+
+---
+
+*Source: The Infant Jesus of Prague | EWTN*

@@ -1,0 +1,1072 @@
+---
+title: "Can Business Be Catholic? | EWTN"
+source: "https://www.vatican.va"
+category: magisterium
+subcategory: encyclicals
+ingested: 2026-06-15T17:16:20.331525+00:00
+---
+
+# Can Business Be Catholic? | EWTN
+
+*Papal Encyclical*
+
+Can Business Be Catholic? | EWTN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ On Air
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Watch 
+ 
+ 
+ Listen 
+ 
+ 
+ Bible 
+ 
+ 
+ Shop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Get Started 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ Donate 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Watch
+ 
+ Listen
+ 
+ Bible
+ 
+ Shop
+ 
+
+ 
+ Get Started 
+ 
+ Donate
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Categories 
+ 
+ 
+
+ News
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News Nightly
+ 
+ 
+ 
+ EWTN Pro-Life Weekly
+ 
+ 
+ 
+ EWTN News In Depth
+ 
+ 
+ 
+ The World Over
+ 
+ 
+ 
+ 
+ 
+ Pilgrimage to EWTN 
+ 
+ 
+
+ Support
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Welcome Tutorial
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ TV
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Schedule
+ 
+ 
+ 
+ Other Streaming Options
+ 
+ 
+ 
+ Channel Finder
+ 
+ 
+ 
+ 
+ 
+ Kids 
+ 
+ 
+
+ Radio
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Schedule
+ 
+ 
+ 
+ Audio Archive
+ 
+ 
+ 
+ Podcast Central
+ 
+ 
+ 
+ Affiliates
+ 
+ 
+ 
+ SW Frequency Guide
+ 
+ 
+ 
+ SW Monitoring Form
+ 
+ 
+ 
+ Frequently Asked Questions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Scripture
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Daily Mass and Readings
+ 
+ 
+ 
+ Bible
+ 
+ 
+ 
+ 
+ 
+
+ Catholicism
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Explore
+ 
+ 
+ 
+ See of Peter
+ 
+ 
+ 
+ Teachings
+ 
+ 
+ 
+ Devotions
+ 
+ 
+ 
+ Saints
+ 
+ 
+ 
+ Seasons and Feast Days
+ 
+ 
+ 
+ Library
+ 
+ 
+ 
+ Traditional Latin Mass
+ 
+ 
+ 
+ Prayer Requests
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Giving
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Explore
+ 
+ 
+ 
+ Donate
+ 
+
+ 
+ 
+ 
+ 
+ Give Monthly
+ 
+
+ 
+ 
+ 
+ 
+ Manage My Giving
+ 
+
+ 
+ 
+ 
+ 
+ Ways to Give
+ 
+ 
+ 
+ 
+ 
+
+ Resources
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Pro-life
+ 
+
+ 
+ 
+ 
+ 
+ EWTN Learn
+ 
+
+ 
+ 
+ 
+ 
+ Wings
+ 
+ 
+ 
+ Privacy Policy
+ 
+
+ 
+ 
+ 
+ 
+ International Satellite Feeds
+ 
+ 
+ 
+ Blogs
+ 
+ 
+ 
+ 
+ 
+ Employment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Catholicism 
+ Library 
+ Other 
+ Business 
+ Can Business Be Catholic? 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+## Can Business Be Catholic?
+
+ 
+ 
+ Author: ZENIT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ A ZENIT DAILY DISPATCH 
+
+ Can Business Be Catholic? 
+
+Interview With Michael Naughton of University of St. Thomas 
+
+ By Annamarie Adkins 
+
+ ST. PAUL, Minnesota, 2 JUNE 2008 (ZENIT) 
+
+Suspicion within the Church of profit and the residue of an ancient prejudice against “shopkeepers” and moneylenders have fueled a perception that Catholicism and commerce are like oil and water. 
+
+ But the vast majority of Catholic colleges and universities in the United States offer undergraduate business majors, and many have graduate business programs leading to professional degrees. As a result, there has been a developing body of scholarship dedicated to formulating the unique mission of a Catholic business school. 
+
+ Michael Naughton has been at the forefront of this movement. Naughton is the Moss Endowed Chair in Catholic Social Thought and director of the John A. Ryan Institute for Catholic Social Thought at the University of St. Thomas in St. Paul. 
+
+ Naughton’s Ryan Institute is co-sponsoring the June 11-13 conference at the University of Notre Dame titled, “The Role of Mission-Driven Business Schools,” to explore these issues in greater detail. 
+
+ Naughton previewed for ZENIT some of the themes of the conference and discussed the challenges a Catholic business school faces. 
+
+ Q: Many critics believe a business school has no place in a Catholic university because business promotes selfish ends. How would you respond? Can business really be a professional calling? 
+
+ Naughton: There is, as you say, a bias against business, particularly among some of the faculty in the liberal arts. They often operate with a Platonic/Aristotelian bias against commerce, since they understand business only in terms of its economic and instrumental dimensions. 
+
+ Once I had a theologian say to me that success for him was persuading students away from majoring in business, since he saw little redeemable value in pursuing such a line of work. 
+
+ However, if we look at some of the great Catholic thinkers on education — Cardinal John Henry Newman, Jacques Maritain, Poe John Paul II, etc. — what we find is that they all see a role for professional education within the university, precisely because they hold to the importance of the dignity of work. 
+
+ Today, business is one of the major forms of work for our students; a Catholic university, as a cultural institution, plays an important role in the formation of students as to what this work should be. 
+
+ Q: How should the principles and pillars of Catholic social teaching — subsidiarity, solidarity, respect for human dignity and the common good, and a preferential option for the poor — shape the curriculum and culture of a Catholic business school? Do Catholic business schools currently live up to this standard? 
+
+ Naughton: It is important to remember that all business education involves an education in principles. The question is in what principles are we forming our students — Machiavellian principles, economic principles, Catholic social principles, etc. 
+
+ At the University of St. Thomas the vision statement of our college of business is “educating highly principled global business leaders.” I have found this to be a helpful vision because it has opened up for us a way to engage our faculty in an honest discussion on the principles of various moral traditions. 
+
+ As to the culture part of your question, I see four important areas to engage these principles that can shape the identity of a Catholic business school. 
+
+ The first is hiring. When Catholic business schools hire faculty, they should have candidates read an essay on Catholic social principles and ask them how they would engage such principles in their discipline. This would give a good sense of mission fit of potential new faculty. 
+
+ Faculty development is a second area. If a Catholic business school is going to take its mission seriously, it has to devote time to engage faculty on the Catholic social tradition. 
+
+ The third is research. Father Ted Hesburgh, former president of Notre Dame, once said that the Catholic university is where the Church does its thinking. 
+
+ In a Catholic business school some of that thinking as it relates to the Church’s social principles should be engaging questions within finance, marketing, human resources, entrepreneurship, etc. 
+
+ The last area is curriculum. There should be specific courses on Catholic social thought and business in which Catholic social principles and business theory and practice are specifically engaged. 
+
+ But throughout all their business courses, students should encounter ethical and spiritual questions as they relate to a wider variety of issues such as the purpose of the firm and finance, just wages and human resources, humane job design and operations, truth telling and marketing, wealth distribution and economics, capital ownership and strategy, and so forth. 
+
+ Catholic business schools that take these four areas seriously would be well on their way to living up to their vision. My sense is that most Catholic business schools have room for improvement in these four areas. 
+
+ Q: What does “Ex Corde Ecclesiae” have to say to Catholic business schools? 
+
+ Naughton: “Ex Corde Ecclesiae” does not say much specifically to Catholic business schools, but the vision of the document is extremely relevant to such schools. 
+
+ John Paul II wrote of four characteristics of a Catholic education: “(a) the search for an integration of knowledge, (b) a dialogue between faith and reason, (c) an ethical concern and (d) a theological perspective.” 
+
+ These four criteria are desperately needed in business education today. Warren Bennis and James O’Toole — in a highly critical article on business education entitled “How Business Schools Lost Their Way” in the Harvard Business Review — argued that business schools are increasingly becoming more specialized and less interdisciplinary, and they are adopting a scientific instead of a professional model of business education. 
+
+ It seems to me that Catholic business schools, if they are informed by the vision of “Ex Corde Ecclesiae,” stand the best chance to address these criticisms that Bennis and O’Toole raise in their article. Catholic business schools can provide a distinctive vision of business education that enables them to stand apart from their competitors. 
+
+ Q: Most business schools require a course in “business ethics.” Does a Catholic business school teach this any differently? How does a Catholic business school differentiate itself from secular business schools? 
+
+ Naughton: In the past, Catholic universities have tended to take business ethics more seriously than other universities; however, there is a temptation in business ethics to come to a common agreement by driving the discussion down to the lowest common denominator. 
+
+ This kind of ethical approach quickly moves one to either the law, namely, what is ethical is what is legal. Or it leads to a position that ethics pays, namely, good ethics is good business. What is often avoided in this approach to business ethics is how people can speak from their center in making ethical decisions, and in particular from their faith. 
+
+ It seems to me that business ethics courses at Catholic universities should open up students to a robust vision of business leadership as a profession and a vocation. A business ethics approach at a Catholic university has an intellectual arsenal that is unique from most universities. 
+
+ Depending upon the theology and philosophy requirements, a business ethics course can and should demand from its students a more sophisticated integration of theological and philosophical ethics. This vision should draw upon the ethical tradition of the natural law, the virtues, Catholic social principles, rights and duties, etc., that inform and form students in the moral and spiritual importance of business. 
+
+ This approach to business ethics can help students manage the complexities of business life without either losing their soul or going broke. This is certainly a large order, but one that lies at the heart of what makes business education at a Catholic university distinctive to its identity. 
+
+Q: Benedict XVI stated in his recent address to American college and university presidents that a Catholic institution of higher education should assist students in deepening their relationship with Jesus Christ. Can this really be accomplished in a business education program? 
+
+ Naughton: John Henry Newman wrote that “every profession has its dangers,” and business is no exception. 
+
+ The excessive pursuit and desire for money and power, the cold pragmatic instrumental reasoning of treating employees as means only, rather than ends, the prideful conceit of understanding business as only a career, etc., are all indicators to a destiny that excludes God. 
+
+ The Second Vatican Council document “Gaudium et Spes” warns us that the split between one’s professional life and one’s religious commitments is a dangerous error of our age. This divided life, particularly for Christian businesspersons, seriously impairs their relationship with Christ. 
+
+ A Catholic university, if it takes its mission seriously, needs to engage its business students in ideas of vocation, faith and reason, spirituality of work, principles of the Catholic social tradition, the cardinal and theological virtues, responsibilities to poor and marginalized, all of which can move the student to a richer understanding and relationship with God. 
+
+ Q: The main goal of a business is to successfully create, market, and sell a product or service for profit. How does a Catholic business school navigate the tension between teaching its students to be effective businesspeople, and discouraging cynical and self-serving practices like exploiting the vices of consumers? 
+
+ Naughton: A Catholic business education is a formation in “practical wisdom,” an education that engages students in the utilization of highly effective means toward morally good ends. It is an education in both the how and the why of business. 
+
+ If our students are not effective in the “how,” they can go broke; but if they are not thoughtful on the “why,” they can become corrupt. 
+
+ One of the most powerful insights in Catholic social teaching comes from John Paul II’s 1981 encyclical letter on work, “Laborem Excercens.” He explains that work is not only about the effective changes on products and services, but more profoundly the change work has on the person. 
+
+ As John Ruskin put it, “The highest reward [or punishment] for man’s toil is not what he gets from it, but what he becomes by it.” 
+
+--- --- --- 
+
+On the Net: 
+
+ The Role of Mission-Driven Business Schools: www.stthomas.edu/becu
+   
+
+This article has been selected from the ZENIT Daily Dispatch
+ © Innovative Media, Inc. 
+
+ZENIT International News Agency
+ Via della Stazione di Ottavia, 95
+ 00165 Rome, Italy
+www.zenit.org 
+
+To subscribe http://www.zenit.org/english/subscribe.html
+or email: [email protected] with SUBSCRIBE in the "subject" field 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ "I cannot bring Christ to my neighbour and to the world if I have not first given him to my family"
+ 
+ 
+
+— Mother Angelica 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ EWTN News Sites
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News 
+ 
+
+ 
+ 
+ National Catholic Register 
+ 
+
+ 
+ 
+ ChurchPOP 
+ 
+
+ 
+ 
+ ACI Prensa 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Affiliates
+ 
+
+ 
+ 
+ 
+ 
+ Español 
+ España 
+ 
+
+ 
+ 
+ Polska 
+ 
+
+ 
+ 
+ Magyar 
+ 
+
+ 
+ 
+ Svenska 
+ 
+
+ 
+ 
+ Yкраїнська 
+ 
+
+ 
+ 
+ Deutsch 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Learn More
+ 
+
+ 
+ 
+ 
+ 
+ About 
+ Mother Angelica 
+ Press Room 
+ Employment 
+ EWTN Everywhere 
+ EWTN Apps 
+ Media Missionaries 
+ Privacy Policy 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Contact
+ 
+
+ 
+ 
+ 
+ 
+ 1-800-447-3986 
+ 5817 Old Leeds Road, Irondale, AL 35210 
+ [email protected] 
+ EIN: 63-0801391 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donate
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+## EWTN News Sites
+
+ 
+ EWTN News 
+ 
+
+ 
+ 
+ National Catholic Register 
+ 
+
+ 
+ 
+ ChurchPOP 
+ 
+
+ 
+ 
+ ACI Prensa 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Affiliates
+
+ 
+ Español 
+ España 
+ 
+
+ 
+ 
+ Polska 
+ 
+
+ 
+ 
+ Magyar 
+ 
+
+ 
+ 
+ Svenska 
+ 
+
+ 
+ 
+ Yкраїнська 
+ 
+
+ 
+ 
+ Deutsch 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Learn More
+
+ 
+ About 
+ Mother Angelica 
+ Press Room 
+ Employment 
+ EWTN Everywhere 
+ EWTN Apps 
+ Media Missionaries 
+ Privacy Policy 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Contact
+
+ 
+ 1-800-447-3986 
+ 5817 Old Leeds Road, Irondale, AL 35210 
+ [email protected] 
+ EIN: 63-0801391 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donate
+ 
+ 
+ 
+ © 2025 EWTN Inc. All Rights Reserved.
+ 
+ 
+ Privacy Policy 
+ Cookie Policy 
+ Terms and Conditions 
+ Your Privacy Choices 
+ Notice at Collection
+
+---
+
+*Source: Can Business Be Catholic? | EWTN*

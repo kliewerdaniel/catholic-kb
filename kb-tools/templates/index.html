@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Catholic Knowledge Base</title>
+<style>
+  :root {
+    --bg: #1a1a2e;
+    --surface: #16213e;
+    --surface2: #0f3460;
+    --accent: #e94560;
+    --text: #eee;
+    --text-dim: #999;
+    --border: #333;
+    --success: #4caf50;
+    --radius: 8px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); height: 100vh; display: flex; }
+
+  /* Sidebar */
+  .sidebar { width: 280px; background: var(--surface); border-right: 1px solid var(--border); display: flex; flex-direction: column; flex-shrink: 0; }
+  .sidebar-header { padding: 16px; border-bottom: 1px solid var(--border); }
+  .sidebar-header h1 { font-size: 16px; font-weight: 600; }
+  .sidebar-header p { font-size: 12px; color: var(--text-dim); margin-top: 4px; }
+  .health { padding: 12px 16px; border-bottom: 1px solid var(--border); font-size: 12px; }
+  .health-item { display: flex; align-items: center; gap: 8px; margin-bottom: 4px; }
+  .health-dot { width: 8px; height: 8px; border-radius: 50%; }
+  .health-dot.ok { background: var(--success); }
+  .health-dot.err { background: var(--accent); }
+  .doc-list { flex: 1; overflow-y: auto; padding: 8px; }
+  .doc-category { font-size: 11px; text-transform: uppercase; color: var(--text-dim); padding: 8px 8px 4px; letter-spacing: 0.5px; }
+  .doc-item { padding: 6px 8px; border-radius: 4px; font-size: 13px; cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .doc-item:hover { background: var(--surface2); }
+
+  /* Main */
+  .main { flex: 1; display: flex; flex-direction: column; }
+  .mode-bar { display: flex; gap: 8px; padding: 12px 16px; border-bottom: 1px solid var(--border); align-items: center; }
+  .mode-btn { padding: 6px 12px; border-radius: var(--radius); border: 1px solid var(--border); background: transparent; color: var(--text); font-size: 12px; cursor: pointer; }
+  .mode-btn.active { background: var(--accent); border-color: var(--accent); }
+  .mode-btn:hover { border-color: var(--accent); }
+
+  /* Chat */
+  .chat { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 16px; }
+  .msg { max-width: 85%; }
+  .msg.user { align-self: flex-end; }
+  .msg.assistant { align-self: flex-start; }
+  .msg-bubble { padding: 12px 16px; border-radius: var(--radius); line-height: 1.6; font-size: 14px; }
+  .msg.user .msg-bubble { background: var(--accent); color: white; }
+  .msg.assistant .msg-bubble { background: var(--surface); border: 1px solid var(--border); }
+  .msg-bubble p { margin-bottom: 8px; }
+  .msg-bubble p:last-child { margin-bottom: 0; }
+  .msg-bubble strong { color: #fff; }
+  .msg-bubble em { color: var(--text-dim); font-style: italic; }
+  .msg-bubble code { background: rgba(255,255,255,0.1); padding: 2px 4px; border-radius: 3px; font-size: 13px; }
+
+  /* Sources panel */
+  .sources { margin-top: 8px; padding: 8px 12px; background: rgba(15,52,96,0.5); border-radius: var(--radius); border: 1px solid var(--border); }
+  .sources-title { font-size: 11px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 6px; letter-spacing: 0.5px; }
+  .source-item { font-size: 12px; color: var(--text-dim); padding: 2px 0; }
+  .source-item span { color: var(--text); }
+
+  /* Input */
+  .input-bar { padding: 16px; border-top: 1px solid var(--border); display: flex; gap: 8px; }
+  .input-bar textarea { flex: 1; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 14px; color: var(--text); font-size: 14px; font-family: inherit; resize: none; min-height: 44px; max-height: 120px; }
+  .input-bar textarea:focus { outline: none; border-color: var(--accent); }
+  .input-bar button { padding: 10px 20px; background: var(--accent); border: none; border-radius: var(--radius); color: white; font-size: 14px; cursor: pointer; font-weight: 500; }
+  .input-bar button:hover { opacity: 0.9; }
+  .input-bar button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  .typing { display: inline-block; }
+  .typing::after { content: '▊'; animation: blink 1s infinite; }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+  .welcome { text-align: center; color: var(--text-dim); padding: 60px 20px; }
+  .welcome h2 { font-size: 20px; margin-bottom: 8px; color: var(--text); }
+  .welcome p { font-size: 14px; line-height: 1.6; }
+
+  @media (max-width: 768px) {
+    .sidebar { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <div class="sidebar-header">
+    <h1>Catholic Knowledge Base</h1>
+    <p>212 documents &middot; 13K chunks</p>
+  </div>
+  <div class="health" id="health">
+    <div class="health-item"><div class="health-dot" id="dot-ollama"></div><span>Checking...</span></div>
+  </div>
+  <div class="doc-list" id="doc-list"></div>
+</div>
+
+<div class="main">
+  <div class="mode-bar">
+    <span style="font-size:12px;color:var(--text-dim)">Mode:</span>
+    <button class="mode-btn active" data-mode="auto">Auto</button>
+    <button class="mode-btn" data-mode="semantic">Semantic</button>
+    <button class="mode-btn" data-mode="keyword">Keyword</button>
+    <button class="mode-btn" data-mode="scripture">Scripture</button>
+    <button class="mode-btn" data-mode="ccc">CCC</button>
+    <button class="mode-btn" data-mode="canon">Canon</button>
+  </div>
+
+  <div class="chat" id="chat">
+    <div class="welcome">
+      <h2>Catholic Knowledge Base</h2>
+      <p>Ask questions about Catholic doctrine, Scripture, the Catechism, Canon Law, Church Fathers, and Magisterial documents.<br><br>
+      Try: <em>"What does CCC say about the Eucharist?"</em> or <em>"John 6:53"</em> or <em>"real presence"</em></p>
+    </div>
+  </div>
+
+  <div class="input-bar">
+    <textarea id="input" placeholder="Ask a question..." rows="1"></textarea>
+    <button id="send-btn" onclick="send()">Ask</button>
+  </div>
+</div>
+
+<script>
+let currentMode = 'auto';
+let isStreaming = false;
+
+// Mode buttons
+document.querySelectorAll('.mode-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    currentMode = btn.dataset.mode;
+  });
+});
+
+// Auto-resize textarea
+const input = document.getElementById('input');
+input.addEventListener('input', () => {
+  input.style.height = 'auto';
+  input.style.height = Math.min(input.scrollHeight, 120) + 'px';
+});
+input.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    send();
+  }
+});
+
+// Health check
+async function checkHealth() {
+  try {
+    const r = await fetch('/api/health');
+    const d = await r.json();
+    const dot = document.getElementById('dot-ollama');
+    const container = document.getElementById('health');
+    dot.className = 'health-dot ' + (d.ollama ? 'ok' : 'err');
+    container.innerHTML = `
+      <div class="health-item"><div class="health-dot ${d.ollama ? 'ok' : 'err'}"></div><span>Ollama ${d.ollama ? 'connected' : 'offline'}</span></div>
+      <div class="health-item"><div class="health-dot ${d.has_chat_model ? 'ok' : 'err'}"></div><span>Chat: ${d.has_chat_model ? 'ready' : 'missing'}</span></div>
+      <div class="health-item"><div class="health-dot ${d.has_embed_model ? 'ok' : 'err'}"></div><span>Embed: ${d.has_embed_model ? 'ready' : 'missing'}</span></div>
+      <div class="health-item"><div class="health-dot ${d.has_embeddings ? 'ok' : 'err'}"></div><span>Index: ${d.documents} docs</span></div>
+    `;
+  } catch(e) {}
+}
+
+// Load document list
+async function loadDocs() {
+  try {
+    const r = await fetch('/api/documents');
+    const d = await r.json();
+    const list = document.getElementById('doc-list');
+    const cats = {};
+    d.documents.forEach(doc => {
+      const cat = doc.category;
+      if (!cats[cat]) cats[cat] = [];
+      cats[cat].push(doc);
+    });
+    let html = '';
+    const catNames = {scripture:'Scripture',magisterium:'Magisterium',canonlaw:'Canon Law',liturgy:'Liturgy',fathers:'Church Fathers',doctorate:'Doctors','social-teaching':'Social Teaching',mariology:'Mariology'};
+    for (const [cat, docs] of Object.entries(cats)) {
+      html += `<div class="doc-category">${catNames[cat] || cat} (${docs.length})</div>`;
+      docs.forEach(doc => {
+        html += `<div class="doc-item" title="${doc.title}" onclick="askAbout('${doc.id}')">${doc.title}</div>`;
+      });
+    }
+    list.innerHTML = html;
+  } catch(e) {}
+}
+
+function askAbout(docId) {
+  input.value = `Tell me about ${docId}`;
+  input.focus();
+}
+
+function addMessage(role, content, sources) {
+  const chat = document.getElementById('chat');
+  // Remove welcome message
+  const welcome = chat.querySelector('.welcome');
+  if (welcome) welcome.remove();
+
+  const msg = document.createElement('div');
+  msg.className = `msg ${role}`;
+
+  let html = `<div class="msg-bubble">${content}</div>`;
+
+  if (sources && sources.length > 0) {
+    html += `<div class="sources"><div class="sources-title">Sources</div>`;
+    sources.forEach(s => {
+      const label = s.section || s.doc_id;
+      const sim = s.similarity ? ` (${s.similarity})` : '';
+      html += `<div class="source-item"><span>${label}</span>${sim}</div>`;
+    });
+    html += `</div>`;
+  }
+
+  msg.innerHTML = html;
+  chat.appendChild(msg);
+  chat.scrollTop = chat.scrollHeight;
+  return msg;
+}
+
+async function send() {
+  const question = input.value.trim();
+  if (!question || isStreaming) return;
+
+  isStreaming = true;
+  document.getElementById('send-btn').disabled = true;
+  input.value = '';
+  input.style.height = 'auto';
+
+  addMessage('user', question);
+
+  // Create placeholder for streaming response
+  const assistantMsg = addMessage('assistant', '<span class="typing"></span>');
+
+  try {
+    const response = await fetch('/api/query-stream', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question, mode: currentMode }),
+    });
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+    let fullText = '';
+    let sources = [];
+    let buffer = '';
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+
+      buffer += decoder.decode(value, { stream: true });
+      const lines = buffer.split('\n');
+      buffer = lines.pop(); // Keep incomplete line in buffer
+
+      for (const line of lines) {
+        if (!line.startsWith('data: ')) continue;
+        try {
+          const data = JSON.parse(line.slice(6));
+          if (data.type === 'sources') {
+            sources = data.sources;
+          } else if (data.type === 'token') {
+            fullText += data.content;
+            const bubble = assistantMsg.querySelector('.msg-bubble');
+            bubble.innerHTML = formatText(fullText) + '<span class="typing"></span>';
+          } else if (data.type === 'done') {
+            const bubble = assistantMsg.querySelector('.msg-bubble');
+            bubble.innerHTML = formatText(fullText);
+            // Add sources
+            if (sources.length > 0) {
+              let srcHtml = `<div class="sources"><div class="sources-title">Sources</div>`;
+              sources.forEach(s => {
+                const label = s.section || s.doc_id;
+                const sim = s.similarity ? ` (${s.similarity})` : '';
+                srcHtml += `<div class="source-item"><span>${label}</span>${sim}</div>`;
+              });
+              srcHtml += `</div>`;
+              assistantMsg.insertAdjacentHTML('beforeend', srcHtml);
+            }
+          }
+        } catch(e) {}
+      }
+    }
+  } catch(e) {
+    const bubble = assistantMsg.querySelector('.msg-bubble');
+    bubble.innerHTML = `Error: ${e.message}`;
+  }
+
+  isStreaming = false;
+  document.getElementById('send-btn').disabled = false;
+  document.getElementById('chat').scrollTop = document.getElementById('chat').scrollHeight;
+}
+
+function formatText(text) {
+  // Simple markdown-like formatting
+  return text
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/`(.+?)`/g, '<code>$1</code>')
+    .replace(/\n/g, '<br>');
+}
+
+// Init
+checkHealth();
+loadDocs();
+setInterval(checkHealth, 30000);
+</script>
+</body>
+</html>

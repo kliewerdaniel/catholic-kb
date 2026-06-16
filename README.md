@@ -1,135 +1,184 @@
-# Catholic Knowledge Base — Tauri App
+# Universal Knowledge Base
 
-A local-first Catholic knowledge base with AI-powered Q&A. Built with Tauri, Rust, and vanilla JavaScript.
+> Spec-driven knowledge base system. Define what you know in an `.sspec` file, run `start.sh`, get a searchable, embeddable, web-UI-equipped knowledge base.
 
-## Features
+## What It Does
 
-- **Knowledge Base Browser**: Browse 212+ Catholic documents (Scripture, Catechism, Canon Law, Church Fathers, Magisterial documents)
-- **Multiple Search Modes**: Auto, Semantic, Keyword, Scripture, CCC, Canon Law
-- **AI-Powered Q&A**: Ask questions and get sourced answers with citations
-- **Dark/Light Theme**: Toggle between themes
-- **Chat History**: Persistent conversation history
-- **Document Viewer**: Read documents inline with markdown rendering
-- **Keyboard Shortcuts**: Ctrl+K search, Ctrl+/ shortcuts, number keys for modes
-- **Responsive**: Works on desktop and mobile
+Takes a collection of markdown documents and an `.sspec` configuration file, then builds:
 
-## Prerequisites
+- **Chunked document index** — documents split into ~2000-token searchable pieces
+- **Semantic embeddings** — vector search via Ollama (nomic-embed-text)
+- **Topic index** — documents mapped to configurable topics
+- **Cross-reference graph** — citation links between documents
+- **Web UI** — chat interface with streaming LLM responses
+- **CLI tools** — search, query, research briefs
 
-- [Node.js](https://nodejs.org/) 18+
-- [Rust](https://rustup.rs/) (latest stable)
-- [Tauri CLI](https://tauri.app/): `npm install -g @tauri-apps/cli`
-- [Ollama](https://ollama.ai/) running locally (for LLM features)
+Everything runs locally. No cloud APIs.
 
 ## Quick Start
 
 ```bash
-# 1. Install frontend dependencies
-cd catholic-kb
-npm install
+# 1. Copy start.sh and the example spec to your project
+cp start.sh ex.sspec ~/my-kb/
+cd ~/my-kb
 
-# 2. Start in development mode
-npm run tauri dev
+# 2. Add your markdown documents
+mkdir -p sources
+cp /path/to/your/docs/*.md sources/
 
-# 3. Build for production
-npm run tauri build
+# 3. Edit the spec to match your domain
+vim ex.sspec
+
+# 4. Build
+./start.sh ex.sspec
+
+# 5. Search
+python3 kb-tools/search.py "your query"
+
+# 6. Web UI
+python3 kb-tools/server.py
+# Open http://localhost:8080
 ```
 
-## Data Setup
+## The .sspec File
 
-The app needs the knowledge base data from the parent project. Run the compression script:
+The spec file defines your knowledge base. Format: `[sections]` with `key: value` pairs.
+
+```ini
+[kb]
+name: My Project Docs
+description: Technical documentation for my project.
+
+[sources]
+dir: ./sources          # Directory of .md files (recursively scanned)
+
+[categories]
+default: chapter        # Chunking strategy: chapter, section, paragraph, file, none
+
+[topics]
+architecture = architecture, design, components, system
+api = api, endpoint, rest, graphql, interface
+deployment = deploy, server, infrastructure, hosting
+
+[references]
+# Cross-reference patterns (regex)
+# issue = #(?P<id>\d+)
+# doc = doc:(?P<id>[\w-]+)
+
+[llm]
+system_prompt: >
+  You are a research assistant for "{kb_name}".
+  Answer questions using the provided document excerpts.
+  Every claim must cite its source.
+embed_model: nomic-embed-text
+
+[web]
+port: 8080
+
+[build]
+skip_embeddings: false
+```
+
+See [`ex.sspec`](ex.sspec) for the full annotated template.
+
+## start.sh Options
 
 ```bash
-cd build-data
-python3 compress-data.py --source-dir /path/to/money01 --output-dir ../resources
+./start.sh <spec.sspec>              # Build from scratch
+./start.sh <spec.sspec> --serve      # Build + start web UI
+./start.sh <spec.sspec> --rebuild    # Rebuild indexes (skip source import)
+./start.sh <spec.sspec> --no-embed   # Skip embedding generation
+./start.sh <spec.sspec> --port 3000  # Custom web UI port
 ```
 
-This creates:
-- `resources/kbmd.tar.zst` — Compressed markdown documents
-- `resources/kb-index.tar.zst` — Compressed metadata indexes
-- `resources/chunk-embeddings.bin.zst` — Pre-computed vector embeddings
+## What Gets Built
 
-## LLM Setup
+```
+your-project/
+├── sources/               # Your input markdown files
+├── kbmd/                  # Organized copy of sources (auto-generated)
+├── kb-config.json         # Runtime config (name, paths, prompt)
+├── kb-topics.json         # Topic definitions from spec
+├── kb-index/              # All generated indexes
+│   ├── catalog.json       # Document metadata
+│   ├── chunks/            # Chunked documents (JSONL)
+│   ├── embeddings/        # Vector index (index.bin + chunks.json)
+│   ├── topic-index.json   # Topic → document mapping
+│   ├── cross-references.json
+│   ├── scripture-refs.json
+│   ├── ccc-refs.json
+│   └── canon-refs.json
+└── kb-tools/              # Query tools (copied from money01)
+    ├── engine.py          # Shared query engine
+    ├── server.py          # Flask web server
+    ├── templates/index.html
+    ├── search.py          # CLI search
+    ├── query.py           # CLI research
+    ├── build-indexes.py   # Master builder
+    ├── build-catalog.py
+    ├── build-chunks.py
+    ├── build-embeddings.py
+    ├── build-cross-refs.py
+    ├── build-topic-index.py
+    └── extract-refs.py
+```
 
-The app connects to Ollama for AI features. Install and start Ollama:
+## CLI Usage
 
 ```bash
-# Install Ollama
-curl -fsSL https://ollama.ai/install.sh | sh
+# Search
+python3 kb-tools/search.py "keyword query"
+python3 kb-tools/search.py --mode semantic "conceptual query"
+python3 kb-tools/search.py --mode keyword --category docs "specific term"
 
-# Pull required models
-ollama pull qwen2.5-coder:32b    # Chat model
-ollama pull nomic-embed-text      # Embedding model
+# Research
+python3 kb-tools/query.py "What is the architecture of X?"
+python3 kb-tools/query.py --compare "How do A and B differ?"
 
-# Start Ollama
-ollama serve
+# Rebuild indexes
+python3 kb-tools/build-indexes.py
+python3 kb-tools/build-indexes.py --index topic
+python3 kb-tools/build-indexes.py --skip-embeddings
 ```
 
-## Project Structure
-
-```
-catholic-kb/
-├── src/                    # Frontend (HTML/CSS/JS)
-│   ├── index.html
-│   ├── main.js
-│   ├── styles/             # CSS modules
-│   └── lib/                # JavaScript modules
-├── src-tauri/              # Rust backend
-│   ├── src/
-│   │   ├── engine/         # Knowledge engine
-│   │   ├── commands/       # Tauri commands
-│   │   └── lib.rs          # App entry
-│   └── tauri.conf.json
-├── resources/              # Bundled data
-└── build-data/             # Build scripts
-```
-
-## Keyboard Shortcuts
-
-| Shortcut | Action |
-|----------|--------|
-| `Enter` | Send message |
-| `Shift+Enter` | New line |
-| `Ctrl+K` / `Cmd+K` | Focus document search |
-| `Ctrl+/` / `Cmd+/` | Show shortcuts |
-| `Escape` | Close panel/modal |
-| `1-6` | Switch search mode |
-
-## Development
+## Web UI
 
 ```bash
-npm run tauri dev        # Start dev server with hot reload
-npm run tauri build      # Build production binaries
+python3 kb-tools/server.py --port 8080
 ```
 
-## Installation (macOS)
+Features:
+- Streaming chat responses
+- Mode selector (Auto / Semantic / Keyword)
+- Source panel with citations
+- Document browser
 
-The app is not code-signed, so macOS will block it after download. To fix:
-
-1. Download the `.dmg` for your architecture:
-   - **Apple Silicon** (M1/M2/M3/M4): `Catholic Knowledge Base_1.0.0_aarch64.dmg`
-   - **Intel**: `Catholic Knowledge Base_1.0.0_x64.dmg`
-2. Open the DMG and drag the app to Applications
-3. **Before opening**, run this in Terminal:
-   ```bash
-   xattr -cr "/Applications/Catholic Knowledge Base.app"
-   ```
-4. Open the app normally
-
-## Building for Distribution
+## MCP Server
 
 ```bash
-# macOS
-npm run tauri build -- --bundles dmg
-
-# Windows
-npm run tauri build -- --bundles nsis
-
-# Linux
-npm run tauri build -- --bundles appimage deb
+# Add to your MCP client config:
+python3 kb-tools/mcp_server.py
 ```
 
-Output: `src-tauri/target/release/bundle/`
+Tools: `search_knowledge`, `query_knowledge`, `get_sources`, `list_documents`
 
-## License
+## Dependencies
 
-Private — Catholic Knowledge Base
+| Tool | Purpose | Install |
+|------|---------|---------|
+| Python 3.8+ | All scripts | System |
+| Ollama | LLM + embeddings | `brew install ollama` |
+| nomic-embed-text | Embeddings | `ollama pull nomic-embed-text` |
+| flask | Web server | `pip install flask` |
+| numpy | Embedding math | `pip install numpy` |
+
+## Constraints
+
+1. Sources must be markdown (`.md`) files
+2. Local-only — no cloud APIs
+3. All indexes are derived — regenerate from sources anytime
+4. Same input produces same output
+
+## For Coding Agents
+
+See [`SKILL.md`](SKILL.md) for the agent-facing reference guide.

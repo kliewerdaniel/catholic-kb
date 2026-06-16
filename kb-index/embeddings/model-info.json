@@ -1,0 +1,7 @@
+{
+  "model": "nomic-embed-text",
+  "dimensions": 768,
+  "total_chunks": 13084,
+  "generated": "2026-06-15T18:19:10.146805+00:00",
+  "max_embed_chars": 6000
+}

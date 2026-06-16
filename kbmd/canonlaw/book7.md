@@ -1,0 +1,1572 @@
+---
+title: "Book VII: Processes"
+source: "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html"
+category: canonlaw
+ingested: 2026-06-15T17:16:20.040413+00:00
+---
+
+# Book VII: Processes
+
+*Code of Canon Law (1983), Canons 1400-1752*
+
+**Can. 1400**
+  §1. The object of a trial is:
+
+1. the pursuit or vindication of the rights of physical or juridic persons, or the declaration of juridic facts;
+
+2. the imposition or declaration of a penalty for delicts.
+
+  §2. Nevertheless, controversies arising from an act of administrative power can be brought only before the superior or an administrative tribunal.
+
+**Can. 1401** By proper and exclusive right the Church adjudicates:
+
+1. cases which regard spiritual matters or those connected to spiritual matters;
+
+2. the violation of ecclesiastical laws and all those matters in which there is a question of sin, in what pertains to the determination of culpability and the imposition of ecclesiastical penalties.
+
+**Can. 1402** The following canons govern all tribunals of the Church, without prejudice to the norms of the tribunals of the Apostolic See.
+
+**Can. 1403**
+  §1. Special pontifical law governs the causes of canonization of the servants of God.
+
+  §2. The prescripts of this Code, however, apply to these causes whenever the special pontifical law refers to the universal law, or norms are involved which also affect these causes by the very nature of the matter.
+
+**Can. 1404** The First See is judged by no one.
+
+**Can. 1405**
+  §1. It is solely the right of the Roman Pontiff himself to judge in the cases mentioned in  can. 1401:
+
+1. those who hold the highest civil office of a state;
+
+2. cardinals;
+
+3. legates of the Apostolic See and, in penal cases, bishops;
+
+4. other cases which he has called to his own judgment.
+
+  §2. A judge cannot review an act or instrument confirmed specifically (*in forma specifica*) by the Roman Pontiff without his prior mandate.
+
+  §3. Judgment of the following is reserved to the Roman Rota:
+
+1. bishops in contentious matters, without prejudice to the prescript of  can. 1419, Â§2;
+
+2. an abbot primate or abbot superior of a monastic congregation and a supreme moderator of religious institutes of pontifical right;
+
+3. dioceses or other physical or juridic ecclesiastical persons which do not have a superior below the Roman Pontiff.
+
+**Can. 1406**
+  §1. If the prescript of  can. 1404 is violated, the acts and decisions are considered as not to have been placed.
+
+  §2. In the cases mentioned in  can. 1405, the incompetence of other judges is absolute.
+
+**Can. 1407**
+  §1. No one can be brought to trial in first instance except before an ecclesiastical judge who is competent by reason of one of the titles determined in cann. 1408-1414.
+
+  §2. The incompetence of a judge supported by none of these titles is called relative.
+
+  §3. The petitioner follows the forum of the respondent. If the respondent has more than one forum, the choice of forum is granted to the petitioner.
+
+**Can. 1408** Anyone can be brought to trial before the tribunal of domicile or quasi-domicile.
+
+**Can. 1409**
+  §1. A transient has a forum in the place of his or her actual residence.
+
+  §2. A person whose domicile, quasi-domicile, and place of residence are unknown can be brought to trial in the forum of the petitioner provided that no other legitimate forum is available.
+
+**Can. 1410** By reason of the location of an object, a party can be brought to trial before the tribunal of the place where the object in dispute is located whenever the action is directed against the object or concerns damages.
+
+**Can. 1411**
+  §1. By reason of a contract, a party can be brought to trial before the tribunal of the place where the contract was entered into or must be fulfilled unless the parties agree to choose some other tribunal.
+
+  §2. If the case concerns obligations which originate from another title, a party can be brought to trial before the tribunal of the place where the obligation either originated or must be fulfilled.
+
+**Can. 1412** In penal cases the accused, even if absent, can be brought to trial before the tribunal of the place where the delict was committed.
+
+**Can. 1413** A party can be brought to trial:
+
+1. in cases which concern administration, before the tribunal of the place where the administration was conducted;
+
+2. in cases which regard inheritances or pious legacies, before the tribunal of the last domicile, quasi-domicile, or place of residence, according to the norm of  cann. 1408-1409, of the one whose inheritance or pious legacy is at issue unless it concerns the mere execution of the legacy, which must be examined according to the ordinary norms of competence.
+
+**Can. 1414** By reason of connection, interconnected cases must be adjudicated by one and the same tribunal in the same process unless a prescript of law prevents this.
+
+**Can. 1415** By reason of prevention, if two or more tribunals are equally competent, the right of adjudicating the case belongs to the one which legitimately cited the respondent first.
+
+**Can. 1416** The appellate tribunal resolves conflicts of competence between tribunals subject to it; if the tribunals are not subject to the same appellate tribunal, the Apostolic Signatura resolves conflicts of competence.
+
+**Can. 1417**
+  §1. By reason of the primacy of the Roman Pontiff, any member of the faithful is free to bring or introduce his or her own contentious or penal case to the Holy See for adjudication in any grade of a trial and at any stage of the litigation.
+
+  §2. Recourse brought to the Apostolic See, however, does not suspend the exercise of jurisdiction by a judge who has already begun to adjudicate a case except in the case of an appeal. For this reason, the judge can prosecute a trial even to the definitive sentence unless the Apostolic See has informed the judge that it has called the case to itself.
+
+**Can. 1418** Any tribunal has the right to call upon the assistance of another tribunal to instruct a case or to communicate acts.
+
+**Can. 1419**
+  §1. In each diocese and for all cases not expressly excepted by law, the judge of first instance is the diocesan bishop, who can exercise judicial power personally or through others according to the following canons.
+
+  §2. If a case concerns the rights or temporal goods of a juridic person represented by the bishop, the appellate tribunal judges in first instance.
+
+**Can. 1420**
+  §1. Each diocesan bishop is bound to appoint a judicial vicar, or offcialis, with ordinary power to judge, distinct from the vicar general unless the small size of the diocese or the small number of cases suggests otherwise.
+
+  §2. The judicial vicar constitutes one tribunal with the bishop but cannot judge cases which the bishop reserves to himself.
+
+  §3. The judicial vicar can be given assistants who are called adjutant judicial vicars, or vice-officiales.
+
+  §4. Both the judicial vicar and adjutant judicial vicars must be priests, of unimpaired reputation, doctors or at least licensed in canon law, and not less than thirty years of age.
+
+  §5. When the see is vacant, they do not cease from their function and cannot be removed by the diocesan administrator; when the new bishop arrives, however, they need confirmation.
+
+**Can. 1421**
+  §1. In a diocese, the bishop is to appoint diocesan judges, who are to be clerics.
+
+  §2. The conference of bishops can also permit the appointment of lay persons as judges; when it is necessary, one of them can be selected to form a college.
+
+  §3. Judges are to be of unimpaired reputation and doctors or at least licensed in canon law.
+
+**Can. 1422** The judicial vicar, adjutant judicial vicars, and other judges are appointed for a definite time, without prejudice to the prescript of  can. 1420, Â§5 and cannot be removed except for a legitimate and grave cause.
+
+**Can. 1423**
+  §1. With the approval of the Apostolic See, several diocesan bishops can agree to establish a single tribunal of first instance for their dioceses in place of the diocesan tribunals mentioned in cann. 1419-1421. In this case, the group of bishops or a bishop they designate has all the powers which a diocesan bishop has over his own tribunal.
+
+  §2. The tribunals mentioned in Â§1 can be established either for any cases whatsoever or only for certain types of cases.
+
+**Can. 1424** In any trial, a single judge can employ two assessors who consult with him; they are to be clerics or lay persons of upright life.
+
+**Can. 1425**
+  §1. With every contrary custom reprobated, the following cases are reserved to a collegiate tribunal of three judges:
+
+1. contentious cases: a) concerning the bond of sacred ordination; b) concerning the bond of marriage, without prejudice to the prescripts of cann.  1686 and 1688;
+
+2. penal cases: a) concerning delicts which can entail the penalty of dismissal from the clerical state; b) concerning the imposition or declaration of an excommunication.
+
+  §2. The bishop can entrust more difficult cases or those of greater importance to the judgment of three or five judges.
+
+  §3. Unless the bishop establishes otherwise in individual cases, the judicial vicar is to assign the judges in order by turn to adjudicate individual cases.
+
+  §4. If it happens that a collegiate tribunal cannot be established in the first instance of a trial, the conference of bishops can permit the bishop, for as long as the impossibility continues, to entrust cases to a single clerical judge who is to employ an assessor and auditor where possible.
+
+  §5. The judicial vicar is not to substitute judges once they have been assigned except for a most grave cause expressed in a decree.
+
+**Can. 1426**
+  §1. A collegiate tribunal must proceed collegially and render its sentences by majority vote.
+
+  §2. The judicial vicar or an adjutant judicial vicar must preside over a collegiate tribunal insofar as possible.
+
+**Can. 1427**
+  §1. If there is a controversy between religious or houses of the same clerical religious institute of pontifical right, the judge of first instance is the provincial superior unless the constitutions provide otherwise; if it is an autonomous monastery, the local abbot judges in first instance.
+
+  §2. Without prejudice to a different prescript of the constitutions, if a contentious matter arises between two provinces, the supreme moderator will judge in first instance either personally or through a delegate; if the controversy is between two monasteries, the abbot superior of the monastic congregation will judge in first instance.
+
+  §3. Finally, if the controversy arises between physical or juridic religious persons of different religious institutes or of the same clerical institute of diocesan right or of the same lay institute, or between a religious and a secular cleric or lay person or a non-religious juridic person, the diocesan tribunal judges in first instance.
+
+**Can. 1428**
+  §1. The judge or the president of a collegiate tribunal can designate an auditor, selected either from the judges of the tribunal or from persons the bishop approves for this function, to instruct the case.
+
+  §2. The bishop can approve for the function of auditor clerics or lay persons outstanding for their good character, prudence, and doctrine.
+
+  §3. It is for the auditor, according to the mandate of the judge, only to collect the proofs and hand those collected over to the judge. Unless the mandate of the judge prevents it, however, the auditor can in the meantime decide what proofs are to be collected and in what manner if a question may arise about this while the auditor exercises his or her function.
+
+**Can. 1429** The president of a collegiate tribunal must designate one of the judges of the college as the ponens or relator who is to report about the case at the meeting of the judges and put the sentence into writing. For a just cause the president can substitute another in place of the original relator.
+
+**Can. 1430** A promoter of justice is to be appointed in a diocese for contentious cases which can endanger the public good and for penal cases; the promoter of justice is bound by office to provide for the public good.
+
+**Can. 1431**
+  §1. In contentious cases, it is for the diocesan bishop to judge whether or not the public good can be endangered unless the intervention of the promoter of justice is prescribed by law or is clearly necessary from the nature of the matter.
+
+  §2. If the promoter of justice has intervened in a previous instance, such intervention is presumed necessary in a further instance.
+
+**Can. 1432** A defender of the bond is to be appointed in a diocese for cases concerning the nullity of sacred ordination or the nullity or dissolution of a marriage; the defender of the bond is bound by office to propose and explain everything which reasonably can be brought forth against nullity or dissolution.
+
+**Can. 1433** If the promoter of justice or defender of the bond was not cited in cases which require their presence, the acts are invalid unless they actually took part even if not cited or, after they have inspected the acts, at least were able to fulfill their function before the sentence.
+
+**Can. 1434** Unless other provision is expressly made:
+
+1. whenever the law requires the judge to hear either both or one of the parties, the promoter of justice and the defender of the bond must also be heard if they take part in the trial;
+
+2. whenever the request of a party is required in order for the judge to be able to decide something, the request of the promoter of justice or defender of the bond who takes part in the trial has the same force.
+
+**Can. 1435** It is for the bishop to appoint the promoter of justice and defender of the bond; they are to be clerics or lay persons, of unimpaired reputation, doctors or licensed in canon law, and proven in prudence and zeal for justice.
+
+**Can. 1436**
+  §1. The same person can hold the office of promoter of justice and defender of the bond but not in the same case.
+
+  §2. The promoter and the defender can be appointed for all cases or for individual cases; however, the bishop can remove them for a just cause.
+
+**Can. 1437**
+  §1. A notary is to take part in any process, so much so that the acts are null if the notary has not signed them.
+
+  §2. Acts which notaries prepare warrant public trust.
+
+**Can. 1438** Without prejudice to the prescript of can. 1444, Â§1, n. 1:
+
+1. from the tribunal of a suffragan bishop, appeal is made to the metropolitan tribunal, without prejudice to the prescript of can. 1439;
+
+2. in cases tried in first instance before the metropolitan, appeal is made to the tribunal which the metropolitan has designated in a stable manner with the approval of the Apostolic See;
+
+3. for cases tried before a provincial superior, the tribunal of second instance is under the authority of the supreme moderator; for cases tried before the local abbot, the tribunal of second instance is under the authority of the abbot superior of the monastic congregation.
+
+**Can. 1439**
+  §1. If a single tribunal of first instance has been established for several dioceses according to the norm of Can.  1423, the conference of bishops must establish a tribunal of second instance with the approval of the Apostolic See unless the dioceses are all suffragan of the same archdiocese.
+
+  §2. With the approval of the Apostolic See, a conference of bishops can establish one or more tribunals of second instance in addition to the cases mentioned in Â§1.
+
+  §3. Over the tribunals of second instance mentioned in Â§Â§1-2, the conference of bishops or the bishop it designates has all the powers which a diocesan bishop has over his own tribunal.
+
+**Can. 1440** If competence by reason of grade according to the norm of cann.  1438 and 1439 is not observed, the incompetence of the judge is absolute.
+
+**Can. 1441** The tribunal of second instance must be established in the same way as the tribunal of first instance.
+
+Nevertheless, if a single judge rendered a sentence in the first instance of the trial according to  can. 1425,Â§4, the tribunal of second instance is to proceed collegially.
+
+**Can. 1442** The Roman Pontiff is the supreme judge for the entire Catholic world; he renders judicial decisions personally, through the ordinary tribunals of the Apostolic See, or through judges he has delegated.
+
+**Can. 1443** The Roman Rota is the ordinary tribunal established by the Roman Pontiff to receive appeals.
+
+**Can. 1444**
+  §1. The Roman Rota judges:
+
+1. in second instance, cases which have been adjudicated by the ordinary tribunals of first instance and brought before the Holy See through legitimate appeal;
+
+2. in third or further instance, cases which the Roman Rota or any other tribunals have already adjudicated unless the matter is a *res iudicata*.
+
+  §2. This tribunal also judges in first instance the cases mentioned in  can. 1405, Â§3 and others which the Roman Pontiff, either *motu proprio *or at the request of the parties, has called to his own tribunal and entrusted to the Roman Rota; unless the rescript entrusting the function provides otherwise, the Rota also judges these cases in second and further instance.
+
+**Can. 1445**
+  §1. The supreme tribunal of the Apostolic Signatura adjudicates:
+
+1. complaints of nullity, petitions for *restitutio in integrum *and other recourses against rotal sentences;
+
+2. recourses in cases concerning the status of persons which the Roman Rota refused to admit to a new examination;
+
+3. exceptions of suspicion and other cases against the auditors of the Roman Rota for acts done in the exercise of their function;
+
+4. conflicts of competence mentioned in can. 1416.
+
+  §2. This tribunal deals with conflicts which have arisen from an act of ecclesiastical administrative power and are brought before it legitimately, with other administrative controversies which the Roman Pontiff or the dicasteries of the Roman Curia bring before it, and with a conflict of competence among these dicasteries.
+
+  §3. Furthermore it is for this supreme tribunal:
+
+1. to watch over the correct administration of justice and discipline advocates or procurators if necessary;
+
+2. to extend the competence of tribunals;
+
+3. to promote and approve the erection of the tribunals mentioned in cann.  1423 and 1439.
+
+**Can. 1446**
+  §1. All the Christian faithful, and especially bishops, are to strive diligently to avoid litigation among the people of God as much as possible, without prejudice to justice, and to resolve litigation peacefully as soon as possible.
+
+  §2. Whenever the judge perceives some hope of a favorable outcome at the start of litigation or even at any other time, the judge is not to neglect to encourage and assist the parties to collaborate in seeking an equitable solution to the controversy and to indicate to them suitable means to this end, even by using reputable persons for mediation.
+
+  §3. If the litigation concerns the private good of the parties, the judge is to discern whether the controversy can be concluded advantageously by an agreement or the judgment of arbitrators according to the norm of  cann. 1713-1716.
+
+**Can. 1447** A person who has taken part in a case as a judge, promoter of justice, defender of the bond, procurator, advocate, witness, or expert cannot later in another instance validly decide the same case as judge or perform the function of assessor.
+
+**Can. 1448**
+  §1. A judge is not to undertake the adjudication of a case in which the judge is involved by reason of consanguinity or affinity in any degree of the direct line and up to the fourth degree of the collateral line or by reason of trusteeship, guardianship, close acquaintance, great animosity, the making of a profit, or the avoidance of a loss.
+
+  §2. In these circumstances the promoter of justice, the defender of the bond, the assessor, and the auditor must abstain from their office.
+
+**Can. 1449**
+  §1. If in the cases mentioned in can. 1448 the judge does not withdraw, a party can lodge an objection against the judge.
+
+  §2. The judicial vicar deals with the objection; if the objection is lodged against him, the bishop who presides over the tribunal deals with it.
+
+  §3. If the bishop is the judge and the objection is lodged against him, he is to abstain from judging.
+
+  §4. If the objection is lodged against the promoter of justice, the defender of the bond, or other officials of the tribunal, the president in a collegiate tribunal or the single judge deals with this exception.
+
+**Can. 1450** If the objection is accepted, the persons must be changed but not the grade of the trial.
+
+**Can. 1451**
+  §1. The question of an objection must be decided as promptly as possible (*expeditissime*) after the parties have been heard as well as the promoter of justice or defender of the bond, if they take part in the trial and are not the ones against whom the objection has been lodged.
+
+  §2. Acts placed by a judge before an objection is lodged are valid; nevertheless, those acts placed after the objection has been lodged must be rescinded if a party requests it within ten days from the acceptance of the objection.
+
+**Can. 1452**
+  §1. In a matter which concerns private persons alone, a judge can proceed only at the request of a party.
+
+Once a case has been legitimately introduced, however, the judge can and must proceed even ex officio in penal cases and other cases which regard the public good of the Church or the salvation of souls.
+
+  §2. Furthermore, the judge can supply for the negligence of the parties in furnishing proofs or in lodging exceptions whenever the judge considers it necessary in order to avoid a gravely unjust judgment, without prejudice to the prescripts of  can. 1600.
+
+**Can. 1453** Without prejudice to justice, judges and tribunals are to take care that all cases are completed as soon as possible and that in a tribunal of first instance they are not prolonged beyond a year and in a tribunal of second instance beyond six months.
+
+**Can. 1454** All who constitute a tribunal or assist it must take an oath to carry out their function correctly and faithfully.
+
+**Can. 1455**
+  §1. Judges and tribunal personnel are always bound to observe secrecy of office in a penal trial, as well as in a contentious trial if the revelation of some procedural act could bring disadvantage to the parties.
+
+  §2. They are also always bound to observe secrecy concerning the discussion among the judges in a collegiate tribunal before the sentence is passed and concerning the various votes and opinions expressed there, without prejudice to the prescript of  can. 1609,Â§4.
+
+  §3. Whenever the nature of the case or the proofs is such that disclosure of the acts or proofs will endanger the reputation of others, provide opportunity for discord, or give rise to scandal or some other disadvantage, the judge can bind the witnesses, the experts, the parties, and their advocates or procurators by oath to observe secrecy.
+
+**Can. 1456** The judge and all officials of the tribunal are prohibited from accepting any gifts on the occasion of their acting in a trial.
+
+**Can. 1457**
+  §1. The competent authority can punish with fitting penalties, not excluding privation from office, judges who refuse to render a judgment when they are certainly and manifestly competent, who declare themselves competent with no supporting prescript of law and adjudicate and decide cases, who violate the law of secrecy, or who inflict some other damage on the litigants out of malice or grave negligence.
+
+  §2. The ministers and personnel of a tribunal are subject to these same sanctions if they fail in their office as described above; the judge can also punish all of them.
+
+**Can. 1458** Cases are to be adjudicated in the order in which they were presented and inscribed in the register unless one of them requires speedier treatment than the others; this fact must be established through a special decree which gives the substantiating reasons.
+
+**Can. 1459**
+  §1. Defects which can render the sentence null can be introduced as exceptions at any stage or grade of the trial; the judge can likewise declare them ex officio.
+
+  §2. In addition to the cases mentioned in Â§1, dilatory exceptions, especially those which regard the persons and the manner of the trial, must be proposed before the joinder of the issue unless they emerged after the issue was already joined; they must be decided as soon as possible.
+
+**Can. 1460**
+  §1. If an exception is proposed against the competence of the judge, that judge must deal with the matter.
+
+  §2. In the case of an exception of relative incompetence, if the judge finds for competence, the decision does not admit of appeal; a complaint of nullity and *restitutio in integrum*, however, are not prohibited.
+
+  §3. If the judge finds for incompetence, however, the party who feels injured can appeal to the appellate tribunal within fifteen useful days.
+
+**Can. 1461** A judge who becomes aware of being absolutely incompetent at any stage of the case must declare the incompetence.
+
+**Can. 1462**
+  §1. Exceptions of res iudicata, of agreement, and other peremptory exceptions which are called *litis finitae *must be proposed and adjudicated before the joinder of the issue. A person who proposes them later must not be* *rejected but is liable for expenses unless the person proves that the presentation was not delayed maliciously.**
+
+  §2. Other peremptory exceptions are to be proposed during the joinder of the issue and must be treated at the proper time according to the rules for incidental questions.
+
+**Can. 1463**
+  §1. Counterclaims cannot be proposed validly except within thirty days from the joinder of the issue.
+
+  §2. They are to be adjudicated, however, along with the original action, that is, in the same grade with it unless it is necessary to adjudicate them separately or the judge considers it more opportune to do so.
+
+**Can. 1464** Questions concerning the provision for judicial expenses or a grant of gratuitous legal assistance which had been requested from the very beginning and other such questions as a rule must be dealt with before the joinder of the issue.
+
+**Can. 1465**
+  §1. *Fatalia legis*, that is, the time limits established by law for extinguishing rights, cannot be extended nor validly shortened unless the parties request it.
+
+  §2. Before the judicial or conventional time limits lapse, however, the judge can extend them for a just cause after the parties have been heard or if they request it; the judge, however, can never shorten those limits validly unless the parties agree.
+
+  §3. Nevertheless, the judge is to take care that such an extension does not overly prolong the litigation.
+
+**Can. 1466** When the law in no way establishes time limits for completing procedural acts, the judge must define them after having taken into consideration the nature of each act.
+
+**Can. 1467** If the tribunal is closed on the day scheduled for a judicial act, the time limit is extended to the first day following which is not a holiday.
+
+**Can. 1468** Insofar as possible, every tribunal is to be in an established location open during stated hours.
+
+**Can. 1469**
+  §1. A judge expelled by force from his territory or impeded from the exercise of jurisdiction there can exercise jurisdiction and render a sentence outside that territory; the diocesan bishop, however, is to be informed of this.
+
+  §2. In addition to the case mentioned in Â§1, for a just cause and after having heard the parties, the judge can also go outside the territory to acquire proofs. This is to be done, however, with the permission of the diocesan bishop of the place where the judge goes and in the location designated by that bishop.
+
+**Can. 1470**
+  §1. Unless particular law provides otherwise, while cases are being heard before the tribunal, only those persons are to be present in court whom the law or the judge has established as necessary to expedite the process.
+
+  §2. With appropriate penalties, the judge can call to task all those present at a trial who are gravely lacking in the respect and obedience due the tribunal; furthermore, the judge can also suspend advocates and procurators from the exercise of their function in ecclesiastical tribunals.
+
+**Can. 1471** If a person to be questioned speaks a language unknown to the judge or the parties, an interpreter designated by the judge and under oath is to be used. The statements, however, are to be put into writing in the original language and a translation added. An interpreter is also to be used if a speech or hearing impaired person must be questioned unless the judge may prefer the person to answer the questions in writing.
+
+**Can. 1472**
+  §1. The judicial acts, both the acts of the case, that is, those regarding the merit of the question, and the acts of the process, that is, those pertaining to the procedure, must be put in writing.
+
+  §2. The individual pages of the acts are to be numbered and authenticated.
+
+**Can. 1473** Whenever judicial acts require the signature of the parties or witnesses and the party or witness is unable or unwilling to sign, this is to be noted in the acts; the judge and the notary are also to attest that the act was read to the party or the witness verbatim and that the party or the witness was either not able or unwilling to sign.
+
+**Can. 1474**
+  §1. In the case of an appeal, a copy of the acts authenticated by the attestation of a notary is to be sent to the higher tribunal.
+
+  §2. If the acts were written in a language unknown to the higher tribunal, they are to be translated into one known to that tribunal, with due precautions taken that the translation is a faithful one.
+
+**Can. 1475**
+  §1. When the trial has been completed, documents which belong to private persons must be returned; a copy of them, however, is to be retained.
+
+  §2. Without a mandate of the judge, notaries and the chancellor are forbidden to furnish a copy of the judicial acts and documents acquired in the process.
+
+**Can. 1476** Anyone, whether baptized or not, can bring action in a trial; however, a party legitimately summoned must respond.
+
+**Can. 1477** Even if the petitioner or respondent has appointed a procurator or advocate, they themselves are nevertheless always bound to be present at the trial according to the prescript of the law or of the judge.
+
+**Can. 1478**
+  §1. Minors and those who lack the use of reason can stand trial only through their parents, guardians, or curators, without prejudice to the prescript of Â§3.
+
+  §2. If the judge thinks that the rights of minors are in conflict with the rights of the parents, guardians, or curators or that the latter cannot adequately protect the rights of the former, then the minors are to stand trial through a guardian or curator appointed by the judge.
+
+  §3. Nevertheless, in spiritual cases and those connected with spiritual matters, if the minors have attained the use of reason, they can petition and respond without the consent of their parents or guardian. They can do so personally if they have completed their fourteenth year of age; otherwise, they do so through the curator appointed by the judge.
+
+  §4. Those deprived of the administration of goods and those of diminished mental capacity can stand trial personally only to answer for their own delicts or at the order of the judge; otherwise, they must petition and respond through their curators.
+
+**Can. 1479** Whenever a guardian or curator appointed by civil authority is present, the ecclesiastical judge can admit the guardian or curator after having heard, if possible, the diocesan bishop of the person to whom the guardian or curator was given; if the guardian or curator is not present or does not seem admissible, the judge will appoint a guardian or curator for the case.
+
+**Can. 1480**
+  §1. Juridic persons stand trial through their legitimate representatives.
+
+  §2. In a case of the lack of or negligence of the representative, however, the ordinary himself can stand trial personally or through another in the name of juridic persons subject to his authority.
+
+**Can. 1481**
+  §1. A party can freely appoint an advocate and procurator; except for the cases established in Â§Â§2 and 3, however, the party can also petition and respond personally unless the judge has decided that the services of a procurator or advocate are necessary.
+
+  §2. In a penal trial, the accused must always have an advocate either appointed personally or assigned by the judge.
+
+  §3. In a contentious trial which involves minors or in a trial which affects the public good, with the exception of marriage cases, the judge is to appoint ex officio a defender for a party who does not have one.
+
+**Can. 1482**
+  §1. A person can appoint only one procurator who cannot substitute another unless the procurator has been given the expressed faculty to do so.
+
+  §2. If a person appoints several procurators for a just cause, however, they are to be designated in such a way that prevention is operative among them.
+
+  §3. Nevertheless, several advocates can be appointed together.
+
+**Can. 1483** The procurator and advocate must have attained the age of majority and be of good reputation; moreover, the advocate must be a Catholic unless the diocesan bishop permits otherwise, a doctor in canon law or otherwise truly expert, and approved by the same bishop.
+
+**Can. 1484**
+  §1. Before the procurator and advocate undertake their function, they must present an authentic mandate to the tribunal.
+
+  §2. To prevent the extinction of a right, however, the judge can admit a procurator even if the mandate has not been presented, once a suitable guarantee has been furnished if the case warrants it; the act, however, lacks any force if the procurator does not correctly present the mandate within the peremptory time established by the judge.
+
+**Can. 1485** Without a special mandate, a procurator cannot validly renounce an action, an instance, or judicial acts nor come to an agreement, make a bargain, enter into arbitration, or in general do those things for which the law requires a special mandate.
+
+**Can. 1486**
+  §1. For the removal of a procurator or advocate to take effect, they must be informed; if the issue has already been joined, the judge and the opposing party must also be informed about the removal.
+
+  §2. After the definitive sentence has been issued, the right and duty to appeal, if the mandating person does not refuse, remains with the procurator.
+
+**Can. 1487** For a grave cause, the judge either ex officio or at the request of the party can remove the procurator and the advocate by decree.
+
+**Can. 1488**
+  §1. Both the procurator and the advocate are forbidden to resolve the litigation by bribery or to make an agreement for an excessive profit or for a share in the object in dispute. If they do so, the agreement is null, and the judge can fine them. Moreover, the bishop who presides over the tribunal can suspend the advocate from office and even remove him or her from the list of advocates if it happens again.
+
+  §2. Advocates and procurators can be punished in the same way if in deceit of the law they withdraw cases from competent tribunals so that the cases will be decided more favorably by other tribunals.
+
+**Can. 1489** Advocates and procurators who betray their office for gifts, promises, or any other reason are to be suspended from the exercise of legal assistance and punished with a fine or other suitable penalties.
+
+**Can. 1490** As far as possible, legal representatives are to be appointed in a stable manner in each tribunal, who receive a stipend from the tribunal and are to exercise, especially in marriage cases, the function of advocate or procurator on behalf of parties who wish to select them.
+
+**Can. 1491** Every right is protected not only by an action but also by an exception unless other provision is expressly made.
+
+**Can. 1492**
+  §1. Every action is extinguished by prescription according to the norm of law or by some other legitimate means, with the exception of actions concerning the status of persons, which are never extinguished.
+
+  §2. Without prejudice to the prescript of can. 1462, an exception is always available and is perpetual by its very nature.
+
+**Can. 1493** A petitioner can bring a person to trial with several actions at once, either concerning the same or different matters, so long as the actions do not conflict among themselves and do not exceed the competence of the tribunal approached.
+
+**Can. 1494**
+  §1. The respondent can file a counterclaim against the petitioner before the same judge in the same trial either because of the connection of the case with the principal action or to remove or diminish the claim of the petitioner.
+
+  §2. A counterclaim to a counterclaim is not allowed.
+
+**Can. 1495** The counterclaim must be presented to the judge before whom the first action was filed even if the judge was delegated for only one case or is otherwise relatively incompetent.
+
+**Can. 1496**
+  §1. A person, who through at least probable arguments has shown a right over something held by another and the threat of damage unless the thing is placed in safekeeping, has the right to obtain its sequestration from the judge.
+
+  §2. In similar circumstances, a person can obtain an order to restrain another from the exercise of a right.
+
+**Can. 1497**
+  §1. Sequestration of a thing is also allowed as security for a loan provided that the right of the creditor is sufficiently evident.
+
+  §2. Sequestration can also be extended to the goods of the debtor which are discovered in the possession of others under any title and to the loans of the debtor.
+
+**Can. 1498** Sequestration of a thing and restraint upon the exercise of a right can in no way be decreed if the harm which is feared can be repaired in another way and suitable security for its repair is offered.
+
+**Can. 1499** A judge who grants the sequestration of a thing or a restraint upon the exercise of a right can first impose an obligation upon the person to compensate for damages if that persons right is not proven.
+
+**Can. 1500** The prescripts of the civil law of the place where the object whose possession is in question is located are to be observed regarding the nature and force of a possessory action.
+
+**Can. 1501** A judge cannot adjudicate a case unless the party concerned or the promoter of justice has presented a petition according to the norm of the canons.
+
+**Can. 1502** A person who wishes to bring another to trial must present to a competent judge a libellus which sets forth the object of the controversy and requests the services of the judge.
+
+**Can. 1503**
+  §1. The judge can accept an oral petition whenever the petitioner is impeded from presenting a libellus or the case is easily investigated and of lesser importance.
+
+  §2. In either case, however, the judge is to order the notary to put the act into writing; the written record must be read to and approved by the petitioner and has all the legal effects of a libellus written by the petitioner.
+
+**Can. 1504** The libellus, which introduces litigation, must:
+
+1. express the judge before whom the case is introduced, what is being sought and by whom it is being sought;
+
+2. indicate the right upon which the petitioner bases the case and, at least generally, the facts and proofs which will prove the allegations;
+
+3. be signed by the petitioner or the petitioners procurator, indicating the day, month, and year, and the address where the petitioner or procurator lives or where they say they reside for the purpose of receiving the acts;
+
+4. indicate the domicile or quasi-domicile of the respondent.
+
+**Can. 1505**
+  §1. When a single judge or the president of a collegiate tribunal has seen that the matter is within his competence and the petitioner does not lack legitimate personal standing in the trial, he must accept or reject the libellus as soon as possible by decree.
+
+  §2. A libellus can be rejected only:
+
+1. if the judge or tribunal is incompetent;
+
+2. if without doubt it is evident that the petitioner lacks legitimate personal standing in the trial;
+
+3. if the prescripts of  can. 1504, nn. 1-3 have not been observed;
+
+4. if it is certainly clear from the libellus itself that the petition lacks any basis and that there is no possibility that any such basis will appear through a process.
+
+  §3. If the libellus has been rejected because of defects which can be corrected, the petitioner can resubmit a new, correctly prepared libellus to the same judge.
+
+  §4. A party is always free within ten available days to make recourse with substantiating reasons against the rejection of a libellus either to the appellate tribunal or to the college if the libellus was rejected by the presiding judge; the question of the rejection is to be decided as promptly as possible (*expeditissime*).
+
+**Can. 1506** If within a month from the presentation of the libellus the judge has not issued a decree which accepts or rejects the libellus according to the norm of  can. 1505, the interested party can insist that the judge fulfill his function. If the judge takes no action within ten days from the request, then the libellus is to be considered as accepted.
+
+**Can. 1507**
+  §1. In the decree which accepts the libellus of the petitioner, the judge or the presiding judge must call the other parties to trial, that is, cite them to the joinder of the issue, establishing whether they must respond in writing or present themselves before the judge to come to agreement about the doubts. If from the written responses the judge perceives it necessary to convene the parties, the judge can establish that by a new decree.
+
+  §2. If the libellus is considered as accepted according to the norm of  can. 1506, the decree of citation to the trial must be issued within twenty days from the request mentioned in that canon.
+
+  §3. If the litigating parties de facto present themselves before the judge to pursue the case, however, there is no need for a citation, but the notary is to note in the acts that the parties were present for the trial.
+
+**Can. 1508**
+  §1. The decree of citation to the trial must be communicated immediately to the respondent and at the same time to others who must appear.
+
+  §2. The libellus which introduces litigation is to be attached to the citation unless for grave causes the judge determines that the libellus must not be made known to the party before that party makes a deposition in the trial.
+
+  §3. If litigation is introduced against someone who does not have the free exercise of his or her rights or the free administration of the things in dispute, the citation must be communicated, as the case may be, to the guardian, curator, or special procurator, that is, the one who is bound to undertake the trial in the name of that person according to the norm of law.
+
+**Can. 1509**
+  §1. The notification of citations, decrees, sentences, and other judicial acts must be made through the public postal services or by some other very secure method according to the norms established in particular law.
+
+  §2. The fact of notification and its method must be evident in the acts.
+
+**Can. 1510** A respondent who refuses to accept the document of citation or who prevents its delivery is considered to be legitimately cited.
+
+**Can. 1511** If the citation was not communicated legitimately, the acts of the process are null, without prejudice to the prescript of  can. 1507, Â§3.
+
+**Can. 1512** When the citation has been communicated legitimately or the parties have appeared before the judge to pursue the case:
+
+1. the matter ceases to be *res integra*;
+
+2. the case becomes proper to the otherwise competent judge or tribunal before which the action was initiated;
+
+3. the jurisdiction of a delegated judge is fixed in such a way that it does not cease when the authority of the one delegating expires;
+
+4. prescription is interrupted unless other provision is made;
+
+5. the litigation begins to be pending; therefore, the principle while litigation is pending, nothing is to be altered immediately takes effect.
+
+**Can. 1513**
+  §1. The joinder of the issue (*contestatio litis*) occurs when the terms of the controversy, derived from the petitions and responses of the parties, are defined through a decree of the judge.
+
+  §2. The petitions and responses of the parties, besides those in the libellus which introduces the litigation, can be expressed either in a response to the citation or in the oral declarations made before the judge; in more difficult cases, however, the judge must convene the parties to resolve the doubt or doubts which must be answered in the sentence.
+
+  §3. The decree of the judge must be communicated to the parties; unless they have already agreed to the terms, the parties can make recourse to the judge within ten days in order to change them; a decree of the judge, however, must resolve the question as promptly as possible (*expeditissime*).
+
+**Can. 1514** Once established, the terms of the controversy cannot be changed validly except by a new decree, for a grave cause, at the request of a party, and after the other parties have been heard and their arguments considered.
+
+**Can. 1515** After the issue has been joined, the possessor of the property of another ceases to be in good faith; therefore, if the possessor is sentenced to restore the property, the person must also return the profits made from the day of the joinder and repair any damages.
+
+**Can. 1516** After the issue has been joined, the judge is to prescribe a suitable time for the parties to present and complete the proofs.
+
+**Can. 1517** A trial begins with the citation; it ends not only by the pronouncement of a definitive sentence but also by other methods defined by law.
+
+**Can. 1518** If the litigating party dies, changes status, or ceases from the office in virtue of which action is taken:
+
+1. if the case has not yet been concluded, the trial is suspended until the heir of the deceased, the successor, or an interested party resumes the litigation;
+
+2. if the case has been concluded, the judge must proceed to the additional acts, after having cited the procurator, if there is one, or otherwise the heir of the deceased or the successor.
+
+**Can. 1519**
+  §1. If the guardian, curator, or procurator who is necessary according to the norm of  can. 1481,Â§Â§1 and 3 ceases from that function, the trial is suspended in the meantime.
+
+  §2. The judge, however, is to appoint another guardian or curator as soon as possible; the judge can appoint a procurator for the litigation if the party has neglected to do so within the brief time period established by the judge.
+
+**Can. 1520** If the parties, without any impediment, propose no procedural act for six months, the trial is abated.
+
+Particular law can establish other terms of abatement.
+
+**Can. 1521** Abatement takes effect by the law itself against all persons, including minors or those equivalent to minors, and must be declared ex officio, without prejudice to the right of seeking indemnity against guardians, curators, administrators, or procurators, who have not proved that they were not negligent.
+
+**Can. 1522** Abatement extinguishes the acts of the process but not the acts of the case; indeed these acts can also have force in another trial provided that the case involves the same persons and the same issue; regarding those not party to the case, however, the acts have no force other than that of documents.
+
+**Can. 1523** Each litigant is to bear the expenses of the abated trial which that litigant has incurred.
+
+**Can. 1524**
+  §1. The petitioner can renounce the trial at any stage or grade of the trial; likewise both the petitioner and the respondent can renounce either all or only some of the acts of the process.
+
+  §2. To renounce a trial, guardians and administrators of juridic persons need the counsel or consent of those whose involvement is required to place acts which exceed the limits of ordinary administration.
+
+  §3. To be valid, a renunciation must be written and signed by the party or by a procurator of the party who has a special mandate to do so; it must be communicated to the other party, accepted or at least not challenged by that party, and accepted by the judge.
+
+**Can. 1525** A renunciation accepted by the judge has the same effects for the acts renounced as the abatement of the trial; it also obliges the renouncing party to pay the expenses for the acts renounced.
+
+**Can. 1526**
+  §1. The burden of proof rests upon the person who makes the allegation.
+
+  §2. The following do not need proof:
+
+1. matters presumed by the law itself;
+
+2. facts alleged by one of the contending parties and admitted by the other unless the law or the judge nevertheless requires proof.
+
+**Can. 1527**
+  §1. Proofs of any kind which seem useful for adjudicating the case and are licit can be brought forward.
+
+  §2. If a party insists that a proof rejected by a judge be accepted, the judge is to decide the matter as promptly as possible (*expeditissime*).
+
+**Can. 1528** If a party or a witness refuses to appear before the judge to testify, it is permissible to hear them through a lay person designated by the judge or to require of them a declaration either before a notary public or in any other legitimate manner.
+
+**Can. 1529** Except for a grave cause, the judge is not to proceed to collect the proofs before the joinder of the issue.
+
+**Can. 1530** The judge can always question the parties to draw out the truth more effectively and indeed must do so at the request of a party or to prove a fact which the public interest requires to be placed beyond doubt.
+
+**Can. 1531**
+  §1. A party legitimately questioned must respond and must tell the whole truth.
+
+  §2. If a party refuses to respond, it is for the judge to decide what can be inferred from that refusal concerning the proof of the facts.
+
+**Can. 1532** In cases where the public good is at stake, the judge is to administer an oath to the parties to tell the truth or at least to confirm the truth of what they have said unless a grave cause suggests otherwise; the same can be done in other cases according to the judges own prudence.
+
+**Can. 1533** The parties, the promoter of justice, and the defender of the bond can present the judge with items about which the party is to be questioned.
+
+**Can. 1534** The provisions of cann. 1548, Â§2, n. 1,  1552, and 1558-1565 concerning witnesses are to be observed to the extent possible when questioning the parties.
+
+**Can. 1535** A judicial confession is the written or oral assertion of some fact against oneself before a competent judge by any party concerning the matter of the trial, whether made spontaneously or while being questioned by the judge.
+
+**Can. 1536**
+  §1. The judicial confession of one party relieves the other parties from the burden of proof if it concerns some private matter and the public good is not at stake.
+
+  §2. In cases which regard the public good, however, a judicial confession and declarations of the parties which are not confessions can have a probative force which the judge must evaluate together with the other circumstances of the case; the force of full proof cannot be attributed to them, however, unless other elements are present which thoroughly corroborate them.
+
+**Can. 1537** After considering all the circumstances, it is for the judge to decide how much value must be accorded an extrajudicial confession introduced into the trial.
+
+**Can. 1538** A confession or any other declaration of a party lacks any force if it is shown that it was made due to an error of fact or extorted by force or grave fear.
+
+**Can. 1539** In any kind of trial, proof by means of both public and private documents is allowed.
+
+**Can. 1540**
+  §1. Public ecclesiastical documents are those which a public person has drawn up in the exercise of that persons function in the Church, after the solemnities prescribed by law have been observed.
+
+  §2. Public civil documents are those which the laws of each place consider to be such.
+
+  §3. Other documents are private.
+
+**Can. 1541** Unless contrary and evident arguments prove otherwise, public documents are to be trusted concerning everything which they directly and principally affirm.
+
+**Can. 1542** A private document, whether acknowledged by a party or approved by the judge, has the same force of proof against the author or signatory and those deriving a case from them as an extrajudicial confession. It has the same force against those who are not parties to the case as declarations of the parties which are not confessions, according to the norm of  can. 1536, Â§2.
+
+**Can. 1543** If the documents are shown to have been erased, emended, falsified, or otherwise defective, it is for the judge to decide what value, if any, must be afforded them.
+
+**Can. 1544** Documents do not have probative force in a trial unless they are originals or authentic copies and deposited at the tribunal chancery so that the judge and the opposing party can examine them.
+
+**Can. 1545** The judge can order a document common to both parties to be presented in the process.
+
+**Can. 1546**
+  §1. Even if documents are common, no one is bound to present those which cannot be communicated without danger of harm according to the norm of  can. 1548, Â§2, n. 2 or without danger of violating an obligation to observe secrecy.
+
+  §2. Nonetheless, if at least some small part of a document can be transcribed and presented in copy without the above-mentioned disadvantages, the judge can decree that it be produced.
+
+**Can. 1547** Proof by means of witnesses is allowed under the direction of the judge in cases of any kind.
+
+**Can. 1548**
+  §1. When the judge questions witnesses legitimately, they must tell the truth.
+
+  §2. Without prejudice to the prescript of can. 1550, Â§2, n. 2, the following are exempted from the obligation to respond:
+
+1. clerics regarding what has been made known to them by reason of sacred ministry; civil officials, physicians, midwives, advocates, notaries, and others bound by professional secrecy even by reason of having given advice, regarding those matters subject to this secrecy;
+
+2. those who fear that from their own testimony ill repute, dangerous hardships, or other grave evils will befall them, their spouses, or persons related to them by consanguinity or affinity.
+
+**Can. 1549** All persons can be witnesses unless the law expressly excludes them in whole or in part.
+
+**Can. 1550**
+  §1. Minors below the fourteenth year of age and those of limited mental capacity are not allowed to give testimony; they can, however, be heard by a decree of the judge which declares such a hearing expedient.
+
+  §2. The following are considered incapable:
+
+1. the parties in the case or those who stand for the parties at the trial, the judge and the judges assistants, the advocate, and others who assist or have assisted the parties in the same case;
+
+2. priests regarding all matters which they have come to know from sacramental confession even if the penitent seeks their disclosure; moreover, matters heard by anyone and in any way on the occasion of confession cannot be accepted even as an indication of the truth.
+
+**Can. 1551** The party who has introduced a witness can renounce the examination of that witness; the opposing party, however, can request that the witness be examined nevertheless.
+
+**Can. 1552**
+  §1. When proof through witnesses is requested, their names and domicile are to be communicated to the tribunal.
+
+  §2. The items of discussion about which questioning of the witnesses is sought are to be presented within the time period set by the judge; otherwise, the request is to be considered as abandoned.
+
+**Can. 1553** It is for the judge to curb an excessive number of witnesses.
+
+**Can. 1554** Before the witnesses are examined, their names are to be communicated to the parties; if in the prudent judgment of the judge, however, that cannot be done without grave difficulty, it is to be done at least before the publication of the testimonies.
+
+**Can. 1555** Without prejudice to the prescript of can. 1550, a party can request the exclusion of a witness if a just cause for the exclusion is shown before the questioning of the witness.
+
+**Can. 1556** The citation of a witness occurs through a decree of the judge legitimately communicated to the witness.
+
+**Can. 1557** A witness who has been cited properly is to appear or to inform the judge of the reason for the absence.
+
+**Can. 1558**
+  §1. Witnesses must be examined at the tribunal unless the judge deems otherwise.
+
+  §2. Cardinals, patriarchs, bishops, and those who possess a similar favor by civil law are to be heard in the place they select.
+
+  §3. The judge is to decide where to hear those for whom it is impossible or difficult to come to the tribunal because of distance, sickness, or some impediment, without prejudice to the prescripts of cann. 1418 and  1469, Â§2.
+
+**Can. 1559** The parties cannot be present at the examination of the witnesses unless the judge has decided to admit them, especially when the matter concerns a private good. Their advocates or procurators, however, can be present unless the judge has decided that the examination must proceed in secret due to the circumstances of the matters and persons.
+
+**Can. 1560**
+  §1. Each witness must be examined separately.
+
+  §2. If witnesses disagree among themselves or with a party in a grave matter, the judge, after having removed discord and scandal insofar as possible, can have those who disagree meet together or confront one another.
+
+**Can. 1561** The judge, the judges delegate, or an auditor examines the witness; the examiner must have the assistance of a notary. Consequently, if the parties, the promoter of justice, the defender of the bond, or the advocates present at the examination have any questions to be put to the witness, they are to propose them not to the witness but to the judge or the one who takes the place of the judge, who is to ask the questions, unless particular law provides otherwise.
+
+**Can. 1562**
+  §1. The judge is to call to the attention of the witness the grave obligation to speak the whole truth and only the truth.
+
+  §2. The judge is to administer an oath to the witness according to  can. 1532; a witness who refuses to take it, however, is to be heard without the oath.
+
+**Can. 1563** The judge is first of all to establish the identity of the witness, then ask what relationship the witness has with the parties, and, when addressing specific questions to the witness concerning the case, also inquire about the sources of his or her knowledge and the precise time when the witness learned what he or she asserts.
+
+**Can. 1564** The questions are to be brief, accommodated to the mental capacity of the person being questioned, not comprised of several points at the same time, not deceitful or deceptive or suggestive of a response, free from any kind of offense, and pertinent to the case being tried.
+
+**Can. 1565**
+  §1. Questions must not be communicated to the witnesses beforehand.
+
+  §2. Nonetheless, if the matters about which testimony must be given are so remote to memory that they cannot be affirmed with certainty unless previously recalled, the judge can advise the witness beforehand on some matters if the judge thinks this can be done without danger.
+
+**Can. 1566** Witnesses are to give testimony orally and are not to read written materials unless they are computations and accounts; in this case, they can consult the notes which they brought with them.
+
+**Can. 1567**
+  §1. The notary is to write down the response immediately and must report the exact words of the testimony given, at least in what pertains to those points which touch directly upon the material of the trial.
+
+  §2. The use of a tape recorder can be allowed, provided that the responses are afterwards transcribed and, if possible, signed by the deponents.
+
+**Can. 1568** The notary is to make mention in the acts of whether the oath was taken, excused, or refused, of the presence of the parties and other persons, of the questions added ex officio, and in general of everything worth remembering which may have occurred while the witnesses were being examined.
+
+**Can. 1569**
+  §1. At the end of the examination, what the notary has written down from the deposition must be read to the witness, or what has been recorded with the tape recorder during the deposition must be played, giving the witness the opportunity to add, suppress, correct, or change it.
+
+  §2. Finally, the witness, the judge, and the notary must sign the acts.
+
+**Can. 1570** Although already examined, witnesses can be recalled for examination before the acts or testimonies are published, either at the request of a party or ex officio, if the judge decides it is necessary or useful, provided that there is no danger of collusion or corruption.
+
+**Can. 1571** Both the expenses which the witnesses incurred and the income which they lost by giving testimony must be reimbursed to them according to the just assessment of the judge.
+
+**Can. 1572** In evaluating testimony, the judge, after having requested testimonial letters if necessary, is to consider the following:
+
+1. what the condition or reputation of the person is;
+
+2. whether the testimony derives from personal knowledge, especially from what has been seen or heard personally, or whether from opinion, rumor, or hearsay;
+
+3. whether the witness is reliable and firmly consistent or inconsistent, uncertain, or vacillating;
+
+4. whether the witness has co-witnesses to the testimony or is supported or not by other elements of proof.
+
+**Can. 1573** The testimony of one witness cannot produce full proof unless it concerns a qualified witness making a deposition concerning matters done ex officio, or unless the circumstances of things and persons suggest otherwise.
+
+**Can. 1574** The assistance of experts must be used whenever the prescript of a law or of the judge requires their examination and opinion based on the precepts of art or science in order to establish some fact or to discern the true nature of some matter.
+
+**Can. 1575** After having heard the parties and their suggestions, it is for the judge to appoint the experts or, if the case warrants, to accept reports already drawn up by other experts.
+
+**Can. 1576** Experts are excluded or can be objected to for the same reasons as a witness.
+
+**Can. 1577**
+  §1. Attentive to what the litigants may bring forward, the judge is to determine in a decree the individual items upon which the services of the expert must focus.
+
+  §2. The acts of the case and other documents and aids which the expert can need to fulfill his or her function correctly and faithfully must be turned over to the expert.
+
+  §3. After having heard the expert, the judge is to determine the time within which the expert must complete the examination and produce the report.
+
+**Can. 1578**
+  §1. Each of the experts is to prepare a report separate from the others unless the judge decrees that one report signed by the experts individually be drawn up; if this is done, differences of opinion, if there are any, are to be noted carefully.
+
+  §2. Experts must indicate clearly by what documents or other suitable means they gained certainty of the identity of the persons, things, or places, by what manner and method they proceeded in fulfilling the function entrusted to them, and above all on which arguments they based their conclusions.
+
+  §3. The judge can summon the expert to supply explanations which later seem necessary.
+
+**Can. 1579**
+  §1. The judge is to weigh carefully not only the conclusions of the experts, even if they are in agreement, but also the other circumstances of the case.
+
+  §2. When giving reasons for the decision, the judge must express what considerations prompted him or her to accept or reject the conclusions of the experts.
+
+**Can. 1580** The judge must justly and equitably determine the expenses and fees to be paid to the experts, with due regard for particular law.
+
+**Can. 1581**
+  §1. The parties can designate private experts whom the judge must approve.
+
+  §2. If the judge allows them, the private experts can inspect the acts of the case insofar as necessary and attend the presentation of the expert testimony; moreover, they can always present their own report.
+
+**Can. 1582** If, in order to decide a case, the judge considers it opportune to visit some place or to inspect some thing, the judge, after having heard the parties, is to order it by a decree describing in summary fashion those things which must be exhibited during the visit or inspection.
+
+**Can. 1583** When the visit or inspection has been completed, a report about it is to be drafted.
+
+**Can. 1584** A presumption is a probable conjecture about an uncertain matter; a presumption of law is one which the law itself establishes; a human presumption is one which a judge formulates.
+
+**Can. 1585** A person who has a favorable presumption of law is freed from the burden of proof, which then falls to the other party.
+
+**Can. 1586** The judge is not to formulate presumptions which are not established by law unless they are directly based on a certain and determined fact connected with the matter in dispute.
+
+**Can. 1587** An incidental case arises whenever, after the trial has begun through the citation, a question is proposed which nevertheless pertains to the case in such a way that it frequently must be resolved before the principal question, even if it was not expressly contained in the libellus which introduced the litigation.
+
+**Can. 1588** An incidental case is proposed in writing or orally before the judge competent to decide the principal case, indicating the connection between this and the principal case.
+
+**Can. 1589**
+  §1. After having received the petition and heard the parties, the judge is to decide as promptly as possible (*expeditissime*) whether the proposed incidental question seems to have a foundation and a connection with the principal trial or rather must be rejected at the outset. If the judge admits the incidental question, the judge is to decide whether it is of such gravity that it must be resolved by an interlocutory sentence or by a decree.
+
+  §2. If the judge decides not to resolve the incidental question before the definitive sentence, however, the judge is to decree that the question will be considered when the principal case is decided.
+
+**Can. 1590**
+  §1. If the incidental question must be resolved by sentence, the norms for the oral contentious process are to be observed unless the judge decides otherwise due to the gravity of the matter.
+
+  §2. If the matter must be resolved by decree, however, the tribunal can entrust the matter to an auditor or the presiding judge.
+
+**Can. 1591** Before the principal case is completed, the judge or the tribunal can revoke or reform the decree or interlocutory sentence for a just reason either at the request of a party or ex officio after the parties have been heard.
+
+**Can. 1592**
+  §1. If the cited respondent has neither appeared nor given a suitable excuse for being absent or has not responded according to the norm of  can. 1507, Â§1, the judge, having observed what is required, is to declare the respondent absent from the trial and decree that the case is to proceed to the definitive sentence and its execution.
+
+  §2. Before issuing the decree mentioned in Â§1, the judge must be certain that a legitimately executed citation has reached the respondent within the useful time, even by issuing a new citation if necessary.
+
+**Can. 1593**
+  §1. If the respondent appears at the trial later or responds before a decision in the case, the respondent can offer conclusions and proofs, without prejudice to the prescript of can. 1600; the judge, however, is to take care that the trial is not prolonged intentionally through longer and unnecessary delays.
+
+  §2. Even if the respondent did not appear or respond before a decision in the case, the respondent can use challenges against the sentence; if the respondent proves that there was a legitimate impediment for being detained and there was no personal fault in its not being made known beforehand, the respondent can use a complaint of nullity.
+
+**Can. 1594** If the petitioner has not appeared on the day and at the hour prescribed for the joinder of the issue and has not offered a suitable excuse:
+
+1. the judge is to cite the petitioner again;
+
+2. if the petitioner does not comply with the new citation, the petitioner is presumed to have renounced the trial according to the norm of cann.  1524-1525;
+
+3. if the petitioner later wishes to intervene in the process,  can. 1593 is to be observed.
+
+**Can. 1595**
+  §1. A petitioner or respondent who is absent from the trial and has not given proof of a just impediment is obliged both to pay the expenses of the litigation which have accrued because of the absence and to indemnify the other party if necessary.
+
+  §2. If both the petitioner and the respondent were absent from the trial, they are obliged in solidum to pay the expenses of the litigation.
+
+**Can. 1596**
+  §1. A person who has an interest can be admitted to intervene in a case at any instance of the litigation, either as a party defending a right or in an accessory manner to help a litigant.
+
+  §2. To be admitted, the person must present a libellus to the judge before the conclusion of the case; in the libellus the person briefly is to demonstrate his or her right to intervene.
+
+  §3. A person who intervenes in a case must be admitted at that stage which the case has reached, with a brief and peremptory period of time assigned to the person to present proofs if the case has reached the probatory period.
+
+**Can. 1597** After having heard the parties, the judge must summon to the trial a third person whose intervention seems necessary.
+
+**Can. 1598**
+  §1. After the proofs have been collected, the judge by a decree must permit the parties and their advocates, under penalty of nullity, to inspect at the tribunal chancery the acts not yet known to them; furthermore, a copy of the acts can also be given to advocates who request one. In cases pertaining to the public good to avoid a most grave danger the judge can decree that a specific act must be shown to no one; the judge is to take care, however, that the right of defense always remains intact.
+
+  §2. To complete the proofs, the parties can propose additional proofs to the judge. When these proofs have been collected, it is again an occasion for the decree mentioned in Â§1 if the judge thinks it necessary.
+
+**Can. 1599**
+  §1. When everything pertaining to the production of proofs has been completed, the conclusion of the case is reached.
+
+  §2. This conclusion occurs whenever the parties declare that they have nothing else to add, the useful time prescribed by the judge to propose proofs has elapsed, or the judge declares that the case is instructed sufficiently.
+
+  §3. The judge is to issue a decree that the case has reached its conclusion, in whatever manner it has occurred.
+
+**Can. 1600**
+  §1. After the conclusion of the case, the judge can still summon the same or other witnesses or arrange for other proofs which were not requested earlier, only:
+
+1. in cases which concern the private good of the parties alone, if all the parties consent;
+
+2. in other cases, after the parties have been heard and provided that there is a grave reason and any danger of fraud or subornation is eliminated;
+
+3. in all cases whenever it is likely that the sentence will be unjust because of the reasons mentioned in  can. 1645, Â§2, nn. 1-3 unless the new proof is allowed.
+
+  §2. The judge, moreover, can order or allow a document to be shown, which may have been unable to be shown earlier through no negligence of the interested person.
+
+  §3. New proofs are to be published according to can. 1598, Â§1.
+
+**Can. 1601** After the conclusion of the case, the judge is to determine a suitable period of time to present defense briefs or observations.
+
+**Can. 1602**
+  §1. The defense briefs and the observations are to be written unless the judge, with the consent of the parties, considers a debate before a session of the tribunal to be sufficient.
+
+  §2. To print the defense briefs along with the principal documents requires the previous permission of the judge, without prejudice to the obligation of secrecy, if such exists.
+
+  §3. The regulations of the tribunal are to be observed regarding the length of the defense briefs, the number of copies, and other matters of this kind.
+
+**Can. 1603**
+  §1. When the defense briefs and observations have been communicated to each party, either party is permitted to present responses within the brief time period established by the judge.
+
+  §2. The parties are given this right only once unless the judge decides that it must be granted a second time for a grave cause; then, however, the grant made to one party is considered as given to the other also.
+
+  §3. The promoter of justice and the defender of the bond have the right to reply a second time to the responses of the parties.
+
+**Can. 1604**
+  §1. It is absolutely forbidden for information given to the judge by the parties, advocates, or even other persons to remain outside the acts of the case.
+
+  §2. If the discussion of the case has been done in writing, the judge can order a moderate oral debate to be held before a session of the tribunal in order to explain certain questions.
+
+**Can. 1605** A notary is to be present at the oral debate mentioned in cann.  1602, Â§1 and 1604, Â§2 so that, if the judge orders it or a party requests it and the judge consents, the notary can immediately report in writing about what was discussed and concluded.
+
+**Can. 1606** If the parties have neglected to prepare a defense brief within the time available to them or have entrusted themselves to the knowledge and conscience of the judge, and if from the acts and proofs the judge considers the matter fully examined, the judge can pronounce the sentence immediately, after having requested the observations of the promoter of justice and the defender of the bond if they are involved in the trial.
+
+**Can. 1607** When a case has been handled in a judicial manner, if it is the principal case, the judge decides it through the definitive sentence; if an incidental case, through an interlocutory sentence, without prejudice to the prescript of  can. 1589, Â§1.
+
+**Can. 1608**
+  §1. For the pronouncement of any sentence, the judge must have moral certitude about the matter to be decided by the sentence.
+
+  §2. The judge must derive this certitude from the acts and the proofs.
+
+  §3. The judge, however, must appraise the proofs according to the judges own conscience, without prejudice to the prescripts of law concerning the efficacy of certain proofs.
+
+  §4. A judge who was not able to arrive at this certitude is to pronounce that the right of the petitioner is not established and is to dismiss the respondent as absolved, unless it concerns a case which has the favor of law, in which case the judge must pronounce for that.
+
+**Can. 1609**
+  §1. In a collegiate tribunal the president of the college is to establish the date and time when the judges are to convene for deliberation; unless a special reason suggests otherwise, the meeting is to be held at the tribunal office.
+
+  §2. On the date assigned for the meeting, the individual judges are to submit their written conclusions on the merit of the case with the reasons in law and in fact which led them to their conclusions; these conclusions are to be added to the acts of the case and must be kept secret.
+
+  §3. After the invocation of the Divine Name, the individual judges are to present their conclusions in order of precedence, always beginning, however, with the ponens or relator of the case. A discussion then follows under the leadership of the tribunal president, especially to determine what must be established in the dispositive part of the sentence.
+
+  §4. In the discussion each judge is permitted to withdraw from his or her original conclusion. The judge who is unwilling to assent to the decision of the others, however, can demand that his or her conclusions be transmitted to the higher tribunal if an appeal is made.
+
+  §5. If the judges are unwilling or unable to arrive at a sentence during the first discussion, the decision can be deferred to a new meeting, but not for more than a week, unless the instruction of the case must be completed according to the norm of  can. 1600.
+
+**Can. 1610**
+  §1. If there is only one judge, he will write the sentence himself.
+
+  §2. In a collegiate tribunal, it is for the ponens or relator to write the sentence, selecting the reasons from those the individual judges brought forth during the discussion, unless a majority of the judges have already determined the reasons to be presented. The sentence must then be submitted for the approval of the individual judges.
+
+  §3. The sentence must be issued no more than a month from the day on which the case was decided unless in a collegiate tribunal the judges set a longer period for a grave reason.
+
+**Can. 1611** The sentence must:
+
+1. decide the controversy deliberated before the tribunal with an appropriate response given to the individual doubts;
+
+2. determine what obligations have arisen for the parties from the trial and how they must be fulfilled;
+
+3. set forth the reasons or motives in law and in fact on which the dispositive part of the sentence is based;
+
+4. determine the expenses of the litigation.
+
+**Can. 1612**
+  §1. After the invocation of the Divine Name, the sentence must express in order the judge or the tribunal, the petitioner, the respondent, and the procurator, with their names and domiciles correctly designated, and the promoter of justice and defender of the bond if they took part in the trial.
+
+  §2. Next, it must briefly relate the facts together with the conclusions of the parties and the formula of the doubts.
+
+  §3. The dispositive part of the sentence follows the above, preceded by the reasons on which it is based.
+
+  §4. It is to conclude with the indication of the date and the place where it was rendered, with the signature of the judge or, if it is a collegiate tribunal, of all the judges, and the notary.
+
+**Can. 1613** The rules proposed above for a definitive sentence are to be adapted for an interlocutory sentence.
+
+**Can. 1614** The sentence is to be published as soon as possible, with an indication of the means by which it can be challenged. It has no force before publication even if the dispositive part was made known to the parties with the permission of the judge.
+
+**Can. 1615** Publication or communication of the sentence can be done either by giving a copy of the sentence to the parties or their procurators or by sending them a copy according to the norm of  can. 1509.
+
+**Can. 1616**
+  §1. If in the text of the sentence an error in calculations turns up, a material error occurs in transcribing the dispositive section or in relating the facts or the petitions of the parties, or the requirements of  can. 1612, Â§4 are omitted, the tribunal which rendered the sentence must correct or complete it either at the request of a party or ex officio, but always after the parties have been heard and a decree appended to the bottom of the sentence.
+
+  §2. If any party objects, the incidental question is to be decided by a decree.
+
+**Can. 1617** Other pronouncements of the judge besides the sentence are decrees, which have no force if they are not merely procedural unless they express the reasons at least in a summary fashion or refer to reasons expressed in another act.
+
+**Can. 1618** An interlocutory sentence or a decree has the force of a definitive sentence if it prevents a trial or puts an end to a trial or some grade of a trial with respect to at least some party in the case.
+
+**Can. 1619** Without prejudice to cann. 1622 and  1623, whenever a case involves the good of private persons, the sentence itself sanates the nullities of acts established by positive law which were not declared to the judge before the sentence even though they were known to the party proposing the complaint.
+
+**Can. 1620** A sentence suffers from the defect of irremediable nullity if:
+
+1. it was rendered by an absolutely incompetent judge;
+
+2. it was rendered by a person who lacks the power of judging in the tribunal in which the case was decided;
+
+3. a judge rendered a sentence coerced by force or grave fear;
+
+4. the trial took place without the judicial petition mentioned in  can. 1501 or was not instituted against some respondent;
+
+5. it was rendered between parties, at least one of whom did not have standing in the trial;
+
+6. someone acted in the name of another without a legitimate mandate;
+
+7. the right of defense was denied to one or the other party;
+
+8. it did not decide the controversy even partially.
+
+**Can. 1621** The complaint of nullity mentioned in can. 1620 can be proposed by way of exception in perpetuity and also by way of action before the judge who rendered the sentence within ten years from the date of the publication of the sentence.
+
+**Can. 1622** A sentence suffers from the defect of remediable nullity only if:
+
+1. it was rendered by an illegitimate number of judges contrary to the prescript of  can. 1425, Â§1;
+
+2. it does not contain the motives or reasons for the decision;
+
+3. it lacks the signatures prescribed by law;
+
+4. it does not indicate the year, month, day, and place in which it was rendered;
+
+5. it is based on a null judicial act whose nullity was not sanated according to the norm of  can. 1619;
+
+6. it was rendered against a party legitimately absent according to  can. 1593, Â§2.
+
+**Can. 1623** A complaint of nullity in the cases mentioned in  can. 1622 can be proposed within three months from the notice of the publication of the sentence.
+
+**Can. 1624** The judge who rendered the sentence deals with the complaint of nullity. If the party fears that the judge who rendered the sentence challenged by the complaint of nullity is prejudiced and therefore considers the judge suspect, the party can demand that another judge be substituted according to the norm of  can. 1450.
+
+**Can. 1625** A complaint of nullity can be proposed together with an appeal within the time established for an appeal.
+
+**Can. 1626**
+  §1. Not only the parties who consider themselves aggrieved can introduce a complaint of nullity but also the promoter of justice and the defender of the bond whenever they have the right to intervene.
+
+  §2. The judge can retract or emend ex officio a null sentence, which that judge has rendered, within the time limit for acting established by  can. 1623 unless an appeal together with a complaint of nullity has been introduced in the meantime or the nullity has been sanated through the expiration of the time limit mentioned in can. 1623.
+
+**Can. 1627** Cases concerning a complaint of nullity can be treated according to the norms for the oral contentious process.
+
+**Can. 1628** A party who considers himself or herself aggrieved by any sentence as well as the promoter of justice and the defender of the bond in cases which require their presence have the right to appeal the sentence to a higher judge, without prejudice to the prescript of can. 1629.
+
+**Can. 1629** There is no appeal:
+
+1. from a sentence of the Supreme Pontiff himself or the Apostolic Signatura;
+
+2. from a sentence tainted by a defect of nullity, unless the appeal is joined with a complaint of nullity according to the norm of  can. 1625;
+
+3. from a sentence which has become a *res iudicata*;
+
+4. from a decree of a judge or from an interlocutory sentence which does not have the force of a definitive sentence, unless it is joined with an appeal from a definitive sentence;
+
+5. from a sentence or a decree in a case where the law requires the matter to be decided as promptly as possible (*expeditissime*).
+
+**Can. 1630**
+  §1. An appeal must be introduced before the judge who rendered the sentence within the peremptory period of fifteen useful days from the notice of the publication of the sentence.
+
+  §2. If an appeal is made orally, the notary is to put it in writing in the presence of the appellant.
+
+**Can. 1631** If a question arises about the right to appeal, the appellate tribunal deals with it as promptly as possible (*expeditissime*) according to the norms of the oral contentious process.
+
+**Can. 1632**
+  §1. If the appeal does not indicate the tribunal to which it is directed, it is presumed to be made to the tribunal mentioned in cann.  1438 and  1439.
+
+  §2. If the other party has appealed to another appellate tribunal, the tribunal of higher grade deals with the case, without prejudice to  can. 1415.
+
+**Can. 1633** An appeal must be pursued before the appellate judge within a month from its introduction unless the judge from whom appeal is made has established a longer period for a party to pursue it.
+
+**Can. 1634**
+  §1. To pursue an appeal it is required and suffices that a party calls upon the services of a higher judge for an emendation of the challenged sentence, attaches a copy of this sentence, and indicates the reasons for the appeal.
+
+  §2. If a party cannot obtain a copy of the challenged sentence from the tribunal from which appeal is made within the useful time, the time limits do not run in the meantime; the impediment must be made known to the appellate judge who is to bind the judge from whom appeal is made by a precept to fulfill that judges duty as soon as possible.
+
+  §3. Meanwhile the judge from whom appeal is made must transmit the acts to the appellate judge according to the norm of can. 1474.
+
+**Can. 1635** Once the deadline for appeal has passed without action either before the judge from whom the appeal is made or before the appellate judge, the appeal is considered abandoned.
+
+**Can. 1636**
+  §1. The appellant can renounce the appeal with the effects mentioned in  can. 1525.
+
+  §2. If the defender of the bond or the promoter of justice has introduced the appeal, the defender of the bond or the promoter of justice of the appellate tribunal can renounce it, unless the law provides otherwise.
+
+**Can. 1637**
+  §1. An appeal made by the petitioner also benefits the respondent and vice versa.
+
+  §2. If there are several respondents or petitioners and the sentence is challenged by only one or against only one of them, the challenge is considered to be made by all of them and against all of them whenever the matter sought is indivisible or a joint obligation.
+
+  §3. If one party introduces an appeal against one ground of the sentence, the other party can appeal incidentally against other grounds within the peremptory period of fifteen days from the day on which the original appeal was made known to the latter, even if the deadline for an appeal has passed.
+
+  §4. Unless it is otherwise evident, an appeal is presumed to be made against all the grounds of a sentence.
+
+**Can. 1638** An appeal suspends the execution of the sentence.
+
+**Can. 1639**
+  §1. Without prejudice to the prescript of  can. 1683, a new cause for petitioning cannot be admitted at the appellate grade, not even by way of useful accumulation; consequently, the joinder of the issue can only address whether the prior sentence is to be con-firmed or revised either totally or partially.
+
+  §2. New proofs, however, are admitted only according to the norm of  can. 1600.
+
+**Can. 1640** The appellate grade must proceed in the same manner as first instance with appropriate adjustments; immediately after the issue has been joined according to the norm of  can. 1513,Â§1 and  can. 1639, Â§1 and unless the proofs possibly must be completed, the discussion of the case is to take place and the sentence rendered.
+
+**Can. 1641** Without prejudice to the prescript of  can. 1643, a *res iudicata *occurs:
+
+1. if a second concordant sentence is rendered between the same parties over the same issue and on the same cause for petitioning;
+
+2. if an appeal against the sentence has not been introduced within the useful time;
+
+3. if at the appellate grade, the trial has been abated or renounced;
+
+4. if a definitive sentence has been rendered from which there is no appeal according to the norm of  can. 1629.
+
+**Can. 1642**
+  §1. A res iudicata possesses the stability of law and cannot be challenged directly except according to the norm of  can. 1645, Â§1.
+
+  §2. It establishes the rights between the parties and permits an action for execution and an exception of res iudicata which the judge can also declare ex officio in order to prevent a new introduction of the same case.
+
+**Can. 1643** Cases concerning the status of persons, including cases concerning the separation of spouses, never become *res iudicata*.
+
+**Can. 1644**
+  §1. If a second concordant sentence has been rendered in a case concerning the status of persons, recourse can be made at any time to the appellate tribunal if new and grave proofs or arguments are brought forward within the peremptory time limit of thirty days from the proposed challenge. Within a month from when the new proofs and arguments are brought forward, however, the appellate tribunal must establish by decree whether a new presentation of the case must be admitted or not.
+
+  §2. Recourse to a higher tribunal in order to obtain a new presentation of the case does not suspend the execution of the sentence unless either the law provides otherwise or the appellate tribunal orders its suspension according to the norm of  can. 1650, Â§3.
+
+**Can. 1645**
+  §1. *Restitutio in integrum *is granted against a sentence which has become res iudicata provided that its* *injustice is clearly established.**
+
+  §2. Injustice, however, is not considered to be established clearly unless:
+
+1. the sentence is based on proofs which afterwards are discovered to be false in such a way that without those proofs the dispositive part of the sentence is not sustained;
+
+2. documents have been revealed afterwards which undoubtedly prove new facts and demand a contrary decision;
+
+3. the sentence was rendered due to the malice of one party resulting in harm to the other party;
+
+4. a prescript of the law which is not merely procedural was clearly neglected;
+
+5. the sentence is contrary to a previous decision which has become *res iudicata*.
+
+**Can. 1646**
+  §1. *Restitutio in integrum *for the reasons mentioned in  can. 1645, Â§2, nn. 1-3 must be sought from the judge who rendered the sentence within three months computed from the day the person became aware of these same reasons.
+
+  §2. *Restitutio in integrum *for the reasons mentioned in  can. 1645 Â§2, nn. 4 and 5 must be sought from the appellate tribunal within three months from the notice of the publication of the sentence; if in the case mentioned in  can. 1645, Â§2, n. 5 notice of the previous decision occurs later, however, the time limit runs from this notice.
+
+  §3. The time limits mentioned above do not run as long as the injured person is a minor.
+
+**Can. 1647**
+  §1. The petition for *restitutio in integrum *suspends the execution of a sentence if execution has not yet begun.
+
+  §2. If from probable indications there is a suspicion that a petition has been made in order to delay the execution, however, the judge can decree execution of the sentence, though with suitable guarantees to the one seeking the *restitutio *that there will be indemnity if the *restitutio in integrum *is granted.
+
+**Can. 1648** If *restitutio in integrum *is granted, the judge must pronounce on the merits of the case.
+
+**Can. 1649**
+  §1. The bishop who directs the tribunal is to establish norms concerning:
+
+1. the requirement of the parties to pay or compensate judicial expenses;
+
+2. the fees for the procurators, advocates, experts, and interpreters and the indemnity for the witnesses;
+
+3. the grant of gratuitous legal assistance or reduction of the expenses;
+
+4. the recovery of damages owed by a person who not only lost the trial but also entered into the litigation rashly;
+
+5. the deposit of money or the provision furnished for the payment of expenses and recovery of damages.
+
+  §2. There is no separate appeal from the determination of expenses, fees, and recovery of damages, but the party can make recourse within fifteen days to the same judge who can adjust the assessment.
+
+**Can. 1650**
+  §1. A sentence that has become a res iudicata can be executed, without prejudice to the prescript of can. 
+
+1647.
+
+  §2. The judge who rendered the sentence and, if an appeal has been proposed, also the appellate judge can order ex officio or at the request of a party a provisional execution of a sentence which has not yet become res iudicata, after having set suitable guarantees, if the case warrants, for provisions or payments ordered for necessary support; they can also do so if some other just cause urges it.
+
+  §3. If the sentence mentioned in Â§2 is challenged, the judge who must investigate the challenge can suspend the execution or subject it to a guarantee if the judge sees that the challenge is probably well founded and irreparable damage can arise from execution.
+
+**Can. 1651** Execution cannot occur prior to the executory decree of the judge which declares that the sentence must be executed. This decree is to be included in the text of the sentence or issued separately according to the particular nature of the cases.
+
+**Can. 1652** If the execution of a sentence requires a prior rendering of accounts, it is an incidental question which the same judge who rendered the sentence ordering the execution must decide.
+
+**Can. 1653**
+  §1. Unless particular law establishes otherwise, the bishop of the diocese in which the sentence was rendered in the first grade must execute the sentence personally or through another.
+
+  §2. If he refuses or neglects to do this, the execution of the sentence, either at the request of an interested party or even ex officio, pertains to the authority to whom the appellate tribunal is subject according to the norm of  can. 1439, Â§3.
+
+  §3. Among religious the execution of the sentence pertains to the superior who rendered the sentence to be executed or the superior who delegated the judge.
+
+**Can. 1654**
+  §1. Unless the text of the sentence leaves it to the judgment of the executor, the executor must execute the sentence according to the obvious sense of the words.
+
+  §2. The executor is permitted to deal with exceptions concerning the manner and force of the execution but not concerning the merit of the case. If it is discovered from another source that the sentence is null or manifestly unjust according to the norm of cann. 1620,  1622, and 1645, the executor is to refrain from executing it and, after having informed the parties, is to refer the matter to the tribunal which rendered the sentence.
+
+**Can. 1655**
+  §1. In real actions, whenever the petitioner is awarded something, it must be handed over to the petitioner as soon as there is a res iudicata.
+
+  §2. In personal actions, when the guilty party is condemned to furnish a movable thing, to pay money, or to give or do something else, the judge in the text of the sentence or the executor according to his or her judgment and prudence is to establish a time limit to fulfill the obligation; this time limit, however, is not to be less than fifteen days nor more than six months.
+
+**Can. 1656**
+  §1. All cases not excluded by law can be treated in the oral contentious process mentioned in this section unless a party requests the ordinary contentious process.
+
+  §2. If the oral process is used outside of the cases permitted in law, the judicial acts are null.
+
+**Can. 1657** The oral contentious process takes place in the first grade before a single judge according to the norm of can. 1424.
+
+**Can. 1658**
+  §1. In addition to the things enumerated in  can. 1504, the libellus which introduces the litigation must:
+
+1. set forth briefly, completely, and clearly the facts on which the requests of the petitioner are based;
+
+2. indicate the proofs by which the petitioner intends to demonstrate the facts but which cannot be presented at once, in such a way that the judge can collect them immediately.
+
+  §2. The documents on which the petition is based must be attached to the libellus, at least in an authentic copy.
+
+**Can. 1659**
+  §1. If the attempt at reconciliation according to the norm of  can. 1446, Â§2 proved useless and the judge thinks that the libellus has some foundation, the judge is to order within three days by a decree appended to the bottom of the libellus that a copy of the petition be communicated to the respondent, giving to the latter the opportunity to send a written response to the tribunal chancery within fifteen days.
+
+  §2. This notification has the effect of the judicial citation mentioned in  can. 1512.
+
+**Can. 1660** If the exceptions of the respondent demand it, the judge is to establish a time limit for the petitioner to respond, in such a way that from the points brought forth by both of the parties the judge clarifies the object of the controversy.
+
+**Can. 1661**
+  §1. When the time limits mentioned in cann.  1659 and  1660 have elapsed, the judge, after an examination of the acts, is to determine the formula of the doubt. Next, the judge is to cite all those who must take part to a hearing which must be held within thirty days; the formula of the doubt is to be attached to the citation of the parties.
+
+  §2. In the citation the parties are to be informed that they can present a brief written statement to the tribunal to verify their claims at least three days before the hearing.
+
+**Can. 1662** At the hearing the questions mentioned in  cann. 1459-1464 are treated first.
+
+**Can. 1663**
+  §1. The proofs are collected at the hearing without prejudice to the prescript of  can. 1418.
+
+  §2. A party and his or her advocate can be present at the examination of the other parties, the witnesses, and the experts.
+
+**Can. 1664** The notary must put into writing the responses of the parties, the witnesses, and the experts and the petitions and exceptions of the advocates, but in a summary fashion and only in those matters pertaining to the substance of the dispute; the deponents must sign these acts.
+
+**Can. 1665** The judge can admit proofs which are not brought forth or sought in the petition or response only according to the norm of  can. 1452. After even one witness has been heard, however, the judge can only decide about new proofs according to the norm of can. 1600.
+
+**Can. 1666** If all the proofs were not able to be collected during the hearing, a second hearing is to be scheduled.
+
+**Can. 1667** When the proofs have been collected, the oral discussion takes place at the same hearing.
+
+**Can. 1668**
+  §1. Unless the discussion reveals that something must be supplied in the instruction of the case or something else turns up which prevents a proper pronouncement of the sentence, at the completion of the hearing the judge in private is to decide the case immediately; the dispositive part of the sentence is to be read at once before the parties who are present.
+
+  §2. The tribunal can defer the decision up to the fifth useful day because of the difficulty of the matter or for some other just cause.
+
+  §3. The complete text of the sentence with the reasons expressed is to be communicated to the parties as soon as possible, ordinarily in not more than fifteen days.
+
+**Can. 1669** If the appellate tribunal discovers that the oral contentious process was used at a lower grade of a trial in cases excluded by law, it is to declare the nullity of the sentence and remit the case to the tribunal which rendered the sentence.
+
+**Can. 1670** In other matters pertaining to the manner of proceeding, the prescripts of the canons for the ordinary contentious trial are to be observed. In order to expedite matters without prejudice to justice, however, the tribunal, by a decree expressing the reasons for its decision, can derogate from procedural norms which have not been established for validity.
+
+**Can. 1671** Marriage cases of the baptized belong to the ecclesiastical judge by proper right.
+
+**Can. 1672** Cases concerning the merely civil effects of marriage belong to the civil magistrate unless particular law establishes that an ecclesiastical judge can investigate and decide these cases if they are done in an incidental or accessory manner.
+
+**Can. 1673** In cases concerning the nullity of marriage which are not reserved to the Apostolic See, the following are competent:
+
+1. the tribunal of the place in which the marriage was celebrated;
+
+2. the tribunal of the place in which the respondent has a domicile or quasi-domicile;
+
+3. the tribunal of the place in which the petitioner has a domicile, provided that both parties live in the territory of the same conference of bishops and the judicial vicar of the domicile of the respondent gives consent after he has heard the respondent;
+
+4. the tribunal of the place in which in fact most of the proofs must be collected, provided that consent is given by the judicial vicar of the domicile of the respondent, who is first to ask if the respondent has any exception to make.
+
+**Can. 1674** The following are qualified to challenge a marriage:
+
+1. the spouses;
+
+2. the promoter of justice when nullity has already become public, if the convalidation of the marriage is not possible or expedient.
+
+**Can. 1675**
+  §1. A marriage which was not accused while both spouses were living cannot be accused after the death of either one or both of the spouses unless the question of validity is prejudicial to the resolution of another controversy either in the canonical forum or in the civil forum.
+
+  §2. If a spouse dies while the case is pending, however,  can. 1518 is to be observed.
+
+**Can. 1676** Before accepting a case and whenever there is hope of a favorable outcome, a judge is to use pastoral means to induce the spouses if possible to convalidate the marriage and restore conjugal living.
+
+**Can. 1677**
+  §1. When the libellus has been accepted, the presiding judge or the ponens is to proceed to the communication of the decree of citation according to the norm of  can. 1508.
+
+  §2. When fifteen days have passed from the communication and unless either party has requested a session for the joinder of the issue, the presiding judge or the ponens is to establish the formula of the doubt or doubts within ten days by ex officio decree and is to notify the parties.
+
+  §3. The formula of the doubt not only is to ask whether the nullity of the marriage is established in the case but also must determine on what ground or grounds the validity of the marriage is to be challenged.
+
+  §4. Ten days after the communication of the decree, the presiding judge or the ponens is to arrange for the instruction of the case by a new decree if the parties have lodged no objection.
+
+**Can. 1678**
+  §1. The defender of the bond, the legal representatives of the parties, and also the promoter of justice, if involved in the trial, have the following rights:
+
+1. to be present at the examination of the parties, the witnesses, and the experts, without prejudice to the prescript of can. 1559;
+
+2. to inspect the judicial acts, even those not yet published, and to review the documents presented by the parties.
+
+  §2. The parties cannot be present at the examination mentioned in Â§1, n. 1.
+
+**Can. 1679** Unless there are full proofs from elsewhere, in order to evaluate the depositions of the parties according to the norm of  can. 1536, the judge, if possible, is to use witnesses to the credibility of those parties in addition to other indications and supporting factors.
+
+**Can. 1680** In cases of impotence or defect of consent because of mental illness, the judge is to use the services of one or more experts unless it is clear from the circumstances that it would be useless to do so; in other cases the prescript of  can. 1574 is to be observed.
+
+**Can. 1681** Whenever, during the instruction of a case, a very probable doubt emerges that consummation of the marriage did not occur, after suspending the case of nullity with the consent of the parties, the tribunal can complete the instruction for a dispensation super rato and then transmit the acts to the Apostolic See together with a petition for a dispensation from either one or both of the spouses and the votum of the tribunal and the bishop.
+
+**Can. 1682**
+  §1. The sentence which first declared the nullity of the marriage is to be transmitted ex officio to the appellate tribunal within twenty days from the publication of the sentence, together with the appeals, if there are any, and the other acts of the trial.
+
+  §2. If a sentence in favor of the nullity of a marriage was given in the first grade of a trial, the appellate tribunal is either to confirm the decision at once by decree or to admit the case to an ordinary examination in a new grade, after having weighed carefully the observations of the defender of the bond and those of the parties if there are any.
+
+**Can. 1683** If a new ground of nullity of the marriage is alleged at the appellate grade, the tribunal can admit it and judge it as if in first instance.
+
+**Can. 1684**
+  §1. After the sentence which first declared the nullity of the marriage has been confirmed at the appellate grade either by a decree or by a second sentence, the persons whose marriage has been declared null can contract a new marriage as soon as the decree or second sentence has been communicated to them unless a prohibition attached to the sentence or decree or established by the local ordinary has forbidden this.
+
+  §2. The prescripts of  can. 1644 must be observed even if the sentence which declared the nullity of the marriage was confirmed not by a second sentence but by a decree.
+
+**Can. 1685** As soon as the sentence is executed, the judicial vicar must notify the local ordinary of the place in which the marriage was celebrated. The local ordinary must take care that the declaration of the nullity of the marriage and any possible prohibitions are noted as soon as possible in the marriage and baptismal registers.
+
+**Can. 1686** After receiving a petition proposed according to the norm of  can. 1677, the judicial vicar or a judge designated by him can declare the nullity of a marriage by sentence if a document subject to no contradiction or exception clearly establishes the existence of a diriment impediment or a defect of legitimate form, provided that it is equally certain that no dispensation was given, or establishes the lack of a valid mandate of a proxy. In these cases, the formalities of the ordinary process are omitted except for the citation of the parties and the intervention of the defender of the bond.
+
+**Can. 1687**
+  §1. If the defender of the bond prudently thinks that either the flaws mentioned in  can. 1686 or the lack of a dispensation are not certain, the defender of the bond must appeal against the declaration of nullity to the judge of second instance; the acts must be sent to the appellate judge who must be advised in writing that a documentary process is involved.
+
+  §2. The party who considers himself or herself aggrieved retains the right of appeal.
+
+**Can. 1688** The judge of second instance, with the intervention of the defender of the bond and after having heard the parties, will decide in the same manner as that mentioned in  can. 1686 whether the sentence must be confirmed or whether the case must rather proceed according to the ordinary method of law; in the latter event the judge remands the case to the tribunal of first instance.
+
+**Can. 1689** In the sentence the parties are to be reminded of the moral and even civil obligations which may bind them both toward one another and toward their children to furnish support and education.
+
+**Can. 1690** Cases for the declaration of the nullity of a marriage cannot be treated in an oral contentious process.
+
+**Can. 1691** In other procedural matters, the canons on trials in general and on the ordinary contentious trial must be applied unless the nature of the matter precludes it; the special norms for cases concerning the status of persons and cases pertaining to the public good are to be observed.
+
+**Can. 1692**
+  §1. Unless other provision is legitimately made in particular places, a decree of the diocesan bishop or a judicial sentence can decide the personal separation of baptized spouses according to the norm of the following canons.
+
+  §2. Where an ecclesiastical decision has no civil effects or if a civil sentence is not contrary to divine law, the bishop of the diocese of the residence of the spouses, after having weighed the special circumstances, can grant permission to approach the civil forum.
+
+  §3. If a case concerns only the merely civil effects of marriage, the judge, after having observed the prescript of Â§2, is to try to defer the case to the civil forum from the start.
+
+**Can. 1693**
+  §1. Unless a party or the promoter of justice requests the ordinary contentious process, the oral contentious process is to be used.
+
+  §2. If the ordinary contentious process has been used and an appeal is proposed, the tribunal of second grade, observing what is required, is to proceed according to the norm of  can. 1682,Â§2.
+
+**Can. 1694** The prescripts of  can. 1673 are to be observed in what pertains to the competence of the tribunal.
+
+**Can. 1695** Before accepting the case and whenever there is hope of a favorable outcome, the judge is to use pastoral means to reconcile the spouses and persuade them to restore conjugal living.
+
+**Can. 1696** Can. * 1697 Only the spouses, or one of them even if the other is unwilling, have the right to petition for the favor of* *a dispensation from a marriage *ratum et non consummatum*.**
+
+**Can. 1698**
+  §1. Only the Apostolic See adjudicates the fact of the non-consummation of a marriage and the existence of a just cause to grant a dispensation.
+
+  §2. Only the Roman Pontiff, however, grants the dispensation.
+
+**Can. 1699**
+  §1. The person competent to accept a libellus seeking a dispensation is the diocesan bishop of the domicile or quasi-domicile of the petitioner, who must arrange for the instruction of the process if the petition is well founded.
+
+  §2. If the proposed case has special difficulties of the juridical or moral order, however, the diocesan bishop is to consult the Apostolic See.
+
+  §3. Recourse to the Apostolic See is available against a decree by which a bishop rejects a libellus.
+
+**Can. 1700**
+  §1. Without prejudice to the prescript of  can. 1681, the bishop is to entrust the instruction of these processes either in a stable manner or in individual cases to his tribunal, that of another diocese, or a suitable priest.
+
+  §2. If a judicial petition to declare the nullity of the same marriage has been introduced, however, the instruction is to be entrusted to the same tribunal.
+
+**Can. 1701**
+  §1. The defender of the bond must always intervene in these processes.
+
+  §2. A legal representative is not admitted, but because of the difficulty of a case, a bishop can permit the petitioner or the respondent to have the assistance of a legal expert.
+
+**Can. 1702** In the instruction each spouse is to be heard, and the canons on the collection of proofs in the ordinary contentious trial and in cases of the nullity of marriage are to be observed insofar as possible, provided that they can be reconciled with the character of these processes.
+
+**Can. 1703**
+  §1. There is no publication of the acts. If the judge perceives that the proofs brought forward seriously hinder the request of the petitioner or the exception of the respondent, however, he is prudently to inform the interested party.
+
+  §2. The judge can show a document introduced or a testimony received to a party who requests it and set a time to present observations.
+
+**Can. 1704**
+  §1. When the instruction has been completed, the instructor is to give all the acts along with a suitable report to the bishop, who is to prepare a votum on the veracity of the fact of the non-consummation, the just cause for the dispensation, and the suitability of the favor.
+
+  §2. If the instruction of the process has been entrusted to another tribunal according to the norm of  can. 1700, the observations in favor of the bond are to be made in the same forum; the votum mentioned in Â§1, however, pertains to the entrusting bishop, to whom the instructor is to hand over a suitable report together with the acts.
+
+**Can. 1705**
+  §1. The bishop is to transmit to the Apostolic See all the acts together with his votum and the observations of the defender of the bond.
+
+  §2. If supplemental instruction is required in the judgment of the Apostolic See, this requirement will be communicated to the bishop with an indication of the points on which the instruction must be completed.
+
+  §3. If the Apostolic See replies that non-consummation has not been established from the materials presented, then the legal expert mentioned in  can. 1701, Â§2 can inspect the acts of the process, though not the votum of the bishop, at the tribunal to consider whether any grave reason can be brought forth in order to resubmit the petition.
+
+**Can. 1706** The Apostolic See transmits the rescript of the dispensation to the bishop who will notify the parties about the rescript and also as soon as possible will order the pastor both of the place where the marriage was contracted and of the place of baptism to note the granting of the dispensation in the marriage and baptismal registers.
+
+**Can. 1707**
+  §1. Whenever the death of a spouse cannot be proven by an authentic ecclesiastical or civil document, the other spouse is not considered free from the bond of marriage until after the diocesan bishop has issued a declaration of presumed death.
+
+  §2. The diocesan bishop is able to issue the declaration mentioned in Â§1 only if, after having carried out appropriate investigations, he attains moral certitude of the death of the spouse from the depositions of witnesses, from rumor, or from evidence. The absence of a spouse alone, even for a long time, is not sufficient.
+
+  §3. The bishop is to consult the Apostolic See in uncertain and complicated cases.
+
+**Can. 1708** The cleric himself, the ordinary to whom the cleric is subject, or the ordinary in whose diocese the cleric was ordained has the right to challenge the validity of sacred ordination.
+
+**Can. 1709**
+  §1. The libellus must be sent to the competent congregation which will decide whether the congregation of the Roman Curia itself or a tribunal designated by it must handle the case.
+
+  §2. Once the libellus has been sent, the cleric is forbidden to exercise orders by the law itself.
+
+**Can. 1710** If the congregation refers the case to a tribunal, the canons on trials in general and on the ordinary contentious trial are to be observed unless the nature of the matter precludes it and without prejudice to the prescripts of this title.
+
+**Can. 1711** In these cases the defender of the bond possesses the same rights and is bound by the same duties as the defender of the marriage bond.
+
+**Can. 1712** After a second sentence has confirmed the nullity of sacred ordination, the cleric loses all rights proper to the clerical state and is freed from all obligations.
+
+**Can. 1713** In order to avoid judicial contentions an agreement or reconciliation is employed usefully, or the controversy can be committed to the judgment of one or more arbitrators.
+
+**Can. 1714** For an agreement, a compromise, and an arbitrated judgment, the norms selected by the parties or, if the parties have selected none, the law laid down by the conference of bishops, if there is such a law, or the civil law in force in the place where the agreement is entered into is to be observed.
+
+**Can. 1715**
+  §1. An agreement or compromise cannot be made validly concerning matters which pertain to the public good and other matters about which the parties cannot make disposition freely.
+
+  §2. For temporal ecclesiastical goods, the formalities established by law for the alienation of ecclesiastical goods are to be observed whenever the matter demands it.
+
+**Can. 1716**
+  §1. If the civil law does not recognize the force of an arbitrated sentence unless a judge confirms it, an arbitrated sentence in an ecclesiastical controversy, in order to have force in the canonical forum, needs the confirmation of an ecclesiastical judge of the place where it was rendered.
+
+  §2. If civil law permits the challenge of an arbitrated judgment before a civil judge, however, the same challenge can be proposed in the canonical forum before an ecclesiastical judge competent to judge the controversy in the first grade.
+
+**Can. 1717**
+  §1. Whenever an ordinary has knowledge, which at least seems true, of a delict, he is carefully to inquire personally or through another suitable person about the facts, circumstances, and imputability, unless such an inquiry seems entirely superfluous.
+
+  §2. Care must be taken so that the good name of anyone is not endangered from this investigation.
+
+  §3. The person who conducts the investigation has the same powers and obligations as an auditor in the process; the same person cannot act as a judge in the matter if a judicial process is initiated later.
+
+**Can. 1718**
+  §1. When it seems that sufficient evidence has been collected, the ordinary is to decide:
+
+1. whether a process to inflict or declare a penalty can be initiated;
+
+2. whether, attentive to  can. 1341, this is expedient;
+
+3. whether a judicial process must be used or, unless the law forbids it, whether the matter must proceed by way of extrajudicial decree.
+
+  §2. The ordinary is to revoke or change the decree mentioned in Â§1 whenever new evidence indicates to him that another decision is necessary.
+
+  §3. In issuing the decrees mentioned in Â§Â§1 and 2, the ordinary is to hear two judges or other experts of the law if he considers it prudent.
+
+  §4. Before he makes a decision according to the norm of Â§1 and in order to avoid useless trials, the ordinary is to examine carefully whether it is expedient for him or the investigator, with the consent of the parties, to resolve equitably the question of damages.
+
+**Can. 1719** The acts of the investigation, the decrees of the ordinary which initiated and concluded the investigation, and everything which preceded the investigation are to be kept in the secret archive of the curia if they are not necessary for the penal process.
+
+**Can. 1720** If the ordinary thinks that the matter must proceed by way of extrajudicial decree:
+
+1. he is to inform the accused of the accusation and the proofs, giving an opportunity for self-defense, unless the accused neglected to appear after being properly summoned;
+
+2. he is to weigh carefully all the proofs and arguments with two assessors;
+
+3. if the delict is certainly established and a criminal action is not extinguished, he is to issue a decree according to the norm of  cann. 1342-1350, setting forth the reasons in law and in fact at least briefly.
+
+**Can. 1721**
+  §1. If the ordinary has decreed that a judicial penal process must be initiated, he is to hand over the acts of the investigation to the promoter of justice who is to present a libellus of accusation to the judge according to the norm of cann.  1502 and 1504.
+
+  §2. The promoter of justice appointed to the higher tribunal acts as the petitioner before that tribunal.
+
+**Can. 1722** To prevent scandals, to protect the freedom of witnesses, and to guard the course of justice, the ordinary, after having heard the promoter of justice and cited the accused, at any stage of the process can exclude the accused from the sacred ministry or from some office and ecclesiastical function, can impose or forbid residence in some place or territory, or even can prohibit public participation in the Most Holy Eucharist. Once the cause ceases, all these measures must be revoked; they also end by the law itself when the penal process ceases.
+
+**Can. 1723**
+  §1. The judge who cites the accused must invite the accused to appoint an advocate according to the norm of can. 1481, Â§1 within the time limit set by the judge.
+
+  §2. If the accused does not make provision, the judge is to appoint an advocate before the joinder of the issue; this advocate will remain in this function as long as the accused does not appoint an advocate personally.
+
+**Can. 1724**
+  §1. At any grade of the trial the promoter of justice can renounce the trial at the command of or with the consent of the ordinary whose deliberation initiated the process.
+
+  §2. For validity the accused must accept the renunciation unless the accused was declared absent from the trial.
+
+**Can. 1725** In the discussion of the case, whether done in written or oral form, the accused, either personally or through the advocate or procurator, always has the right to write or speak last.
+
+**Can. 1726** If at any grade and stage of the penal trial it is evidently established that the accused did not commit the delict, the judge must declare this in a sentence and absolve the accused even if it is also established that criminal action has been extinguished.
+
+**Can. 1727**
+  §1. The accused can propose an appeal even if the sentence dismissed the accused only because the penalty was facultative or because the judge used the power mentioned in cann. 1344 and  1345.
+
+  §2. The promoter of justice can appeal whenever the promoter judges that the repair of scandal or the restoration of justice has not been provided for sufficiently.
+
+**Can. 1728**
+  §1. Without prejudice to the prescripts of the canons of this title and unless the nature of the matter precludes it, the canons on trials in general and on the ordinary contentious trial must be applied in a penal trial; the special norms for cases which pertain to the public good are also to be observed.
+
+  §2. The accused is not bound to confess the delict nor can an oath be administered to the accused.
+
+**Can. 1729**
+  §1. In the penal trial itself an injured party can bring a contentious action to repair damages incurred personally from the delict, according to the norm of  can. 1596.
+
+  §2. The intervention of the injured party mentioned in Â§1 is not admitted later if it was not made in the first grade of the penal trial.
+
+  §3. The appeal in a case for damages is made according to the norm of  cann. 1628-1640 even if an appeal cannot be made in the penal trial; if both appeals are proposed, although by different parties, there is to be a single appellate trial, without prejudice to the prescript of  can. 1730.
+
+**Can. 1730**
+  §1. To avoid excessive delays in the penal trial the judge can defer the judgment for damages until he has rendered the definitive sentence in the penal trial.
+
+  §2. After rendering the sentence in the penal trial, the judge who does this must adjudicate for damages even if the penal trial still is pending because of a proposed challenge or the accused has been absolved for a cause which does not remove the obligation to repair damages.
+
+**Can. 1731** Even if the sentence rendered in a penal trial has become a res iudicata, it in no way establishes the right of the injured party unless this party has intervened according to the norm of can. 1729.
+
+**Can. 1732** What is established in the canons of this section concerning decrees must be applied to all singular administrative acts which are given in the external forum outside a trial excepting those which have been issued by the Roman Pontiff or an ecumenical council.
+
+**Can. 1733**
+  §1. Whenever a person considers himself or herself aggrieved by a decree, it is particularly desirable that the person and the author of the decree avoid any contention and take care to seek an equitable solution by common counsel, possibly using the mediation and effort of wise persons to avoid or settle the controversy in a suitable way.
+
+  §2. The conference of bishops can determine that each diocese establish in a stable manner an office or council whose function is to seek and suggest equitable solutions according to the norms determined by the conference. If the conference has not ordered this, however, the bishop can establish a council or office of this kind.
+
+  §3. The office or council mentioned in Â§2 is especially to be of assistance when the revocation of a decree has been requested according to the norm of  can. 1734 and the time limits for making recourse have not elapsed. If recourse has been proposed against a decree, however, the superior who deals with the recourse is to urge the person making recourse and the author of the decree to seek a solution of this kind whenever he sees hope of a favorable outcome.
+
+**Can. 1734**
+  §1. Before proposing recourse a person must seek the revocation or emendation of the decree in writing from its author. When this petition is proposed, by that very fact suspension of the execution of the decree is also understood to be requested.
+
+  §2. The petition must be made within the peremptory period of ten useful days from the legitimate notification of the decree.
+
+  §3. The norms of Â§Â§1 and 2 are not valid:
+
+1. for recourse proposed to a bishop against decrees issued by authorities subject to him;
+
+2. for recourse proposed against a decree which decides a hierarchical recourse unless the bishop gave the decision;
+
+3. for recourse proposed according to the norm of cann.  57 and  1735.
+
+**Can. 1735** If within thirty days after receiving the petition mentioned in  can. 1734 the author of the decree communicates a new decree by which he either emends the earlier one or decides that the petition must be rejected, the time limits for making recourse run from the notification of the new decree. If the author makes no decision within the thirty days, however, the time limits run from the thirtieth day.
+
+**Can. 1736**
+  §1. In those matters in which hierarchical recourse suspends the execution of a decree, the petition mentioned in  can. 1734 also has the same effect.
+
+  §2. In other cases, if the author of the decree has not decreed the suspension of execution within ten days after receiving the petition mentioned in  can. 1734, an interim suspension can be sought from his hierarchical superior who can decree a suspension only for grave reasons and always cautiously so that the salvation of souls suffers no harm.
+
+  §3. If the execution of the decree has been suspended according to the norm of Â§2 and recourse is proposed afterwards, the person who must deal with the recourse according to the norm of can. 1737, Â§3 is to decide whether the suspension must be confirmed or revoked.
+
+  §4. If no recourse is proposed against the decree within the established time limit, the interim suspension of the execution given according to the norm of Â§Â§1 or 2 ceases by that very fact.
+
+**Can. 1737**
+  §1. A person who claims to have been aggrieved by a decree can make recourse for any just reason to the hierarchical superior of the one who issued the decree. The recourse can be proposed before the author of the decree who must transmit it immediately to the competent hierarchical superior.
+
+  §2. Recourse must be proposed within the peremptory time limit of fifteen useful days which in the cases mentioned in can. 1734, Â§3 run from the day on which the decree was communicated; in other cases, however, they run according to the norm of can. 1735.
+
+  §3. Nevertheless, even in cases in which recourse does not suspend the execution of the decree by the law itself and suspension has not been decreed according to the norm of  can. 1736,Â§2, the superior can order the execution to be suspended for a grave cause, yet cautiously so that the salvation of souls suffers no harm.
+
+**Can. 1738** The person making recourse always has the right to use an advocate or procurator, but useless delays are to be avoided; indeed, a legal representative is to be appointed ex officio if the person making recourse lacks one and the superior thinks it necessary. Nevertheless, the superior always can order the person making recourse to be present in order to be questioned.
+
+**Can. 1739** The superior who deals with the recourse, as the case warrants, is permitted not only to confirm the decree or declare it invalid but also to rescind or revoke it or, if it seems more expedient to the superior, to emend, replace, or modify it.
+
+**Can. 1740** When the ministry of any pastor becomes harmful or at least ineffective for any cause, even through no grave personal negligence, the diocesan bishop can remove him from the parish.
+
+**Can. 1741** The causes for which a pastor can be removed legitimately from his parish are especially the following:
+
+1. a manner of acting which brings grave detriment or disturbance to ecclesiastical communion;
+
+2. ineptitude or a permanent infirmity of mind or body which renders the pastor unable to fulfill his functions usefully;
+
+3. loss of a good reputation among upright and responsible parishioners or an aversion to the pastor which it appears will not cease in a brief time;
+
+4. grave neglect or violation of parochial duties which persists after a warning;
+
+5. poor administration of temporal affairs with grave damage to the Church whenever another remedy to this harm cannot be found.
+
+**Can. 1742**
+  §1. If the instruction which was carried out has established the existence of one of the causes mentioned in can. 1740, the bishop is to discuss the matter with two pastors selected from the group established for this purpose in a stable manner by the presbyteral council at the proposal of the bishop. If the bishop then judges that removal must take place, he paternally is to persuade the pastor to resign within fifteen days, after having explained, for validity, the cause and arguments for the removal.
+
+  §2. The prescript of  can. 682,Â§2 is to be observed for pastors who are members of a religious institute or a society of apostolic life.
+
+**Can. 1743** A pastor can submit a resignation not only purely and simply but also conditionally, provided that the bishop can accept it legitimately and actually does accept it.
+
+**Can. 1744**
+  §1. If the pastor has not responded within the prescribed days, the bishop is to repeat the invitation and extend the useful time to respond.
+
+  §2. If the bishop establishes that the pastor received the second invitation but did not respond even though not prevented by any impediment, or if the pastor refuses to resign without giving any reasons, the bishop is to issue a decree of removal.
+
+**Can. 1745** If the pastor opposes the cause given and its reasons and alleges reasons which seem insufficient to the bishop, the bishop, in order to act validly, is:
+
+1. to invite the pastor to organize his objections in a written report after he has inspected the acts, and offer any proofs he has to the contrary;
+
+2. when any necessary instruction is completed, to consider the matter together with the same pastors mentioned in can. 1742, Â§1, unless others must be designated because those pastors are unavailable;
+
+3. finally, to establish whether the pastor must be removed or not and promptly to issue a decree on the matter.
+
+**Can. 1746** After the pastor has been removed, the bishop is to make provision either for an assignment to some other office, if he is suitable for this, or for a pension as the case warrants and circumstances permit.
+
+**Can. 1747**
+  §1. The removed pastor must refrain from exercising the function of pastor, vacate the rectory as soon as possible, and hand over everything belonging to the parish to the person to whom the bishop has entrusted the parish.
+
+  §2. If, however, the man is sick and cannot be transferred elsewhere from the rectory without inconvenience, the bishop is to leave him the use, even exclusive use, of the rectory while this necessity lasts.
+
+  §3. While recourse against a decree of removal is pending, the bishop cannot appoint a new pastor, but is to provide a parochial administrator in the meantime.
+
+**Can. 1748** If the good of souls or the necessity or advantage of the Church demands that a pastor be transferred from a parish which he is governing usefully to another parish or another office, the bishop is to propose the transfer to him in writing and persuade him to consent to it out of love of God and souls.
+
+**Can. 1749** If the pastor does not intend to submit to the counsel and persuasions of the bishop, he is to explain the reasons in writing.
+
+**Can. 1750** Notwithstanding the reasons alleged, if the bishop decides not to withdraw from his proposal, he is to consider the reasons which favor or oppose the transfer with two pastors selected according to the norm of  can. 1742, Â§1. If he then decides to implement the transfer, however, he is to repeat the paternal exhortations to the pastor.
+
+**Can. 1751**
+  §1. When this has been done, if the pastor still refuses and the bishop thinks that the transfer must be made, he is to issue a decree of transfer, establishing that the parish will be vacant after the lapse of a set time.
+
+  §2. If this period of time has passed without action, he is to declare the parish vacant.
+
+**Can. 1752** In cases of transfer the prescripts of can. 1747 are to be applied, canonical equity is to be observed, and the salvation of souls, which must always be the supreme law in the Church, is to be kept before ones eyes.
+
+
+---
+
+*Source: Code of Canon Law (1983), Libreria Editrice Vaticana*

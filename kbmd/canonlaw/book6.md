@@ -1,0 +1,455 @@
+---
+title: "Book VI: Sanctions in the Church"
+source: "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html"
+category: canonlaw
+ingested: 2026-06-15T17:16:20.038874+00:00
+---
+
+# Book VI: Sanctions in the Church
+
+*Code of Canon Law (1983), Canons 1311-1399*
+
+**Can. 1311** The Church has the innate and proper right to coerce offending members of the Christian faithful with penal sanctions.
+
+**Can. 1312**
+  §1. The following are penal sanctions in the Church:
+
+1. medicinal penalties, or censures, which are listed in  cann. 1331-1333;
+
+2. expiatory penalties mentioned in can. 1336.
+
+  §2. The law can establish other expiatory penalties which deprive a member of the Christian faithful of some spiritual or temporal good and which are consistent with the supernatural purpose of the Church.
+
+  §3. Penal remedies and penances are also used; the former especially to prevent delicts, the latter to substitute for or to increase a penalty.
+
+**Can. 1313**
+  §1. If a law is changed after a delict has been committed, the law more favorable to the accused is to be applied.
+
+  §2. If a later law abolishes a law or at least the penalty, the penalty immediately ceases.
+
+**Can. 1314** Generally, a penalty is ferendae sententiae, so that it does not bind the guilty party until after it has been imposed; if the law or precept expressly establishes it, however, a penalty is latae sententiae, so that it is incurred ipso facto when the delict is committed.
+
+**Can. 1315**
+  §1. A person who has legislative power can also issue penal laws; within the limits of his competence by reason of territory or of persons, moreover, he can by his own laws also strengthen with an appropriate penalty a divine law or an ecclesiastical law issued by a higher authority.
+
+  §2. The law itself can determine a penalty, or its determination can be left to the prudent appraisal of a judge.
+
+  §3. Particular law also can add other penalties to those established by universal law for some delict; however, this is not to be done except for very grave necessity. If universal law threatens an indeterminate or facultative penalty, particular law can also establish a determinate or obligatory one in its place.
+
+**Can. 1316** Insofar as possible, diocesan bishops are to take care that if penal laws must be issued, they are uniform in the same city or region.
+
+**Can. 1317** Penalties are to be established only insofar as they are truly necessary to provide more suitably for ecclesiastical discipline. Particular law, however, cannot establish a penalty of dismissal from the clerical state.
+
+**Can. 1318** A legislator is not to threaten latae sententiae penalties except possibly for certain singularly malicious delicts which either can result in graver scandal or cannot be punished effectively by ferendae sententiae penalties; he is not, however, to establish censures, especially excommunication, except with the greatest moderation and only for graver delicts.
+
+**Can. 1319**
+  §1. Insofar as a person can impose precepts in the external forum in virtue of the power of governance, the person can also threaten determinate penalties by precept, except perpetual expiatory penalties.
+
+  §2. A penal precept is not to be issued unless the matter has been considered thoroughly and those things established in cann. 1317 and  1318 about particular laws have been observed.
+
+**Can. 1320** The local ordinary can coerce religious with penalties in all those matters in which they are subject to him.
+
+**Can. 1321**
+  §1. No one is punished unless the external violation of a law or precept, committed by the person, is gravely imputable by reason of malice or negligence.
+
+  §2. A penalty established by a law or precept binds the person who has deliberately violated the law or precept; however, a person who violated a law or precept by omitting necessary diligence is not punished unless the law or precept provides otherwise.
+
+  §3. When an external violation has occurred, imputability is presumed unless it is otherwise apparent.
+
+**Can. 1322** Those who habitually lack the use of reason are considered to be incapable of a delict, even if they violated a law or precept while seemingly sane.
+
+**Can. 1323** The following are not subject to a penalty when they have violated a law or precept:
+
+1. a person who has not yet completed the sixteenth year of age;
+
+2. a person who without negligence was ignorant that he or she violated a law or precept; inadvertence and error are equivalent to ignorance;
+
+3. a person who acted due to physical force or a chance occurrence which the person could not foresee or, if foreseen, avoid;
+
+4. a person who acted coerced by grave fear, even if only relatively grave, or due to necessity or grave inconvenience unless the act is intrinsically evil or tends to the harm of souls;
+
+5. a person who acted with due moderation against an unjust aggressor for the sake of legitimate self defense or defense of another;
+
+6. a person who lacked the use of reason, without prejudice to the prescripts of cann.  1324, Â§1, n. 2 and  1325;
+
+7. a person who without negligence thought that one of the circumstances mentioned in nn. 4 or 5 was present.
+
+**Can. 1324**
+  §1. The perpetrator of a violation is not exempt from a penalty, but the penalty established by law or precept must be tempered or a penance employed in its place if the delict was committed:
+
+1. by a person who had only the imperfect use of reason;
+
+2. by a person who lacked the use of reason because of drunkenness or another similar culpable disturbance of mind;
+
+3. from grave heat of passion which did not precede and hinder all deliberation of mind and consent of will and provided that the passion itself had not been stimulated or fostered voluntarily;
+
+4. by a minor who has completed the age of sixteen years;
+
+5. by a person who was coerced by grave fear, even if only relatively grave, or due to necessity or grave inconvenience if the delict is intrinsically evil or tends to the harm of souls;
+
+6. by a person who acted without due moderation against an unjust aggressor for the sake of legitimate self defense or defense of another;
+
+7. against someone who gravely and unjustly provokes the person;
+
+8. by a person who thought in culpable error that one of the circumstances mentioned in  can. 1323, nn. 4 or 5 was present;
+
+9. by a person who without negligence did not know that a penalty was attached to a law or precept;
+
+10. by a person who acted without full imputability provided that the imputability was grave.
+
+  §2. A judge can act in the same manner if another circumstance is present which diminishes the gravity of a delict.
+
+  §3. In the circumstances mentioned in Â§1, the accused is not bound by a latae sententiae penalty.
+
+**Can. 1325** Crass, supine, or affected ignorance can never be considered in applying the prescripts of cann.  1323 and  1324; likewise drunkenness or other disturbances of mind cannot be considered if they are sought deliberately in order to commit or excuse a delict, nor can passion which is voluntarily stimulated or fostered.
+
+**Can. 1326**
+  §1. A judge can punish the following more gravely than the law or precept has established:
+
+1. a person who after a condemnation or after the declaration of a penalty continues so to offend that from the circumstances the obstinate ill will of the person can prudently be inferred;
+
+2. a person who has been established in some dignity or who has abused a position of authority or office in order to commit the delict;
+
+3. an accused person who, when a penalty has been established against a delict based on negligence, foresaw the event and nonetheless omitted precautions to avoid it, which any diligent person would have employed.
+
+  §2. If the penalty established in the cases mentioned in Â§1 is latae sententiae, another penalty or a penance can be added.
+
+**Can. 1327** Particular law can establish other exempting, mitigating, or aggravating circumstances besides the cases in  cann. 1323-1326, either by general norm or for individual delicts. Likewise, circumstances can be established in a precept which exempt from, mitigate, or increase a penalty established by the precept.
+
+**Can. 1328**
+  §1. A person who has done or omitted something in order to commit a delict and yet, contrary to his or her intent, did not commit the delict is not bound by the penalty established for a completed delict unless the law or precept provides otherwise.
+
+  §2. If the acts or omissions are by their nature conducive to the execution of the delict, however, their perpetrator can be subjected to a penance or penal remedy unless the perpetrator voluntarily ceased from carrying out the delict which had been initiated. If scandal or some other grave damage or danger resulted, however, the perpetrator, even if he or she voluntarily desisted, can be punished with a just penalty, although one lesser than that established for a completed delict.
+
+**Can. 1329**
+  §1. If ferendae sententiae penalties are established for the principal perpetrator, those who conspire together to commit a delict and are not expressly named in a law or precept are subject to the same penalties or to others of the same or lesser gravity.
+
+  §2. Accomplices who are not named in a law or precept incur a latae sententiae penalty attached to a delict if without their assistance the delict would not have been committed, and the penalty is of such a nature that it can affect them; otherwise, they can be punished by ferendae sententiae penalties.
+
+**Can. 1330** A delict which consists in a declaration or in another manifestation of will, doctrine, or knowledge must not be considered completed if no one perceives the declaration or manifestation.
+
+**Can. 1331**
+  §1. An excommunicated person is forbidden:
+
+1. to have any ministerial participation in celebrating the sacrifice of the Eucharist or any other ceremonies of worship whatsoever;
+
+2. to celebrate the sacraments or sacramentals and to receive the sacraments;
+
+3. to exercise any ecclesiastical offices, ministries, or functions whatsoever or to place acts of governance.
+
+  §2. If the excommunication has been imposed or declared, the offender:
+
+1. who wishes to act against the prescript of Â§1, n. 1 must be prevented from doing so, or the liturgical action must be stopped unless a grave cause precludes this;
+
+2. invalidly places acts of governance which are illicit according to the norm of Â§1, n. 3;
+
+3. is forbidden to benefit from privileges previously granted;
+
+4. cannot acquire validly a dignity, office, or other function in the Church;
+
+5. does not appropriate the benefits of a dignity, office, any function, or pension, which the offender has in the Church.
+
+**Can. 1332** The prohibitions mentioned in  can. 1331, Â§1, nn. 1 and 2 bind an interdicted person. If the interdict has been imposed or declared, however, the prescript of  can. 1331, Â§2, n. 1 must be observed.
+
+**Can. 1333**
+  §1. Suspension, which can affect only clerics, prohibits:
+
+1. either all or some acts of the power of orders;
+
+2. either all or some acts of the power of governance;
+
+3. the exercise of either all or some of the rights or functions attached to an office.
+
+  §2. A law or precept can establish that a suspended person cannot place acts of governance validly after a condemnatory or declaratory sentence.
+
+  §3. A prohibition never affects:
+
+1. the offices or the power of governance which are not under the power of the superior who establishes the penalty;
+
+2. the right of residence which the offender may have by reason of office;
+
+3. the right to administer goods which may pertain to the office of the person suspended if the penalty is latae sententiae.
+
+  §4. A suspension prohibiting a person from receiving benefits, a stipend, pensions, or any other such thing entails the obligation of making restitution for whatever has been received illegitimately, even if in good faith.
+
+**Can. 1334**
+  §1. Within the limits established by the preceding canon, either the law or precept itself or the sentence or decree which imposes the penalty defines the extent of a suspension.
+
+  §2. A law, but not a precept, can establish a latae sententiae suspension without additional determination or limitation; such a penalty has all the eVects listed in  can. 1333, Â§1.
+
+**Can. 1335** If a censure prohibits the celebration of sacraments or sacramentals or the placing of an act of governance, the prohibition is suspended whenever it is necessary to care for the faithful in danger of death. If a latae sententiae censure has not been declared, the prohibition is also suspended whenever a member of the faithful requests a sacrament or sacramental or an act of governance; a person is permitted to request this for any just cause.
+
+**Can. 1336**
+  §1. In addition to other penalties which the law may have established, the following are expiatory penalties which can affect an offender either perpetually, for a prescribed time, or for an indeterminate time:
+
+1. a prohibition or an order concerning residence in a certain place or territory;
+
+2. privation of a power, office, function, right, privilege, faculty, favor, title, or insignia, even merely honorary;
+
+3. a prohibition against exercising those things listed under n. 2, or a prohibition against exercising them in a certain place or outside a certain place; these prohibitions are never under pain of nullity;
+
+4. a penal transfer to another office;
+
+5. dismissal from the clerical state.
+
+  §2. Only those expiatory penalties listed in Â§1, n. 3 can be latae sententiae.
+
+**Can. 1337**
+  §1. A prohibition against residing in a certain place or territory can affect both clerics and religious; however, the order to reside in a certain place or territory can affect secular clerics and, within the limits of the constitutions, religious.
+
+  §2. To impose an order to reside in a certain place or territory requires the consent of the ordinary of that place unless it is a question of a house designated for clerics doing penance or being rehabilitated even from outside the diocese.
+
+**Can. 1338**
+  §1. The privations and prohibitions listed in  can. 1336, Â§1, nn. 2 and 3, never affect powers, offices, functions, rights, privileges, faculties, favors, titles, or insignia which are not subject to the power of the superior who establishes the penalty.
+
+  §2. Privation of the power of orders is not possible but only a prohibition against exercising it or some of its acts; likewise, privation of academic degrees is not possible.
+
+  §3. The norm given in  can. 1335 for censures must be observed for the prohibitions listed in can. 1336, Â§1, n. 3.
+
+**Can. 1339**
+  §1. An ordinary, personally or through another, can warn a person who is in the proximate occasion of committing a delict or upon whom, after investigation, grave suspicion of having committed a delict has fallen.
+
+  §2. He can also rebuke a person whose behavior causes scandal or a grave disturbance of order, in a manner accommodated to the special conditions of the person and the deed.
+
+  §3. The warning or rebuke must always be established at least by some document which is to be kept in the secret archive of the curia.
+
+**Can. 1340**
+  §1. A penance, which can be imposed in the external forum, is the performance of some work of religion, piety, or charity.
+
+  §2. A public penance is never to be imposed for an occult transgression.
+
+  §3. According to his own prudent judgment, an ordinary can add penances to the penal remedy of warning or rebuke.
+
+**Can. 1341** An ordinary is to take care to initiate a judicial or administrative process to impose or declare penalties only after he has ascertained that fraternal correction or rebuke or other means of pastoral solicitude cannot sufficiently repair the scandal, restore justice, reform the offender.
+
+**Can. 1342**
+  §1. Whenever just causes preclude a judicial process, a penalty can be imposed or declared by extrajudicial decree; penal remedies and penances, however, can be applied by decree in any case whatsoever.
+
+  §2. Perpetual penalties cannot be imposed or declared by decree, nor can penalties be so applied when the law or precept establishing them prohibits their application by decree.
+
+  §3. What a law or precept states about the imposition or declaration of a penalty by a judge in a trial must be applied to a superior who imposes or declares a penalty by extrajudicial decree unless it is otherwise evident or unless it concerns prescripts which pertain only to procedural matters.
+
+**Can. 1343** If the law or precept gives the judge the power to apply or not apply a penalty, the judge can also temper the penalty or impose a penance in its place, according to his own conscience and prudence.
+
+**Can. 1344** Even if the law uses preceptive words, the judge can, according to his own conscience and prudence:
+
+1. defer the imposition of the penalty to a more opportune time if it is foreseen that greater evils will result from an offerly hasty punishment of the offender;
+
+2. abstain from imposing a penalty, impose a lighter penalty, or employ a penance if the offender has reformed and repaired the scandal or if the offender has been or, it is foreseen, will be punished sufficiently by civil authority;
+
+3. suspend the obligation of observing an expiatory penalty if it is the first offense of an offender who has lived a praiseworthy life and if the need to repair scandal is not pressing, but in such a way that if the offender commits an offense again within the time determined by the judge, the person is to pay the penalty due for each delict unless in the interim the time for the prescription of a penal action has elapsed for the first delict.
+
+**Can. 1345** Whenever the offender had only the imperfect use of reason or committed the delict from fear, necessity, the heat of passion, or mental disturbance from drunkenness or something similar, the judge can also abstain from imposing any penalty if he thinks that reform of the person can be better accomplished in another way.
+
+**Can. 1346** Whenever the offender has committed several delicts, it is left to the prudent decision of the judge to moderate the penalties within equitable limits if the sum of the feren dae sententiae penalties appears excessive.
+
+**Can. 1347**
+  §1. A censure cannot be imposed validly unless the offender has been warned at least once beforehand to withdraw from contumacy and has been given a suitable time for repentance.
+
+  §2. An offender who has truly repented of the delict and has also made suitable reparation for damages and scandal or at least has seriously promised to do so must be considered to have withdrawn from contumacy.
+
+**Can. 1348** When an accused is acquitted of an accusation or when no penalty is imposed, the ordinary can provide for the welfare of the person and for the public good through appropriate warnings and other means of pastoral solicitude or even through penal remedies if the matter warrants it.
+
+**Can. 1349** If a penalty is indeterminate and the law does not provide otherwise, the judge is not to impose graver penalties, especially censures, unless the seriousness of the case clearly demands it; he cannot, however, impose perpetual penalties.
+
+**Can. 1350**
+  §1. Unless it concerns dismissal from the clerical state, when penalties are imposed on a cleric, provision must always be made so that he does not lack those things necessary for his decent support.
+
+  §2. In the best manner possible, however, the ordinary is to take care to provide for a person dismissed from the clerical state who is truly in need because of the penalty.
+
+**Can. 1351** Unless other provision is expressly made, a penalty binds the offender everywhere, even when the authority of the one who established or imposed the penalty has lapsed.
+
+**Can. 1352**
+  §1. If a penalty prohibits the reception of the sacraments or sacramentals, the prohibition is suspended as long as the offender is in danger of death.
+
+  §2. The obligation to observe an undeclared latae sententiae penalty which is not notorious in the place where the offender is present, is suspended totally or partially whenever the offender cannot observe it without danger of grave scandal or infamy.
+
+**Can. 1353** An appeal or recourse from judicial sentences or from decrees, which impose or declare a penalty, has a suspensive effect.
+
+**Can. 1354**
+  §1. In addition to the persons listed in  cann. 1355-1356, all who can dispense from a law which includes a penalty or who can exempt from a precept which threatens a penalty can also remit that penalty.
+
+  §2. Moreover, a law or precept which establishes a penalty can also give the power of remission to others.
+
+  §3. If the Apostolic See has reserved the remission of a penalty to itself or to others, the reservation must be interpreted strictly.
+
+**Can. 1355**
+  §1. Provided that the penalty has not been reserved to the Apostolic See, the following can remit an imposed or declared penalty established by law:
+
+1. the ordinary who initiated the trial to impose or declare a penalty or who personally or through another imposed or declared it by decree;
+
+2. the ordinary of the place where the offender is present, after the ordinary mentioned under n. 1 has been consulted unless this is impossible because of extraordinary circumstances.
+
+  §2. If the penalty has not been reserved to the Apostolic See, an ordinary can remit a latae sententiae penalty established by law but not yet declared for his subjects and those who are present in his territory or who committed the offense there; any bishop can also do this in the act of sacramental confession.
+
+**Can. 1356**
+  §1. The following can remit a ferendae sententiae or latae sententiae penalty established by a precept not issued by the Apostolic See:
+
+1. the ordinary of the place where the offender is present;
+
+2. if the penalty has been imposed or declared, the ordinary who initiated the trial to impose or declare the penalty or who personally or through another imposed or declared it by decree.
+
+  §2. The author of the precept must be consulted before remission is made unless this is impossible because of extraordinary circumstances.
+
+**Can. 1357**
+  §1. Without prejudice to the prescripts of cann. 508 and 976, a confessor can remit in the internal sacramental forum an undeclared latae sententiae censure of excommunication or interdict if it is burdensome for the penitent to remain in the state of grave sin during the time necessary for the competent superior to make provision.
+
+  §2. In granting the remission, the confessor is to impose on the penitent, under the penalty of reincidence, the obligation of making recourse within a month to the competent superior or to a priest endowed with the faculty and the obligation of obeying his mandates; in the meantime he is to impose a suitable penance and, insofar as it is demanded, reparation of any scandal and damage; however, recourse can also be made through the confessor, without mention of the name.
+
+  §3. After they have recovered, those for whom an imposed or declared censure or one reserved to the Apostolic See has been remitted according to the norm of  can. 976 are also obliged to make recourse.
+
+**Can. 1358**
+  §1. Remission of a censure cannot be granted unless the offender has withdrawn from contumacy according to the norm of  can. 1347, Â§2; it cannot be denied, however, to a person who withdraws from contumacy.
+
+  §2. The person who remits a censure can make provision according to the norm of  can. 1348 or can even impose a penance.
+
+**Can. 1359** If several penalties bind a person, a remission is valid only for the penalties expressed in it; a general remission, however, takes away all penalties except those which the offender in bad faith omitted in the petition.
+
+**Can. 1360** The remission of a penalty extorted by grave fear is invalid.
+
+**Can. 1361**
+  §1. A remission can also be given conditionally or to a person who is absent.
+
+  §2. A remission in the external forum is to be given in writing unless a grave cause suggests otherwise.
+
+  §3. Care is to be taken that the petition of remission or the remission itself is not divulged except insofar as it is either useful to protect the reputation of the offender or necessary to repair scandal.
+
+**Can. 1362**
+  §1. Prescription extinguishes a criminal action after three years unless it concerns:
+
+1. delicts reserved to the Congregation for the Doctrine of the Faith;
+
+2. an action arising from the delicts mentioned in cann. 1394, 1395, 1397, and 1398, which have a prescription of five years;
+
+3. delicts which are not punished in the common law if particular law has established another period for prescription.
+
+  §2. Prescription runs from the day on which the delict was committed or, if the delict is continuous or habitual, from the day on which it ceased.
+
+**Can. 1363**
+  §1. Prescription extinguishes an action to execute a penalty if the offender is not notified of the executive decree of the judge mentioned in  can. 1651 within the time limits mentioned in  can. 1362; these limits are to be computed from the day on which the condemnatory sentence became a res iudicata.
+
+  §2. Having observed what is required, the same is valid if the penalty was imposed by extrajudicial decree.
+
+**Can. 1364**
+  §1. Without prejudice to the prescript of  can. 194, Â§1, n. 2, an apostate from the faith, a heretic, or a schismatic incurs a latae sententiae excommunication; in addition, a cleric can be punished with the penalties mentioned in  can. 1336, Â§1, nn. 1, 2, and 3.
+
+  §2. If contumacy of long duration or the gravity of scandal demands it, other penalties can be added, including dismissal from the clerical state.
+
+**Can. 1365** A person guilty of prohibited participation in sacred rites (communicatio in sacris) is to be punished with a just penalty.
+
+**Can. 1366** Parents or those who take the place of parents who hand offer their children to be baptized or educated in a non Catholic religion are to be punished with a censure or other just penalty.
+
+**Can. 1367** A person who throws away the consecrated species or takes or retains them for a sacrilegious purpose incurs a latae sententiae excommunication reserved to the Apostolic See; moreover, a cleric can be punished with another penalty, not excluding dismissal from the clerical state.
+
+**Can. 1368** A person who commits perjury while asserting or promising something before ecclesiastical authority is to be punished with a just penalty.
+
+**Can. 1369** A person who in a public show or speech, in published writing, or in other uses of the instruments of social communication utters blasphemy, gravely injures good morals, expresses insults, or excites hatred or contempt against religion or the Church is to be punished with a just penalty.
+
+**Can. 1370**
+  §1. A person who uses physical force against the Roman Pontiff incurs a latae sententiae excommunication reserved to the Apostolic See; if he is a cleric, another penalty, not excluding dismissal from the clerical state, can be added according to the gravity of the delict.
+
+  §2. A person who does this against a bishop incurs a latae sententiae interdict and, if he is a cleric, also a latae sententiae suspension.
+
+  §3. A person who uses physical force against a cleric or religious out of contempt for the faith, the Church, ecclesiastical power, or the ministry is to be punished with a just penalty.
+
+**Can. 1371** The following are to be punished with a just penalty:
+
+1. in addition to the case mentioned in  can. 1364, Â§1, a person who teaches a doctrine condemned by the Roman Pontiff or an ecumenical council or who obstinately rejects the doctrine mentioned in  can. 750, Â§2 or in  can. 752 and who does not retract after having been admonished by the Apostolic See or an ordinary;
+
+2. a person who otherwise does not obey a legitimate precept or prohibition of the Apostolic See, an ordinary, or a superior and who persists in disobedience after a warning.
+
+**Can. 1372** A person who makes recourse against an act of the Roman Pontiff to an ecumenical council or the college of bishops is to be punished with a censure.
+
+**Can. 1373** A person who publicly incites among subjects animosities or hatred against the Apostolic See or an ordinary because of some act of power or ecclesiastical ministry or provokes subjects to disobey them is to be punished by an interdict or other just penalties.
+
+**Can. 1374** A person who joins an association which plots against the Church is to be punished with a just penalty; however, a person who promotes or directs an association of this kind is to be punished with an interdict.
+
+**Can. 1375** Those who impede the freedom of ministry, of election, or of ecclesiastical power or the legitimate use of sacred goods or other ecclesiastical goods or who greatly intimidate an elector, one elected, or one who exercises ecclesiastical power or ministry can be punished with a just penalty.
+
+**Can. 1376** A person who profanes a movable or immovable sacred object is to be punished with a just penalty.
+
+**Can. 1377** A person who alienates ecclesiastical goods without the prescribed permission is to be punished with a just penalty.
+
+**Can. 1378**
+  §1. A priest who acts against the prescript of  can. 977 incurs a latae sententiae excommunication reserved to the Apostolic See.
+
+  §2. The following incur a latae sententiae penalty of interdict or, if a cleric, a latae sententiae penalty of suspension:
+
+1. a person who attempts the liturgical action of the Eucharistic sacrifice though not promoted to the sacerdotal order;
+
+2. apart from the case mentioned in Â§1, a person who, though unable to give sacramental absolution validly, attempts to impart it or who hears sacramental confession.
+
+  §3. In the cases mentioned in Â§2, other penalties, not excluding excommunication, can be added according to the gravity of the delict.
+
+**Can. 1379** In addition to the cases mentioned in  can. 1378, a person who simulates the administration of a sacrament is to be punished with a just penalty.
+
+**Can. 1380** A person who celebrates or receives a sacrament through simony is to be punished with an interdict or suspension.
+
+**Can. 1381**
+  §1. Whoever usurps an ecclesiastical office is to be punished with a just penalty.
+
+  §2. Illegitimate retention of a function after its privation or cessation is equivalent to usurpation.
+
+**Can. 1382** A bishop who consecrates some one a bishop without a pontifical mandate and the person who receives the consecration from him incur a latae sententiae excommunication reserved to the Apostolic See.
+
+**Can. 1383** A bishop who, contrary to the prescript of  can. 1015, ordains without legitimate dimissorial letters someone who is not his subject is prohibited for a year from conferring the order. The person who has received the ordination, however, is ipso facto suspended from the order received.
+
+**Can. 1384** In addition to the cases mentioned in  cann. 1378-1383, a person who illegitimately performs a priestly function or another sacred ministry can be punished with a just penalty.
+
+**Can. 1385** A person who illegitimately makes a profit from a Mass offering is to be punished with a censure or another just penalty.
+
+**Can. 1386** A person who gives or promises something so that someone who exercises a function in the Church will do or omit something illegitimately is to be punished with a just penalty; likewise, the one who accepts such gifts or promises.
+
+**Can. 1387** A priest who in the act, on the occasion, or under the pretext of confession solicits a penitent to sin against the sixth commandment of the Decalogue is to be punished, according to the gravity of the delict, by suspension, prohibitions, and privations; in graver cases he is to be dismissed from the clerical state.
+
+**Can. 1388**
+  §1. A confessor who directly violates the sacramental seal incurs a latae sententiae excommunication reserved to the Apostolic See; one who does so only indirectly is to be punished according to the gravity of the delict.
+
+  §2. An interpreter and the others mentioned in  can. 983, Â§2 who violate the secret are to be punished with a just penalty, not excluding excommunication.
+
+**Can. 1389**
+  §1. A person who abuses an ecclesiastical power or function is to be punished according to the gravity of the act or omission, not excluding privation of office, unless a law or precept has already established the penalty for this abuse.
+
+  §2. A person who through culpable negligence illegitimately places or omits an act of ecclesiastical power, ministry, or function with harm to another is to be punished with a just penalty.
+
+**Can. 1390**
+  §1. A person who falsely denounces before an ecclesiastical superior a confessor for the delict mentioned in  can. 1387 incurs a latae sententiae interdict and, if he is a cleric, also a suspension.
+
+  §2. A person who offers an ecclesiastical superior any other calumnious denunciation of a delict or who otherwise injures the good reputation of another can be punished with a just penalty, not excluding a censure.
+
+  §3. A calumniator can also be forced to make suitable reparation.
+
+**Can. 1391** The following can be punished with a just penalty according to the gravity of the delict:
+
+1. a person who produces a false public ecclesiastical document, who changes, destroys, or conceals an authentic one, or who uses a false or altered one;
+
+2. a person who uses another false or altered document in an ecclesiastical matter;
+
+3. a person who asserts a falsehood in a public ecclesiastical document.
+
+**Can. 1392** Clerics or religious who exercise a trade or business contrary to the prescripts of the canons are to be punished according to the gravity of the delict.
+
+**Can. 1393** A person who violates obligations imposed by a penalty can be punished with a just penalty.
+
+**Can. 1394**
+  §1. Without prejudice to the prescript of  can. 194, Â§1, n. 3, a cleric who attempts marriage, even if only civilly, incurs a latae sententiae suspension. If he does not repent after being warned and continues to give scandal, he can be punished gradually by privations or even by dismissal from the clerical state.
+
+  §2. A perpetually professed religious who is not a cleric and who attempts marriage, even if only civilly, incurs a latae sententiae interdict, without prejudice to the prescript of  can. 694.
+
+**Can. 1395**
+  §1. A cleric who lives in concubinage, other than the case mentioned in can. 1394, and a cleric who persists with scandal in another external sin against the sixth commandment of the Decalogue is to be punished by a suspension. If he persists in the delict after a warning, other penalties can gradually be added, including dismissal from the clerical state.
+
+  §2. A cleric who in another way has committed an offense against the sixth commandment of the Decalogue, if the delict was committed by force or threats or publicly or with a minor below the age of sixteen years, is to be punished with just penalties, not excluding dismissal from the clerical state if the case so warrants.
+
+**Can. 1396** A person who gravely violates the obligation of residence which binds by reason of ecclesiastical office is to be punished by a just penalty, not excluding, after a warning, even privation from office.
+
+**Can. 1397** A person who commits a homicide or who kidnaps, detains, mutilates, or gravely wounds a person by force or fraud is to be punished with the privations and prohibitions mentioned in  can. 1336 according to the gravity of the delict. Homicide against the persons mentioned in can. 1370, however, is to be punished by the penalties established there.
+
+**Can. 1398** A person who procures a completed abortion incurs a latae sententiae excommunication.
+
+**Can. 1399** In addition to the cases established here or in other laws, the external violation of a divine or canonical law can be punished by a just penalty only when the special gravity of the violation demands punishment and there is an urgent need to prevent or repair scandals.
+
+
+---
+
+*Source: Code of Canon Law (1983), Libreria Editrice Vaticana*

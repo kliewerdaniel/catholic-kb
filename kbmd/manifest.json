@@ -1,0 +1,1753 @@
+{
+  "generated": "2026-06-15T17:16:20.469671+00:00",
+  "total_documents": 212,
+  "total_size_bytes": 85165789,
+  "categories": {
+    "scripture": {
+      "count": 73,
+      "bytes": 11486403
+    },
+    "magisterium/ccc": {
+      "count": 17,
+      "bytes": 3852182
+    },
+    "canonlaw": {
+      "count": 7,
+      "bytes": 718001
+    },
+    "liturgy/girm": {
+      "count": 1,
+      "bytes": 202244
+    },
+    "liturgy/texts": {
+      "count": 6,
+      "bytes": 655859
+    },
+    "fathers": {
+      "count": 27,
+      "bytes": 62698460
+    },
+    "doctorate": {
+      "count": 16,
+      "bytes": 226448
+    },
+    "magisterium/encyclicals": {
+      "count": 26,
+      "bytes": 2633191
+    },
+    "magisterium/exhortations": {
+      "count": 8,
+      "bytes": 603542
+    },
+    "magisterium/vatican_ii": {
+      "count": 13,
+      "bytes": 811305
+    },
+    "social-teaching": {
+      "count": 5,
+      "bytes": 1052129
+    },
+    "mariology": {
+      "count": 13,
+      "bytes": 226025
+    }
+  },
+  "documents": [
+    {
+      "path": "kbmd/scripture/bible-full.md",
+      "title": "The Holy Bible (Douay-Rheims)",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 5736732
+    },
+    {
+      "path": "kbmd/scripture/genesis.md",
+      "title": "Genesis",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 226553
+    },
+    {
+      "path": "kbmd/scripture/exodus.md",
+      "title": "Exodus",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 184958
+    },
+    {
+      "path": "kbmd/scripture/leviticus.md",
+      "title": "Leviticus",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 130609
+    },
+    {
+      "path": "kbmd/scripture/numbers.md",
+      "title": "Numbers",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 179840
+    },
+    {
+      "path": "kbmd/scripture/deuteronomy.md",
+      "title": "Deuteronomy",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 159016
+    },
+    {
+      "path": "kbmd/scripture/joshua.md",
+      "title": "Joshua",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 106301
+    },
+    {
+      "path": "kbmd/scripture/judges.md",
+      "title": "Judges",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 116913
+    },
+    {
+      "path": "kbmd/scripture/ruth.md",
+      "title": "Ruth",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 15859
+    },
+    {
+      "path": "kbmd/scripture/1-samuel.md",
+      "title": "1 Samuel",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 151954
+    },
+    {
+      "path": "kbmd/scripture/2-samuel.md",
+      "title": "2 Samuel",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 119867
+    },
+    {
+      "path": "kbmd/scripture/1-kings.md",
+      "title": "1 Kings",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 144765
+    },
+    {
+      "path": "kbmd/scripture/2-kings.md",
+      "title": "2 Kings",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 137716
+    },
+    {
+      "path": "kbmd/scripture/1-chronicles.md",
+      "title": "1 Chronicles",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 121428
+    },
+    {
+      "path": "kbmd/scripture/2-chronicles.md",
+      "title": "2 Chronicles",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 148455
+    },
+    {
+      "path": "kbmd/scripture/1-esdras.md",
+      "title": "1 Esdras",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 44347
+    },
+    {
+      "path": "kbmd/scripture/ezra-nehemiah.md",
+      "title": "Ezra-Nehemiah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 62121
+    },
+    {
+      "path": "kbmd/scripture/tobit.md",
+      "title": "Tobit",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 42334
+    },
+    {
+      "path": "kbmd/scripture/judith.md",
+      "title": "Judith",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 56811
+    },
+    {
+      "path": "kbmd/scripture/esther.md",
+      "title": "Esther",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 51733
+    },
+    {
+      "path": "kbmd/scripture/job.md",
+      "title": "Job",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 116244
+    },
+    {
+      "path": "kbmd/scripture/psalms.md",
+      "title": "Psalms",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 302605
+    },
+    {
+      "path": "kbmd/scripture/proverbs.md",
+      "title": "Proverbs",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 24686
+    },
+    {
+      "path": "kbmd/scripture/song-of-solomon.md",
+      "title": "Song of Solomon",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 125275
+    },
+    {
+      "path": "kbmd/scripture/wisdom.md",
+      "title": "Wisdom",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 66180
+    },
+    {
+      "path": "kbmd/scripture/sirach.md",
+      "title": "Sirach (Ecclesiasticus)",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 186486
+    },
+    {
+      "path": "kbmd/scripture/isaiah.md",
+      "title": "Isaiah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 222594
+    },
+    {
+      "path": "kbmd/scripture/jeremiah.md",
+      "title": "Jeremiah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 251377
+    },
+    {
+      "path": "kbmd/scripture/lamentations.md",
+      "title": "Lamentations",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 21734
+    },
+    {
+      "path": "kbmd/scripture/baruch.md",
+      "title": "Baruch",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 31006
+    },
+    {
+      "path": "kbmd/scripture/ezekiel.md",
+      "title": "Ezekiel",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 237544
+    },
+    {
+      "path": "kbmd/scripture/daniel.md",
+      "title": "Daniel",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 100538
+    },
+    {
+      "path": "kbmd/scripture/hosea.md",
+      "title": "Hosea",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 36305
+    },
+    {
+      "path": "kbmd/scripture/joel.md",
+      "title": "Joel",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 13323
+    },
+    {
+      "path": "kbmd/scripture/amos.md",
+      "title": "Amos",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 27207
+    },
+    {
+      "path": "kbmd/scripture/obadiah.md",
+      "title": "Obadiah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 4749
+    },
+    {
+      "path": "kbmd/scripture/jonah.md",
+      "title": "Jonah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 9153
+    },
+    {
+      "path": "kbmd/scripture/micah.md",
+      "title": "Micah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 25060
+    },
+    {
+      "path": "kbmd/scripture/nahum.md",
+      "title": "Nahum",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 9424
+    },
+    {
+      "path": "kbmd/scripture/habakkuk.md",
+      "title": "Habakkuk",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 14483
+    },
+    {
+      "path": "kbmd/scripture/zephaniah.md",
+      "title": "Zephaniah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 11178
+    },
+    {
+      "path": "kbmd/scripture/haggai.md",
+      "title": "Haggai",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 8065
+    },
+    {
+      "path": "kbmd/scripture/zechariah.md",
+      "title": "Zechariah",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 47135
+    },
+    {
+      "path": "kbmd/scripture/malachi.md",
+      "title": "Malachi",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 12651
+    },
+    {
+      "path": "kbmd/scripture/1-maccabees.md",
+      "title": "1 Maccabees",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 138769
+    },
+    {
+      "path": "kbmd/scripture/2-maccabees.md",
+      "title": "2 Maccabees",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 103345
+    },
+    {
+      "path": "kbmd/scripture/matthew.md",
+      "title": "Matthew",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 154746
+    },
+    {
+      "path": "kbmd/scripture/mark.md",
+      "title": "Mark",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 86631
+    },
+    {
+      "path": "kbmd/scripture/luke.md",
+      "title": "Luke",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 150551
+    },
+    {
+      "path": "kbmd/scripture/john.md",
+      "title": "John",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 115602
+    },
+    {
+      "path": "kbmd/scripture/acts.md",
+      "title": "Acts of the Apostles",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 144149
+    },
+    {
+      "path": "kbmd/scripture/romans.md",
+      "title": "Romans",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 70014
+    },
+    {
+      "path": "kbmd/scripture/1-corinthians.md",
+      "title": "1 Corinthians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 64620
+    },
+    {
+      "path": "kbmd/scripture/2-corinthians.md",
+      "title": "2 Corinthians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 37833
+    },
+    {
+      "path": "kbmd/scripture/galatians.md",
+      "title": "Galatians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 20656
+    },
+    {
+      "path": "kbmd/scripture/ephesians.md",
+      "title": "Ephesians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 20011
+    },
+    {
+      "path": "kbmd/scripture/philippians.md",
+      "title": "Philippians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 15415
+    },
+    {
+      "path": "kbmd/scripture/colossians.md",
+      "title": "Colossians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 16098
+    },
+    {
+      "path": "kbmd/scripture/1-thessalonians.md",
+      "title": "1 Thessalonians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 12263
+    },
+    {
+      "path": "kbmd/scripture/2-thessalonians.md",
+      "title": "2 Thessalonians",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 8012
+    },
+    {
+      "path": "kbmd/scripture/1-timothy.md",
+      "title": "1 Timothy",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 16681
+    },
+    {
+      "path": "kbmd/scripture/2-timothy.md",
+      "title": "2 Timothy",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 11506
+    },
+    {
+      "path": "kbmd/scripture/titus.md",
+      "title": "Titus",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 6856
+    },
+    {
+      "path": "kbmd/scripture/philemon.md",
+      "title": "Philemon",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 3585
+    },
+    {
+      "path": "kbmd/scripture/hebrews.md",
+      "title": "Hebrews",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 47360
+    },
+    {
+      "path": "kbmd/scripture/james.md",
+      "title": "James",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 16909
+    },
+    {
+      "path": "kbmd/scripture/1-peter.md",
+      "title": "1 Peter",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 16691
+    },
+    {
+      "path": "kbmd/scripture/2-peter.md",
+      "title": "2 Peter",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 11243
+    },
+    {
+      "path": "kbmd/scripture/1-john.md",
+      "title": "1 John",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 23237
+    },
+    {
+      "path": "kbmd/scripture/2-john.md",
+      "title": "2 John",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 3282
+    },
+    {
+      "path": "kbmd/scripture/3-john.md",
+      "title": "3 John",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 2697
+    },
+    {
+      "path": "kbmd/scripture/jude.md",
+      "title": "Jude",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 7778
+    },
+    {
+      "path": "kbmd/scripture/revelation.md",
+      "title": "Revelation",
+      "source": "https://www.gutenberg.org/ebooks/1581",
+      "category": "scripture",
+      "subcategory": null,
+      "size_bytes": 316549
+    },
+    {
+      "path": "kbmd/magisterium/ccc/prologue.md",
+      "title": "CCC: Prologue",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 12542
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part1.md",
+      "title": "CCC: Part I: The Profession of Faith",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 483787
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part1-ch1.md",
+      "title": "CCC: Part I, Ch 1: Man's Capacity for God",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 32988
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part1-ch2.md",
+      "title": "CCC: Part I, Ch 2: God Comes to Man",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 164498
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part1-ch3.md",
+      "title": "CCC: Part I, Ch 3: Man's Response to God",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 287079
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part2.md",
+      "title": "CCC: Part II: The Celebration of the Christian Mystery",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 300608
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part2-ch1.md",
+      "title": "CCC: Part II, Ch 1: The Sacramental Economy",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 25153
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part2-ch2.md",
+      "title": "CCC: Part II, Ch 2: The Seven Sacraments",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 263931
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part2-ch3.md",
+      "title": "CCC: Part II, Ch 3: The Liturgy",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 12266
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part3.md",
+      "title": "CCC: Part III: Life in Christ",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 347095
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part3-ch1.md",
+      "title": "CCC: Part III, Ch 1: Man's Vocation: Life in the Spirit",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 68250
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part3-ch2.md",
+      "title": "CCC: Part III, Ch 2: The Ten Commandments",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 279291
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part4.md",
+      "title": "CCC: Part IV: Christian Prayer",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 144264
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part4-ch1.md",
+      "title": "CCC: Part IV, Ch 1: The Revelation of Prayer",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 30648
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part4-ch2.md",
+      "title": "CCC: Part IV, Ch 2: The Tradition of Prayer",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 61898
+    },
+    {
+      "path": "kbmd/magisterium/ccc/part4-ch3.md",
+      "title": "CCC: Part IV, Ch 3: The Life of Prayer",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 52531
+    },
+    {
+      "path": "kbmd/magisterium/ccc/ccc-full.md",
+      "title": "CCC (Full)",
+      "source": "https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+      "category": "magisterium",
+      "subcategory": "ccc",
+      "size_bytes": 1285353
+    },
+    {
+      "path": "kbmd/canonlaw/book1.md",
+      "title": "Book I: General Norms",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 76346
+    },
+    {
+      "path": "kbmd/canonlaw/book2.md",
+      "title": "Book II: The People of God",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 259230
+    },
+    {
+      "path": "kbmd/canonlaw/book3.md",
+      "title": "Book III: The Teaching Office of the Church",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 37763
+    },
+    {
+      "path": "kbmd/canonlaw/book4.md",
+      "title": "Book IV: The Sanctifying Office of the Church",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 147569
+    },
+    {
+      "path": "kbmd/canonlaw/book5.md",
+      "title": "Book V: The Temporal Goods of the Church",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 26233
+    },
+    {
+      "path": "kbmd/canonlaw/book6.md",
+      "title": "Book VI: Sanctions in the Church",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 36364
+    },
+    {
+      "path": "kbmd/canonlaw/book7.md",
+      "title": "Book VII: Processes",
+      "source": "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html",
+      "category": "canonlaw",
+      "subcategory": null,
+      "size_bytes": 134496
+    },
+    {
+      "path": "kbmd/liturgy/girm.md",
+      "title": "GIRM",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "girm",
+      "size_bytes": 202244
+    },
+    {
+      "path": "kbmd/liturgy/ccc_trent.md",
+      "title": "Declaration on Procured Abortion | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "texts",
+      "size_bytes": 38825
+    },
+    {
+      "path": "kbmd/liturgy/compendium_ccc.md",
+      "title": "Compendium of the Catechism of the Catholic Church",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "texts",
+      "size_bytes": 310719
+    },
+    {
+      "path": "kbmd/liturgy/dignitas_personae.md",
+      "title": "A ZENIT DAILY DISPATCH | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "texts",
+      "size_bytes": 7713
+    },
+    {
+      "path": "kbmd/liturgy/dominus_iesus.md",
+      "title": "Dominus Iesus",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "texts",
+      "size_bytes": 65587
+    },
+    {
+      "path": "kbmd/liturgy/dominus_iesus_full.md",
+      "title": "Dominus Iesus",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "texts",
+      "size_bytes": 65587
+    },
+    {
+      "path": "kbmd/liturgy/lumen_gentium_lat.md",
+      "title": "Lumen gentium",
+      "source": "https://www.vatican.va",
+      "category": "liturgy",
+      "subcategory": "texts",
+      "size_bytes": 167428
+    },
+    {
+      "path": "kbmd/fathers/anf01.md",
+      "title": "Ante-Nicene Fathers, Vol. I",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2441327
+    },
+    {
+      "path": "kbmd/fathers/anf02.md",
+      "title": "Ante-Nicene Fathers, Vol. II",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2702909
+    },
+    {
+      "path": "kbmd/fathers/anf03.md",
+      "title": "Ante-Nicene Fathers, Vol. III",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 3000263
+    },
+    {
+      "path": "kbmd/fathers/anf04.md",
+      "title": "Ante-Nicene Fathers, Vol. IV",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2882573
+    },
+    {
+      "path": "kbmd/fathers/anf05.md",
+      "title": "Ante-Nicene Fathers, Vol. V",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 3008688
+    },
+    {
+      "path": "kbmd/fathers/anf06.md",
+      "title": "Ante-Nicene Fathers, Vol. VI",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2243469
+    },
+    {
+      "path": "kbmd/fathers/anf07.md",
+      "title": "Ante-Nicene Fathers, Vol. VII",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2445755
+    },
+    {
+      "path": "kbmd/fathers/anf08.md",
+      "title": "Ante-Nicene Fathers, Vol. VIII",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 3267646
+    },
+    {
+      "path": "kbmd/fathers/anf10.md",
+      "title": "Ante-Nicene Fathers, Vol. X",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1933047
+    },
+    {
+      "path": "kbmd/fathers/npnf1_01.md",
+      "title": "NPNF1 Vol. I: Augustine",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2652422
+    },
+    {
+      "path": "kbmd/fathers/npnf1_02.md",
+      "title": "NPNF1 Vol. II: Augustine",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2833440
+    },
+    {
+      "path": "kbmd/fathers/npnf1_03.md",
+      "title": "NPNF1 Vol. III: Augustine",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2281764
+    },
+    {
+      "path": "kbmd/fathers/npnf1_04.md",
+      "title": "NPNF1 Vol. IV: Augustine",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2650962
+    },
+    {
+      "path": "kbmd/fathers/npnf1_05.md",
+      "title": "NPNF1 Vol. V: Augustine",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2351700
+    },
+    {
+      "path": "kbmd/fathers/npnf2_01.md",
+      "title": "NPNF2 Vol. I: Eusebius",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1861232
+    },
+    {
+      "path": "kbmd/fathers/npnf2_02.md",
+      "title": "NPNF2 Vol. II: Socrates/Sozomenus",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1777349
+    },
+    {
+      "path": "kbmd/fathers/npnf2_03.md",
+      "title": "NPNF2 Vol. III: Theodoret/Jerome",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2329863
+    },
+    {
+      "path": "kbmd/fathers/npnf2_04.md",
+      "title": "NPNF2 Vol. IV: Athanasius",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2521595
+    },
+    {
+      "path": "kbmd/fathers/npnf2_06.md",
+      "title": "NPNF2 Vol. VI: Jerome",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2368823
+    },
+    {
+      "path": "kbmd/fathers/npnf2_07.md",
+      "title": "NPNF2 Vol. VII: Cyril/Gregory Nazianzen",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1915817
+    },
+    {
+      "path": "kbmd/fathers/npnf2_08.md",
+      "title": "NPNF2 Vol. VIII: Basil",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1391284
+    },
+    {
+      "path": "kbmd/fathers/npnf2_09.md",
+      "title": "NPNF2 Vol. IX: Hilary/John of Damascus",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1584028
+    },
+    {
+      "path": "kbmd/fathers/npnf2_10.md",
+      "title": "NPNF2 Vol. X: Ambrose",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1998292
+    },
+    {
+      "path": "kbmd/fathers/npnf2_11.md",
+      "title": "NPNF2 Vol. XI: Cassian/Vincent",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2604191
+    },
+    {
+      "path": "kbmd/fathers/npnf2_12.md",
+      "title": "NPNF2 Vol. XII: Leo/Gregory the Great",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2051165
+    },
+    {
+      "path": "kbmd/fathers/npnf2_13.md",
+      "title": "NPNF2 Vol. XIII: Gregory/Ephrem/Aphrahat",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 1507241
+    },
+    {
+      "path": "kbmd/fathers/npnf2_14.md",
+      "title": "NPNF2 Vol. XIV: Ecumenical Councils",
+      "source": "https://jennica.github.io/fathers/schaff/",
+      "category": "fathers",
+      "subcategory": null,
+      "size_bytes": 2091615
+    },
+    {
+      "path": "kbmd/doctorate/ambrose_de_sacramentis.md",
+      "title": "Church Doctor: Ambrose De Sacramentis",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17415
+    },
+    {
+      "path": "kbmd/doctorate/apologetic.md",
+      "title": "Tertullian: Apologetic",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 8128
+    },
+    {
+      "path": "kbmd/doctorate/augustine_on_christian_doctrine.md",
+      "title": "Church Doctor: Augustine On Christian Doctrine",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17442
+    },
+    {
+      "path": "kbmd/doctorate/augustine_on_true_religion.md",
+      "title": "Church Doctor: Augustine On True Religion",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17427
+    },
+    {
+      "path": "kbmd/doctorate/augustine_psalm_expositions.md",
+      "title": "Church Doctor: Augustine Psalm Expositions",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17430
+    },
+    {
+      "path": "kbmd/doctorate/basil_on_holy_spirit.md",
+      "title": "Church Doctor: Basil On Holy Spirit",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17409
+    },
+    {
+      "path": "kbmd/doctorate/chrysostom_homilies_matthew.md",
+      "title": "Church Doctor: Chrysostom Homilies Matthew",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17430
+    },
+    {
+      "path": "kbmd/doctorate/city_of_god.md",
+      "title": "St. Augustine: City of God",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 10005
+    },
+    {
+      "path": "kbmd/doctorate/confessions.md",
+      "title": "St. Augustine: Confessions",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 5468
+    },
+    {
+      "path": "kbmd/doctorate/enchiridion.md",
+      "title": "St. Augustine: Enchiridion (On Faith, Hope, and Love)",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17472
+    },
+    {
+      "path": "kbmd/doctorate/gregory_moralia.md",
+      "title": "Church Doctor: Gregory Moralia",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17394
+    },
+    {
+      "path": "kbmd/doctorate/jerome_letters.md",
+      "title": "Church Doctor: Jerome Letters",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17391
+    },
+    {
+      "path": "kbmd/doctorate/on_the_laws.md",
+      "title": "Augustine: On the Laws",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17378
+    },
+    {
+      "path": "kbmd/doctorate/on_the_trinity.md",
+      "title": "St. Augustine: On the Holy Trinity",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 8169
+    },
+    {
+      "path": "kbmd/doctorate/summa_contra_gentiles.md",
+      "title": "St. Thomas Aquinas: Summa Contra Gentiles",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 17439
+    },
+    {
+      "path": "kbmd/doctorate/summa_theologica.md",
+      "title": "St. Thomas Aquinas: Summa Theologica",
+      "source": "https://www.newadvent.org/fathers/",
+      "category": "doctorate",
+      "subcategory": null,
+      "size_bytes": 3051
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/aeterni_patris.md",
+      "title": "Aeterni\n Patris (August 4, 1879)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 50263
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/caritas_in_veritate.md",
+      "title": "Caritas in veritate (June 29, 2009)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 193532
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/casti_connubii.md",
+      "title": "Casti \nConnubii (December 31, 1930)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 112368
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/deus_caritas_est.md",
+      "title": "Deus caritas est (December 25, 2005)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 95118
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/divini_illius_magistri.md",
+      "title": "Divini Illius Magistri (December 31, 1929)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 91357
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/divino_afflante_full.md",
+      "title": "A Child Lives His Present Moment | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 10549
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/evangelium_vitae.md",
+      "title": "Evangelium Vitae (25 March 1995)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 283760
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/fides_et_ratio.md",
+      "title": "Fides et Ratio (14 September 1998)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 219216
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/humanae_vitae.md",
+      "title": "Humanae Vitae (July 25, 1968)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 48729
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/humani_generis.md",
+      "title": "Humani Generis (August 12, 1950)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 39177
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/humani_generis_full.md",
+      "title": "Humani Generis (August 12, 1950)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 39177
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/immortale_dei.md",
+      "title": "Immortale Dei (November 1, 1885)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 57228
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/laborem_exercens.md",
+      "title": "Laborem Exercens (14 September 1981)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 134897
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/lumen_fidei.md",
+      "title": "Lumen fidei (29 June 2013)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 110637
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/mediator_dei.md",
+      "title": "Mediator Dei\u00a0(November 20, 1947)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 156661
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/mediator_dei_full.md",
+      "title": "The New Catechism of the Catholic Church | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 37945
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/mit_brennender.md",
+      "title": "Mit Brennender Sorge (March 14, 1937)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 48004
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/mystici_corporis.md",
+      "title": "Mystici Corporis Christi (June 29, 1943)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 117614
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/mystici_corporis_full.md",
+      "title": "Reconciling Gospel and Torah: The Catechism | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 35802
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/pacem_in_terris.md",
+      "title": "Precusors on the Trails of Truth | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 8358
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/quadragesimo_anno_full.md",
+      "title": "Quadragesimo Anno (May 15, 1931)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 121708
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/rerum_novarum.md",
+      "title": "Rerum\n Novarum (May 15, 1891)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 83983
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/rerum_novarum_full.md",
+      "title": "Can Business Be Catholic? | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 15052
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/sollicitudo_rei_socialis.md",
+      "title": "Sollicitudo Rei Socialis (30 December 1987)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 141457
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/spe_salvi.md",
+      "title": "Spe salvi (November 30, 2007)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 112613
+    },
+    {
+      "path": "kbmd/magisterium/encyclicals/veritatis_splendor.md",
+      "title": "Veritatis Splendor (6 August 1993)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "encyclicals",
+      "size_bytes": 267986
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/amoris_laetitia.md",
+      "title": "Notification | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 18841
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/christifideles_laici.md",
+      "title": "Honoring the 33-Day Pontificate of John Paul I | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 29310
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/christus_vivit.md",
+      "title": "Monitum on the Writings of Fr. Teilhard de Chardin, SJ | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 6647
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/evangelii_gaudium.md",
+      "title": "Note on the Expression 'Sister Churches' | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 18481
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/familiaris_consortio.md",
+      "title": "Familiaris Consortio (November 22, 1981)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 220508
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/gaudete_exsultate.md",
+      "title": "Letter to the Society of Saint Pius X | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 7256
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/reconciliatio_paenitentia.md",
+      "title": "40th Anniversary of Ecclesiam Suam by Pope Paul VI | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 17464
+    },
+    {
+      "path": "kbmd/magisterium/exhortations/verbum_domini.md",
+      "title": "Verbum Domini: Post-Synodal Apostolic Exhortation on the Word of God in the Life and Mission of the Church (30 September 2010)",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "exhortations",
+      "size_bytes": 285035
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/christus_dominus.md",
+      "title": "Christus dominus",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 60675
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/dei_verbum.md",
+      "title": "Dei verbum",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 34812
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/dignitatis_humanae.md",
+      "title": "Dignitatis humanae",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 33356
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/gaudium_et_spes.md",
+      "title": "Pastoral Constitution on the Church in the Modern Word-Gaudium et Spes",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 218358
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/gravissimum_educationis.md",
+      "title": "Gravissimum educationis",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 33489
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/inter_mirifica.md",
+      "title": "Inter mirifica",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 20354
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/lumen_gentium.md",
+      "title": "Lumen gentium",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 190835
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/nostra_aetate.md",
+      "title": "Nostra aetate",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 10510
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/optatam_totius.md",
+      "title": "Optatam totius",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 30241
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/orientalium_ecclesiarum.md",
+      "title": "Orientalium ecclesiarium",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 26208
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/perfectae_caritatis.md",
+      "title": "Perfectae caritatis",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 30134
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/sacrosanctum_concilium.md",
+      "title": "Sacrosanctum Concilium",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 78404
+    },
+    {
+      "path": "kbmd/magisterium/vatican_ii/unitatis_redintegratio.md",
+      "title": "Unitatis redintegratio",
+      "source": "https://www.vatican.va",
+      "category": "magisterium",
+      "subcategory": "vatican_ii",
+      "size_bytes": 43929
+    },
+    {
+      "path": "kbmd/social-teaching/centesimus_annus.md",
+      "title": "Do We Still Believe in Angels? | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "social-teaching",
+      "subcategory": null,
+      "size_bytes": 9761
+    },
+    {
+      "path": "kbmd/social-teaching/fratelli_tutti.md",
+      "title": "Fratelli tutti (3 October 2020)",
+      "source": "https://www.vatican.va",
+      "category": "social-teaching",
+      "subcategory": null,
+      "size_bytes": 266614
+    },
+    {
+      "path": "kbmd/social-teaching/fratelli_tutti_full.md",
+      "title": "Fratelli tutti (3 October 2020)",
+      "source": "https://www.vatican.va",
+      "category": "social-teaching",
+      "subcategory": null,
+      "size_bytes": 266558
+    },
+    {
+      "path": "kbmd/social-teaching/laudato_si.md",
+      "title": "Laudato si' (24 May 2015)",
+      "source": "https://www.vatican.va",
+      "category": "social-teaching",
+      "subcategory": null,
+      "size_bytes": 254626
+    },
+    {
+      "path": "kbmd/social-teaching/laudato_si_full.md",
+      "title": "Laudato si' (24 May 2015)",
+      "source": "https://www.vatican.va",
+      "category": "social-teaching",
+      "subcategory": null,
+      "size_bytes": 254570
+    },
+    {
+      "path": "kbmd/mariology/ad_caeli_reginam.md",
+      "title": "Baptist Church Hope | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 20755
+    },
+    {
+      "path": "kbmd/mariology/ad_diem_illum.md",
+      "title": "Deacons Yesterday and Today | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 27714
+    },
+    {
+      "path": "kbmd/mariology/augustissimae.md",
+      "title": "On the Confraternity of the Holy Rosary - Papal Encyclicals",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 19565
+    },
+    {
+      "path": "kbmd/mariology/diuturni.md",
+      "title": "Diuturni Temporis - Papal Encyclicals",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 10401
+    },
+    {
+      "path": "kbmd/mariology/fidentem.md",
+      "title": "Fidentem Piumque Animum - Papal Encyclicals",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 19132
+    },
+    {
+      "path": "kbmd/mariology/fulgens_corona.md",
+      "title": "The Fisherman's Ring | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 6637
+    },
+    {
+      "path": "kbmd/mariology/gloriosae_dominae.md",
+      "title": "Canonization | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 9114
+    },
+    {
+      "path": "kbmd/mariology/ineffabilis_deus.md",
+      "title": "Roman Appeals | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 29489
+    },
+    {
+      "path": "kbmd/mariology/laetitiae_sanctae.md",
+      "title": "The Infant Jesus of Prague | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 13276
+    },
+    {
+      "path": "kbmd/mariology/mater_et_magistra.md",
+      "title": "Mission and the Worldly Spirit | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 9847
+    },
+    {
+      "path": "kbmd/mariology/munificentissimus_deus.md",
+      "title": "Munificentissimus Deus (November 1, 1950)",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 41379
+    },
+    {
+      "path": "kbmd/mariology/octobri_mense.md",
+      "title": "The Finished Mystery | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 6333
+    },
+    {
+      "path": "kbmd/mariology/supremi_pastoris.md",
+      "title": "He Had to Cry Out Loud and Clear  | EWTN",
+      "source": "https://www.vatican.va",
+      "category": "mariology",
+      "subcategory": null,
+      "size_bytes": 12383
+    }
+  ]
+}

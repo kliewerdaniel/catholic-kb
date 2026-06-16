@@ -1,0 +1,1048 @@
+---
+title: "Reconciling Gospel and Torah: The Catechism | EWTN"
+source: "https://www.vatican.va"
+category: magisterium
+subcategory: encyclicals
+ingested: 2026-06-15T17:16:20.320684+00:00
+---
+
+# Reconciling Gospel and Torah: The Catechism | EWTN
+
+*Papal Encyclical*
+
+Reconciling Gospel and Torah: The Catechism | EWTN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ On Air
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Watch 
+ 
+ 
+ Listen 
+ 
+ 
+ Bible 
+ 
+ 
+ Shop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Get Started 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ Donate 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ EN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Watch
+ 
+ Listen
+ 
+ Bible
+ 
+ Shop
+ 
+
+ 
+ Get Started 
+ 
+ Donate
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Categories 
+ 
+ 
+
+ News
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News Nightly
+ 
+ 
+ 
+ EWTN Pro-Life Weekly
+ 
+ 
+ 
+ EWTN News In Depth
+ 
+ 
+ 
+ The World Over
+ 
+ 
+ 
+ 
+ 
+ Pilgrimage to EWTN 
+ 
+ 
+
+ Support
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Welcome Tutorial
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ TV
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Schedule
+ 
+ 
+ 
+ Other Streaming Options
+ 
+ 
+ 
+ Channel Finder
+ 
+ 
+ 
+ 
+ 
+ Kids 
+ 
+ 
+
+ Radio
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Schedule
+ 
+ 
+ 
+ Audio Archive
+ 
+ 
+ 
+ Podcast Central
+ 
+ 
+ 
+ Affiliates
+ 
+ 
+ 
+ SW Frequency Guide
+ 
+ 
+ 
+ SW Monitoring Form
+ 
+ 
+ 
+ Frequently Asked Questions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Scripture
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Daily Mass and Readings
+ 
+ 
+ 
+ Bible
+ 
+ 
+ 
+ 
+ 
+
+ Catholicism
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Explore
+ 
+ 
+ 
+ See of Peter
+ 
+ 
+ 
+ Teachings
+ 
+ 
+ 
+ Devotions
+ 
+ 
+ 
+ Saints
+ 
+ 
+ 
+ Seasons and Feast Days
+ 
+ 
+ 
+ Library
+ 
+ 
+ 
+ Traditional Latin Mass
+ 
+ 
+ 
+ Prayer Requests
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Giving
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Explore
+ 
+ 
+ 
+ Donate
+ 
+
+ 
+ 
+ 
+ 
+ Give Monthly
+ 
+
+ 
+ 
+ 
+ 
+ Manage My Giving
+ 
+
+ 
+ 
+ 
+ 
+ Ways to Give
+ 
+ 
+ 
+ 
+ 
+
+ Resources
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Pro-life
+ 
+
+ 
+ 
+ 
+ 
+ EWTN Learn
+ 
+
+ 
+ 
+ 
+ 
+ Wings
+ 
+ 
+ 
+ Privacy Policy
+ 
+
+ 
+ 
+ 
+ 
+ International Satellite Feeds
+ 
+ 
+ 
+ Blogs
+ 
+ 
+ 
+ 
+ 
+ Employment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Catholicism 
+ Library 
+ Faith 
+ Catechetics 
+ Reconciling Gospel and Torah: The Catechism 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+## Reconciling Gospel and Torah: The Catechism
+
+ 
+ 
+ Author: Cardinal Ratzinger 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ RECONCILING GOSPEL AND TORAH: THE CATECHISM 
+
+ Cardinal Ratzinger 
+
+The history of the relationship between Israel and Christendom is drenched with blood and tears. It is a history of mistrust and hostility, but also— thank God— a history marked again and again by attempts at forgiveness, understanding and mutual acceptance. After Auschwitz, the mission of reconciliation and acceptance permits no deferral. 
+
+Even if we know that Auschwitz is the gruesome expression of an ideology that not only wanted to destroy Judaism but also hated and sought to eradicate from Christianity its Jewish heritage, the question remains, What could be the reason for so much historical hostility between those who actually must belong together because of their faith in the one God and commitment to his will? 
+
+Does this hostility result from something in the very faith of Christians? Is it something in the "essence of Christianity," such that one would have to prescind from Christianity's core, deny Christianity its heart, in order to come to real reconciliation? This is an assumption that some Christian thinkers have in fact made in the last few decades in reaction to the horrors of history. Do confession of Jesus of Nazareth as the Son of the living God and faith in the cross as the redemption of mankind contain an implicit condemnation of the Jews as stubborn and blind, as guilty of the death of the Son of God? Could it be that the core of the faith of Christians themselves compels them to intolerance, even to hostility toward the Jews, and conversely, that the self-esteem of Jews and the defense of their historic dignity and deepest convictions oblige them to demand that Christians abandon the heart of their faith and so require Jews similarly to forsake tolerance? Is the conflict programmed in the heart of religion and only to be overcome through its repudiation? 
+
+In this heightened framing of the question, the problem confronting us today reaches far beyond an academic interreligious dialogue into the fundamental decisions of this historic hour. One sees more frequent attempts to mollify the issue by representing Jesus as a Jewish teacher who in principle did not go beyond what was possible in Jewish tradition. His execution is understood to result from the political tensions between Jews and Romans. In point of fact, he was executed by the Roman authority in the way political rebels were punished. His elevation to Son of God is accordingly understood to have occurred after the fact, in a Hellenistic climate; at the same time, in view of the given political circumstances, the blame for the crucifixion is transferred from the Romans to the Jews. As a challenge to exegesis, such interpretations can further an acute listening to the text and perhaps produce something useful. However, they do not speak of the Jesus of the historic sources, but instead construct a new and different Jesus, relegating the historical faith in the Christ of the church to mythology. Christ appears as a product of Greek religiosity and political opportunism in the Roman Empire. One does not do justice to the gravity of the question with such a view; indeed one retreats from it. 
+
+Thus the question remains: Can Christian faith, left in its inner power and dignity, not only tolerate Judaism but accept it in its historic mission? Or can it not? Can there be true reconciliation without abandoning the faith, or is reconciliation tied to such abandonment? In reply to this question which concerns us most deeply, I shall not present simply my own views. Rather, I wish to show what the Catechism of the Catholic Church released in 1992 has to say. This work has been published by the magisterium of the Catholic Church as an authentic expression of her faith. In recognition of the significance of Auschwitz and from the mission of the Second Vatican Council, the matter of reconciliation has been inscribed in the catechism as an object of faith. Let us see then how the catechism sounds in relation to our question in terms of its definition of its own mission. 
+
+ 1. JEWS AND PAGANS IN THE ACCOUNT OF THE MAGI (MT. 2:1-12) 
+
+I begin with the text of the catechism explaining the significance of the account of the journey of the Magi from the East. It sees in the Magi the origin of the church formed out of the pagans; the Magi afford an enduring reflection on the way of the pagans. The catechism says the following:  
+
+The Magi's coming to Jerusalem in order to pay homage to the king of the Jews shows that they seek in Israel, in the messianic light of the star of David, the one who will be king of the nations. Their coming means that the pagans can discover Jesus and worship him as Son of God and savior of the world only by turning toward the Jews and receiving from them the messianic promise as contained in the Old Testament. The Epiphany shows that the "full number of the nations" now takes its "place in the family of the patriarchs," and acquires "Israelitica dignitas" (are made "worthy of the heritage of Israel").( CCC 528) 
+
+In this text we can see how the catechism views the relationship between Jews and the nations as communicated by Jesus; in addition, it offers at the same time a first presentation of the mission of Jesus. Accordingly, we say that the mission of Jesus is to unite Jews and pagans into a single people of God in which the universalist promises of the Scripture are fulfilled which speak again and again of the nations worshiping the God of Israel— to the point where in Trito-Isaiah we no longer read merely of the pilgrimage of the nations to Zion but of the proclamation of the mission of ambassadors to the nations "that have not heard my fame or seen my glory.... And some of them also I will take for priests and for Levites, says the Lord" (Is. 66:19, 21). 
+
+In order to present this unification of Israel and the nations, the brief text— still interpreting Matthew 2—gives a lesson on the relationship of the world religions, the faith of Israel and the mission of Jesus: The world religions can become the star which enlightens men's path, which leads them in search of the kingdom of God. The star of the religions points to Jerusalem, it becomes extinguished and lights up anew in the word of God, in the sacred Scripture of Israel. The word of God preserved herein shows itself to be the true star without which or bypassing which one cannot find the goal. When the catechism designates the star as the "star of David," it links the account of the Magi furthermore with the Balaam prophecy of the star which shall come forth out of Jacob (Nm. 24:17), seeing this prophecy for its part connected to Jacob's blessing of Judah, which promised the ruler's staff and scepter to him who is owed "the obedience of the peoples" (Gn. 49:10). The catechism sees Jesus as the promised shoot of Judah who unites Israel and the nations in the kingdom of God. 
+
+What does all this mean? The mission of Jesus consists in leading the histories of the nations in the community of the history of Abraham, in the history of Israel. His mission is unification, reconciliation, as the Letter to the Ephesians (2:18-22) will then present it. The history of Israel should become the history of all, Abraham's sonship become extended to the 'many.' This course of events has two aspects to it: The nations can enter into the community of the promises of Israel in entering into the community of the one God who now becomes and must become the way of all because there is only one God and because his will is therefore truth for all. Conversely, this means that all nations, without the abolishment of the special mission of Israel, become brothers and receivers of the promises of the chosen people; they become people of God with Israel through adherence to the will of God and through acceptance of the Davidic kingdom. 
+
+Yet another observation can be important here. If the account of the Magi, as the catechism interprets it, presents the answer of the sacred books of Israel as the decisive and indispensable guide for the nations, in doing so the account of the Magi varies the same theme we encounter in John's Gospel in the formula: "Salvation comes from the Jews" (4:22). This heritage remains abidingly vital and contemporary in the sense that there is no access to Jesus, and thereby there can be no entrance of the nations into the people of God without the acceptance in faith of the revelation of God, who speaks in the sacred Scripture which Christians term the Old Testament. 
+
+By way of summary we can say: Old and New Testaments, Jesus and the sacred Scripture of Israel, appear here as indivisible. The new thrust of his mission to unify Israel and the nations corresponds to the prophetic thrust of the Old Testament itself. Reconciliation in the common recognition of the kingdom of God, recognition of his will as the way, is the nucleus of the mission of Jesus in which person and message are indivisible. This mission is efficacious already at the moment when he lies silent in the crib. One understands nothing about him if one does not enter with him into the dynamic of reconciliation. 
+
+ 2. JESUS AND THE LAW: NOT TO ABOLISH, BUT TO "FULFILL" 
+
+Nevertheless, the great vision of this text gives rise to a question. How will that which is foreshadowed here in the image of the star and those who follow it be historically realized? Does the historic image of Jesus, do his message and his work correspond to this vision, or do they contradict it? Now there is nothing more contested than the question of the historical Jesus. The catechism as a book of faith proceeds from the conviction that the Jesus of the Gospels is also the only true historical Jesus. Starting here, it presents the message of Jesus first under the all encompassing motto "kingdom of God," in which the various aspects of the good news of Jesus coalesce, so that they receive from here their direction and their concrete content (541-560). Then the catechism goes on to show the relation Jesus-Israel from three vantage points: Jesus and the law (577-582), Jesus and the temple (583-586), Jesus and the faith of Israel in the one God and savior (587-591). At this juncture our book comes finally to the decisive fate of Jesus, to his death and resurrection, in which Christians see the Passover mystery of Israel fulfilled and brought to its final theological depth. 
+
+The central chapter on Jesus and Israel interests us here particularly. It is also fundamental for the interpretation of the concept of kingdom of God and for the understanding of the Easter mystery. Now, to be sure, the very themes of law, temple and the oneness of God are the volatile ones supplying the material for Jewish-Christian disputes. Is it even possible to view these things simultaneously in fidelity to history, according to faith, and under the primacy of reconciliation? It is not only earlier interpretations of the history of Jesus which have given generally negative images to Pharisees, priests and Jews. Indeed, crass contrasts have become a cliché in modern and liberal descriptions where Pharisees and priests are portrayed as the representatives of a hardened legalism, as representatives of the eternal law of the establishment presided over by religious and political authorities who hinder freedom and live from the oppression of others. In light of these interpretations one sides with Jesus, fights his fight, by coming out against the power of priests in the church and against law and order in the state. The images of the enemy in contemporary liberation struggles fuse with those of Jesus' history, which is reduced to a struggle against religiously veiled domination of man by man, the inauguration of that revolution in which Jesus is to be sure the underdog but precisely by his defeat establishes a first step which will necessarily lead to definitive victory. If Jesus is seen thus, if his death must be conceived in terms of this constellation of antitheses, his message cannot be one of reconciliation. 
+
+It goes without saying that the catechism does not share this outlook. Rather it holds principally to the portrayal of Jesus in the Gospel of Matthew, seeing in Jesus the Messiah, the greatest in the kingdom of heaven; as such he knew he was "to fulfill the law by keeping it in its all embracing detail ... down to 'the least of these commandments'" (578). The catechism thus connects the special mission of Jesus to his fidelity to the law; it sees in him the servant of God who truly brings justice (Is. 42:3) and thereby becomes "a covenant to the people" (Is. 42:6; Catechism, 580). Our text is far removed here from any superficial smoothing over of Jesus' conflict laden history, however. Instead of interpreting his way superficially in the sense of an ostensibly prophetic attack on hardened legalism, it strives to fathom its real theological depth. This is seen clearly in the following passage: The "principle of integral observance of the law not only in letter but in spirit was dear to the Pharisees. By giving Israel this principle they had led many Jews of Jesus' time to an extreme religious zeal. This zeal, were it not to lapse into 'hypocritical' casuistry, could only prepare the people for the unprecedented intervention of God through the perfect fulfillment of the law by the only righteous one in place of all sinners" (579). This perfect fulfillment includes Jesus taking upon himself the "'curse of the law' incurred by those who do not 'abide by the things written in the book of the law, and do them (Gal. 3: 10)'" (580). 
+
+The death on the cross is thus theologically explained by its innermost solidarity with the law and with Israel; the catechism in this regard presents a link to the Day of Atonement and understands the death of Christ itself as the great event of atonement, as the perfect realization of what the signs of the Day of Atonement signify (433; 578). 
+
+With these statements we find ourselves at the center of the Christian-Jewish dialogue, we reach the juncture where we are faced with the decisive choice between reconciliation and alienation. Before we pursue further the interpretation of the figure of Jesus as it emerges here, we must, however, first ask what this view of the historic figure of Jesus means for the existence of those who know themselves to be grafted through him onto the "olive tree of Israel," the children of Abraham. Where the conflict between Jesus and the Judaism of his time is presented in a superficial, polemical way, a concept of liberation is derived which can understand the Torah only as a slavery to external rites and observances. 
+
+The view of the catechism derived essentially from St. Matthew's Gospel and finally from the entirety of the tradition of the Gospels, leads logically to quite a different perception, which I would like to cite in detail:  
+
+The law of the Gospel fulfills the commandments of the law (= the Torah). The Lord's Sermon on the Mount, far from abolishing or devaluing the moral prescriptions of the old law, releases their hidden potential and has new demands arise from them: It reveals their entire divine and human truth. It does not add new external precepts but proceeds to renew the heart, the root of human acts, where man chooses between the pure and impure, where faith, hope and charity are found, and with them the other virtues. The Gospel thus brings the law to its fullness through imitation of the perfection of the heavenly Father. (1968) 
+
+This view of a deep unity between the good news of Jesus and the message of Sinai is again summarized in the reference to a statement of the New Testament which is not only common to the synoptic tradition but also has a central character in the Johannine and Pauline writings: The whole law, including the prophets, depends on the twofold yet one commandment of love of God and love of neighbor (Catechism, 1970; Mt. 7:20; 22:34-40; Mk. 12:38-43; Lk. 10:25-28; Jn. 13:34; Rom. 13:8-10). For the nations, being assumed into the children of Abraham is concretely realized in entering into the will of God, in which moral commandment and profession of the oneness of God are indivisible, as this becomes clear especially in St. Mark's version of this tradition in which the double commandment is expressly linked to the "Sch'ma Israel," to the yes to the one and only God. Man's way is prescribed for him he is to measure himself according to the standard of God and according to his own human perfection. At the same time, the ontological depth of these statements comes to the fore. By saying yes to the double commandment man lives up to the call of his nature to be the image of God that was willed by the Creator and is realized as such in loving with the love of God. 
+
+Beyond all historic and strictly theological discussions, we find ourselves placed in the middle of the question of the present responsibility of Jews and Christians before the modern world. This responsibility consists precisely in representing the truth of the one will of God before the world and thus placing man before his inner truth, which is at the same time his way. Jews and Christians must bear witness to the one God, to the Creator of heaven and earth, and do this in that entirety which Psalm 19 formulates in an exemplary way: The light of the physical creation, the sun, and the spiritual light, the commandment of God, belong inextricably together. In the radiance of the word of God, the same God speaks to the world who attests to himself in the sun, moon and stars, in the beauty and fullness of creation. In the words of the German hymn, "Die sonne ist des himmels ehr, doch dein gesetz, Herr, noch viel mehr." 
+
+ 3. JESUS' INTERPRETATION OF THE LAW: CONFLICT AND RECONCILIATION 
+
+The inevitable question follows. Does such a view of the relationship between the law and the Gospel not come down to an unacceptable attempt at harmonization? How does one explain then the conflict which led to Jesus' cross? Does all of this not stand in contradiction to St. Paul's interpretation of the figure of Jesus? Are we not denying here the entire Pauline doctrine of grace in favor of a new moralism, thereby abolishing the "articulus stantis et cadentis ecclesiae," the essential innovation of Christianity? With respect to this point, the moral section of the catechism from which we took the discussion of the Christian way corresponds closely to the depiction of Christ taken from the dogmatic section. If we attend carefully we see two essential aspects of the issue in which the answer to our questions lies. 
+
+a) In its presentation of the inner continuity and coherence of the law and the Gospel which we have just discussed, the catechism stands squarely within the Catholic tradition, especially as it was formulated by St. Augustine and St. Thomas Aquinas. In this tradition the relationship between the Torah and the proclamation of Jesus is never seen dialectically: God in the law does not appear "sub contrario," as it were, in opposition to himself. In tradition, it was never a case of dialectics, but rather of analogy, development in inner correspondence following the felicitous phrase of St. Augustine: "The New Testament lies hidden in the Old; the Old is made explicit in the New." In regard to the interrelation of both testaments, the catechism cites a significant text of St. Thomas: "There were ..., under the regimen of the Old Covenant, people who possessed the charity and grace of the Holy Spirit and longed above all for the spiritual and eternal promises by which they were associated in the new law. Conversely, there exist carnal men under the New Covenant" ( Catechism 1964; Sum. Theol . I-II 107, 1, ad 2). 
+
+b) The above also means that the law is read prophetically, in the inner tension of the promise. What such a dynamic-prophetic reading means appears in the catechism first in twofold form: The law is led to its fullness through the renewal of the heart (1968); externally this results in the ritual and juridical observances being suspended (1972). But here, needless to say, a new question arises. How could this happen? How is this compatible with fulfillment of the law to the last iota? For, to be sure, one cannot simply separate out universally valid moral principles and transitory ritual and legal norms without destroying the Torah itself, which is something integral, which owes its existence to God's address to Israel. The idea that, on the one hand, there are pure morals which are reasonable and universal, and on the other that there are rites that are conditioned by time and ultimately dispensable mistakes entirely the inner structure of the five books of Moses. "The Decalogue" as the core of the work of the law shows clearly enough that the worship of God is completely indivisible from morals, cult and ethos. 
+
+"In Jesus' exchange with the Jewish authorities of his time, we are not dealing with a confrontation between a liberal reformer and an ossified traditionalist hierarchy. Such a view, though common, fundamentally misunderstands the conflict of the New Testament and does justice neither to Jesus nor to Israel." 
+
+However, we stand here before a paradox. The faith of Israel was directed to universality. Since it is devoted to the one God of all men, it also bore within itself the promise to become the faith of all nations. But the law, in which it was expressed, was particular, quite concretely directed to Israel and its history; it could not be universalized in this form. In the intersection of these paradoxes stands Jesus of Nazareth, who himself as a Jew lived under the law of Israel but knew himself to be at the same time the mediator of the universality of God. This mediation could not take place through political calculation or philosophical interpretation. In both of these cases man would have put himself over God's word and reformed it according to his own standards. 
+
+Jesus did not act as a liberal reformer recommending and himself presenting a more understanding interpretation of the law. In Jesus' exchange with the Jewish authorities of his time, we are not dealing with a confrontation between a liberal reformer and an ossified traditionalist hierarchy. Such a view, though common, fundamentally misunderstands the conflict of the New Testament and does justice neither to Jesus nor to Israel. Rather Jesus opened up the law quite theologically conscious of, and claiming to be, acting as Son, with the authority of God himself, in innermost unity with God, the Father. Only God himself could fundamentally reinterpret the law and manifest that its broadening transformation and conservation is its actually intended meaning. Jesus' interpretation of the law makes sense only if it is interpretation with divine authority, if God interprets himself. The quarrel between Jesus and the Jewish authorities of his time is finally not a matter of this or that particular infringement of the law but rather of Jesus' claim to act "ex auctoritate divina," indeed, to be this "auctoritas" himself. "I and the Father are one" (Jn. 10:30). 
+
+Only when one penetrates to this point can he also see the tragic depth of the conflict. On the one hand, Jesus broadened the law, wanted to open it up, not as a liberal reformer, not out of a lesser loyalty to the law, but in strictest obedience to its fulfillment, out of his being one with the Father in whom alone law and promise are one and in whom Israel could become blessing and salvation for the nations. On the other hand, Israel "had to" see here something much more serious than a violation of this or that commandment, namely, the injuring of that basic obedience, of the actual core of its revelation and faith: Hear, O Israel, your God is one God. Here obedience and obedience clash, leading to the conflict which had to end on the cross. Reconciliation and separation appear thus to be tied up in a virtually insolvable paradox. 
+
+In the catechism's theology of the New Testament the cross cannot simply be viewed as an accident which actually could have been avoided nor as the sin of Israel with which Israel becomes eternally stained in contrast to the pagans for whom the cross signifies redemption. In the New Testament there are not two effects of the cross: a damning one and a saving one, but only a single effect, which is saving and reconciling. In this regard, there is an important text of the catechism which Christian hope interprets as the continuation of the hope of Abraham and links to the sacrifice of Israel: Christian hope has its origin and model in the hope of Abraham, who was blessed abundantly by the promise of God fulfilled in Isaac, and who was purified by the test of the sacrifice" (1819). Through his readiness to sacrifice his son, Abraham becomes the father of many, a blessing for all nations of the earth (cf. Gn. 22). 
+
+The New Testament sees the death of Christ in this perspective, in analogy to Abraham. That means then that all cultic ordinances of the Old Testament are seen to be taken up into his death and brought to their deepest meaning. All sacrifices are acts of representation, which in this great act of real representation from symbols become reality so that the symbols can be foregone without one iota being lost. The universalizing of the Torah by Jesus, as the New Testament understands it, is not the extraction of some universal moral prescriptions from the living whole of God's revelation. It preserves the unity of cult and ethos. The ethos remains grounded and anchored in the cult, in the worship of God, in such a way that the entire cult is bound together in the cross, indeed, for the first time has become fully real. According to Christian faith, on the cross Jesus opens up and fulfills the wholeness of the law and gives it thus to the pagans, who can now accept it as their own in this its wholeness, thereby becoming children of Abraham. 
+
+ 4. THE CROSS 
+
+The historic and theological judgment about the responsibility of Jews and pagans for the cross derives in the catechism from this understanding of Jesus, his claim and fate. 
+
+a) There is first the historic question of the course of the trial and execution. The headings to the four sections in the catechism which treat this matter already show the direction: "Divisions among the Jewish authorities concerning Jesus," "Jews are not collectively responsible for Jesus' death." The catechism recalls that esteemed Jewish personages were followers of Jesus according to the witness of the Gospels, that according to St. John, shortly before Jesus' death, "many even of the authorities believed in him" (Jn. 12:42). The catechism also refers to the fact that on the day after Pentecost, according to the report of the Acts of the Apostles, "a great many of the priests were obedient to the faith" (Acts 6:7). St. James is also mentioned, who commented, "How many thousands there are among the Jews of those who have believed; they are all zealous for the law" (Acts 21:20). Thus it is elucidated that the report of Jesus' trial cannot substantiate a charge of collective Jewish guilt. The Second Vatican Council is expressly cited: "Neither all Jews indiscriminately at that time, nor Jews today, can be charged with the crimes committed during his passion.... The Jews should not be spoken of as rejected or accursed as if this followed from holy Scripture" (597; "Nostra Aetate," 4). 
+
+b) It is clear from what we have just now considered that such historical analyses— as important as they are— still do not touch the actual core of the question, since indeed the death of Jesus according to the faith of the New Testament is not merely a fact of external history but is rather a theological event. The first heading in the theological analysis of the cross is accordingly: "Jesus handed over according to the definite plan of God;" the text itself begins with the sentence: "Jesus' violent death was not the result of chance in an unfortunate coincidence of circumstances, but is part of the mystery of God's plan" (599). Corresponding to this, the part of the catechism which explores the question of responsibility for Christ's death closes with a section titled: "All sinners were the authors of Christ's passion." The catechism was able here to refer back to the Roman Catechism of 1566. There it states: 
+
+If one asks why the son of god accepted the most bitter suffering, he will find that besides the inherited guilt of the first parents it was particularly the vices and sins which men have committed from the beginning of the world up until this day and will commit from this day on till the end of time.... This guilt applies above all to those who continue to relapse into sin. Since our sins made the Lord Christ suffer the torment of the cross, those who plunge themselves into disorders and crimes 'crucify the Son of God on their own account and hold him up to contempt' (Heb. 6:6). 
+
+The Roman Catechism of 1566, which the new catechism quotes, then adds that the Jews according to the testimony of the apostle Paul "would never have crucified the Lord of glory had they recognized him" (1 Cor. 2:8). It continues: "We, however, profess to know. And when we deny him by our deeds, we in some way seem to lay violent hands on him" ( Roman Catechism , 5,11; Catechism of the Catholic Church , 598). 
+
+For the believing Christian who sees in the cross not a historical accident but a real theological occurrence, these statements are not mere edifying commonplaces in terms of which one must refer to the historical realities. Rather these affirmations penetrate into the core of the matter. This core consists in the drama of human sin and divine love; human sin leads to God's love for man assuming the figure of the cross. Thus on the one hand sin is responsible for the cross, but on the other, the cross is the overcoming of sin through God's more powerful love. For this reason, beyond all questions of responsibility, the passage of the "Letter to the Hebrews" (12:24) has the last and most important word to say on this subject, namely, that the blood of Jesus speaks another— a better and stronger— language than the blood of Abel, than the blood of all those killed unjustly in the world. It does not cry for punishment but is itself atonement, reconciliation. Already as a child— even though I naturally knew nothing of all things the catechism summarizes— I could not understand how some people wanted to derive a condemnation of Jews from the death of Jesus because the following thought had penetrated my soul as something profoundly consoling: Jesus' blood raises no calls for retaliation but calls all to reconciliation. It has become, as the "Letter to the Hebrews" shows, itself a permanent Day of Atonement of God. 
+
+The presentation of the teaching of the catechism, which for its part intends to be an interpretation of Scripture, has taken a long time, longer than I foresaw. Thus I cannot draw any detailed conclusions for the mission of Jews and Christians in the modern secularized world. But I think the basic task has nevertheless become clearer without my having to do this. 
+
+Jews and Christians should accept each other in profound inner reconciliation, neither in disregard of their faith nor in its denial, but out of the depth of faith itself. In their mutual reconciliation they should become a force for peace in and for the world. Through their witness to the one God, who cannot be adored apart from the unity of love of God and neighbor, they should open the door into the world for this God so that his will be done and so that it become on earth "as it is in heaven;" "so that his kingdom come." 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ "I cannot bring Christ to my neighbour and to the world if I have not first given him to my family"
+ 
+ 
+
+— Mother Angelica 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ EWTN News Sites
+ 
+
+ 
+ 
+ 
+ 
+ EWTN News 
+ 
+
+ 
+ 
+ National Catholic Register 
+ 
+
+ 
+ 
+ ChurchPOP 
+ 
+
+ 
+ 
+ ACI Prensa 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Affiliates
+ 
+
+ 
+ 
+ 
+ 
+ Español 
+ España 
+ 
+
+ 
+ 
+ Polska 
+ 
+
+ 
+ 
+ Magyar 
+ 
+
+ 
+ 
+ Svenska 
+ 
+
+ 
+ 
+ Yкраїнська 
+ 
+
+ 
+ 
+ Deutsch 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Learn More
+ 
+
+ 
+ 
+ 
+ 
+ About 
+ Mother Angelica 
+ Press Room 
+ Employment 
+ EWTN Everywhere 
+ EWTN Apps 
+ Media Missionaries 
+ Privacy Policy 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Contact
+ 
+
+ 
+ 
+ 
+ 
+ 1-800-447-3986 
+ 5817 Old Leeds Road, Irondale, AL 35210 
+ [email protected] 
+ EIN: 63-0801391 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donate
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+## EWTN News Sites
+
+ 
+ EWTN News 
+ 
+
+ 
+ 
+ National Catholic Register 
+ 
+
+ 
+ 
+ ChurchPOP 
+ 
+
+ 
+ 
+ ACI Prensa 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Affiliates
+
+ 
+ Español 
+ España 
+ 
+
+ 
+ 
+ Polska 
+ 
+
+ 
+ 
+ Magyar 
+ 
+
+ 
+ 
+ Svenska 
+ 
+
+ 
+ 
+ Yкраїнська 
+ 
+
+ 
+ 
+ Deutsch 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Learn More
+
+ 
+ About 
+ Mother Angelica 
+ Press Room 
+ Employment 
+ EWTN Everywhere 
+ EWTN Apps 
+ Media Missionaries 
+ Privacy Policy 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+## Contact
+
+ 
+ 1-800-447-3986 
+ 5817 Old Leeds Road, Irondale, AL 35210 
+ [email protected] 
+ EIN: 63-0801391 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Donate
+ 
+ 
+ 
+ © 2025 EWTN Inc. All Rights Reserved.
+ 
+ 
+ Privacy Policy 
+ Cookie Policy 
+ Terms and Conditions 
+ Your Privacy Choices 
+ Notice at Collection
+
+---
+
+*Source: Reconciling Gospel and Torah: The Catechism | EWTN*

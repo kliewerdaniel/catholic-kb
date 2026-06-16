@@ -1,0 +1,208 @@
+id: catholic-knowledge-system
+title: Catholic Sovereign Knowledge System
+version: 1.0.0
+status: draft
+purpose: >
+  Build a self-populating, local-first Catholic knowledge system that constructs
+  its own verified doctrinal corpus from authoritative sources, then operates as
+  a reasoning engine grounded exclusively in magisterial teaching, canon law,
+  Scripture, and the Church Fathers.
+tags:
+  - catholic
+  - knowledge-base
+  - doctrinal-reasoning
+  - sovereign
+  - local-first
+
+requirements:
+  # Phase 1 — Knowledge Construction
+  - System must fetch authoritative Catholic documents from Vatican.va, USCCB.org, EWTN.com, and New Advent
+  - System must convert raw HTML sources into structured markdown under kbmd/ with subdirectories for scripture, magisterium, canonlaw, liturgy, fathers, and doctorate
+  - System must preserve canonical citations (CCC paragraph numbers, canon numbers, document references) during normalization
+  - System must strip all non-authoritative content (blogs, commentary, opinion) from ingested sources
+  - System must index the normalized corpus using nomic-embed-text for semantic search via Ollama
+  - System must fall back to ripgrep-based full-text search when vector embeddings are unavailable
+  - System must categorize each document into the correct kbmd/ subdirectory based on source type
+  - System must generate a manifest of all ingested documents with source URL, title, category, and ingestion timestamp
+
+  # Phase 2 — Reasoning Engine
+  - System must ground every doctrinal answer in at least one cited authoritative source
+  - System must support long-horizon analysis including cross-century doctrinal comparison and theological development tracing
+  - System must generate structured markdown artifacts (study guides, timelines, comparisons, doctrinal briefs) to outputs/
+  - System must attribute all theological claims to specific CCC paragraphs, canon law articles, conciliar documents, or patristic texts
+  - System must never present personal interpretation as settled doctrine
+  - System must distinguish between infallible dogma, authoritative teaching, and legitimate theological opinion
+
+constraints:
+  - All processing must occur locally — no data leaves the user's machine
+  - Only the approved Catholic source set may be used for doctrinal authority
+  - The system must never cite non-magisterial sources (blogs, YouTube, Reddit, private theological opinion) as doctrinal authority
+  - Ollama must be the sole LLM runtime — no cloud API calls for inference (model: qwen2.5-coder:32b)
+  - All generated artifacts must be plain markdown files
+  - The knowledge base must be reproducible by re-running the ingestion pipeline
+  - The system must operate fully offline after initial source download
+
+acceptance_criteria:
+  - Given a freshly cloned repository, running setup.sh produces a functional workspace with all directories, skills, and configuration
+  - Given raw HTML sources from Vatican.va, the build_kbmd script produces categorized markdown files in kbmd/
+  - Given a populated kbmd/, the agent can answer "What does the CCC say about the Eucharist?" with cited paragraph numbers
+  - Given a populated kbmd/, the agent can generate a study guide on fasting as outputs/study-guides/fasting.md with proper source citations
+  - Given a populated kbmd/, the agent can produce a timeline of Marian dogma development spanning centuries
+  - Given a populated kbmd/, the agent can compare Catholic and Orthodox positions on a doctrine using only canonical sources
+  - When the agent lacks sufficient source material for a question, it states the gap rather than fabricating a response
+  - When queried about a contested theological topic, the agent distinguishes between dogma, doctrine, and opinion
+
+dependencies: []
+
+data_models:
+  - name: DocumentManifest
+    description: Registry of every ingested source document
+    fields:
+      - name: id
+        type: string
+        description: Unique document identifier (kebab-case)
+      - name: title
+        type: string
+        description: Original document title
+      - name: source_url
+        type: string
+        description: URL of the original source
+      - name: category
+        type: enum
+        values: [scripture, magisterium, canonlaw, liturgy, fathers, doctorate]
+        description: Knowledge base category
+      - name: subcategory
+        type: string
+        description: Subcategory (e.g., encyclical, council, papal-bull)
+      - name: ingested_at
+        type: datetime
+        description: ISO 8601 timestamp of ingestion
+      - name: normalized_path
+        type: string
+        description: Path to normalized markdown file
+      - name: citation_style
+        type: string
+        description: Citation format used (e.g., "CCC §1234", "Can. 1234", "DV 10")
+
+  - name: Citation
+    description: A structured reference to a specific passage in the corpus
+    fields:
+      - name: document_id
+        type: string
+        description: Reference to DocumentManifest.id
+      - name: reference
+        type: string
+        description: Human-readable citation (e.g., "CCC §2348-2350")
+      - name: start_paragraph
+        type: integer
+        description: Starting paragraph or section number
+      - name: end_paragraph
+        type: integer
+        description: Ending paragraph or section number (if range)
+      - name: text_excerpt
+        type: string
+        description: Quoted text from the source
+
+  - name: ReasoningOutput
+    description: A generated artifact with full source grounding
+    fields:
+      - name: title
+        type: string
+        description: Artifact title
+      - name: topic
+        type: string
+        description: Subject matter
+      - name: output_type
+        type: enum
+        values: [study-guide, timeline, comparison, doctrinal-brief]
+        description: Type of generated artifact
+      - name: citations
+        type: list
+        description: All source citations used in the output
+      - name: confidence_level
+        type: enum
+        values: [dogma, doctrine, theological-opinion, open-question]
+        description: Level of magisterial authority for the topic
+
+test_cases:
+  - name: bootstrap_creates_workspace
+    given: a fresh clone of the repository
+    when: running setup.sh
+    then: all workspace directories exist, skills are executable, .env is created, sovereignspec is initialized
+
+  - name: source_harvest_downloads_documents
+    given: a running Ollama instance
+    when: running catholic_source_harvest.sh
+    then: sources/raw/ contains HTML files from Vatican.va, USCCB, and New Advent
+
+  - name: kb_builder_converts_to_markdown
+    given: HTML files in sources/raw/
+    when: running build_kbmd_from_sources.sh
+    then: sources/normalized/ contains corresponding .md files
+
+  - name: doctrinal_query_returns_citation
+    given: a populated kbmd/ with CCC content
+    when: agent is asked "What does the Church teach about the Real Presence?"
+    then: response includes at least one CCC paragraph citation and the answer is doctrinally accurate
+
+  - name: study_guide_generation
+    given: a populated kbmd/ corpus
+    when: agent is asked "Create a study guide on fasting"
+    then: outputs/study-guides/fasting.md exists with Title, Summary, Key Points, Sources, and Scriptural References sections
+
+  - name: timeline_generation
+    given: a populated kbmd/ corpus
+    when: agent is asked "Create a timeline of Marian dogma"
+    then: outputs/timelines/marian-dogma.md exists with chronological entries and source citations
+
+  - name: gap_honesty
+    given: a kbmd/ without sufficient content on a topic
+    when: agent is asked about that topic
+    then: agent states "I do not have sufficient authoritative sources to answer this" rather than fabricating
+
+  - name: opinion_distinction
+    given: a query about a contested theological topic
+    when: agent responds
+    then: agent explicitly distinguishes between dogma, authoritative teaching, and theological opinion
+
+references:
+  - title: Catechism of the Catholic Church
+    url: https://www.vatican.va/archive/ENG0015/_INDEX.HTM
+  - title: Vatican.va — Official Documents
+    url: https://www.vatican.va
+  - title: Code of Canon Law (1983)
+    url: https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html
+  - title: USCCB — Liturgical Calendar and Readings
+    url: https://www.usccb.org
+  - title: New Advent — Church Fathers
+    url: https://www.newadvent.org/fathers/
+  - title: New Advent — Summa Theologica
+    url: https://www.newadvent.org/summa/
+  - title: Second Vatican Council Documents
+    url: https://www.vatican.va/archive/hist_councils/ii_vatican_council/
+  - title: EWTN Doctrinal Reference
+    url: https://www.ewtn.com/catholicism
+
+security_requirements:
+  - No outbound network requests except during source harvesting phase
+  - No user data or queries leave the local machine
+  - All LLM inference runs through local Ollama instance only
+  - Source URLs must point to recognized Catholic institutional domains
+
+performance_requirements:
+  - Source harvest must complete within 5 minutes on a standard connection
+  - KBMD conversion must process 100 documents within 2 minutes
+  - Query response must begin within 10 seconds of request for simple factual queries
+  - Artifact generation must complete within 60 seconds for standard-length outputs
+
+implementation_notes: >
+  Architecture: Two-phase pipeline — (1) Knowledge Construction via shell scripts
+  and agent-driven HTML parsing, (2) Reasoning Engine via sovereignspec-guided agent
+  with Ollama LLM. The kbmd/ directory is the durable knowledge artifact; shell scripts
+  handle acquisition, agent handles normalization and reasoning. The system uses a
+  fallback chain: vector search (nomic-embed-text + Ollama) → ripgrep full-text →
+  agent knowledge. All outputs are plain markdown for portability. The DocumentManifest
+  provides a provenance trail for every ingested source. The ReasoningOutput model
+  enforces source grounding by requiring citations for every doctrinal claim. The
+  confidence_level field prevents the agent from presenting theological opinion as
+  settled dogma.

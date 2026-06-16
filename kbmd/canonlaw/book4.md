@@ -1,0 +1,1630 @@
+---
+title: "Book IV: The Sanctifying Office of the Church"
+source: "https://www.vatican.va/archive/cod-iuris-canonici/cic_index_en.html"
+category: canonlaw
+ingested: 2026-06-15T17:16:20.037888+00:00
+---
+
+# Book IV: The Sanctifying Office of the Church
+
+*Code of Canon Law (1983), Canons 834-1253*
+
+**Can. 834**
+  §1. The Church fulfills its sanctifying function in a particular way through the sacred liturgy, which is an exercise of the priestly function of Jesus Christ. In the sacred liturgy the sanctification of humanity is signified through sensible signs and effected in a manner proper to each sign. In the sacred liturgy, the whole public worship of God is carried out by the Head and members of the mystical Body of Jesus Christ.
+
+  §2. Such worship takes place when it is carried out in the name of the Church by persons legitimately designated and through acts approved by the authority of the Church.
+
+**Can. 835**
+  §1. The bishops in the first place exercise the sanctifying function; they are the high priests, the principal dispensers of the mysteries of God, and the directors, promoters, and guardians of the entire liturgical life in the church entrusted to them.
+
+  §2. Presbyters also exercise this function; sharing in the priesthood of Christ and as his ministers under the authority of the bishop, they are consecrated to celebrate divine worship and to sanctify the people.
+
+  §3. Deacons have a part in the celebration of divine worship according to the norm of the prescripts of the law.
+
+  §4. The other members of the Christian faithful also have their own part in the function of sanctifying by participating actively in their own way in liturgical celebrations, especially the Eucharist. Parents share in a particular way in this function by leading a conjugal life in a Christian spirit and by seeing to the Christian education of their children.
+
+**Can. 836** Since Christian worship, in which the common priesthood of the Christian faithful is carried out, is a work which proceeds from faith and is based on it, sacred ministers are to take care to arouse and enlighten this faith diligently, especially through the ministry of the word, which gives birth to and nourishes the faith.
+
+**Can. 837**
+  §1. Liturgical actions are not private actions but celebrations of the Church itself which is the sacrament of unity, that is, a holy people gathered and ordered under the bishops. Liturgical actions therefore belong to the whole body of the Church and manifest and affect it; they touch its individual members in different ways, however, according to the diversity of orders, functions, and actual participation.
+
+  §2. Inasmuch as liturgical actions by their nature entail a common celebration, they are to be celebrated with the presence and active participation of the Christian faithful where possible.
+
+**Can. 838**
+  §1. The direction of the sacred liturgy depends solely on the authority of the Church which resides in the Apostolic See and, according to the norm of law, the diocesan bishop.
+
+  §2. It is for the Apostolic See to order the sacred liturgy of the universal Church, publish liturgical books and review their translations in vernacular languages, and exercise vigilance that liturgical regulations are observed faithfully everywhere.
+
+  §3. It pertains to the conferences of bishops to prepare and publish, after the prior review of the Holy See, translations of liturgical books in vernacular languages, adapted appropriately within the limits defined in the liturgical books themselves.
+
+  §4. Within the limits of his competence, it pertains to the diocesan bishop in the Church entrusted to him to issue liturgical norms which bind everyone.
+
+**Can. 839**
+  §1. The Church carries out the function of sanctifying also by other means, both by prayers in which it asks God to sanctify the Christian faithful in truth, and by works of penance and charity which greatly help to root and strengthen the kingdom of Christ in souls and contribute to the salvation of the world.
+
+  §2. Local ordinaries are to take care that the prayers and pious and sacred exercises of the Christian people are fully in keeping with the norms of the Church.
+
+**Can. 840** The sacraments of the New Testament were instituted by Christ the Lord and entrusted to the Church.
+
+As actions of Christ and the Church, they are signs and means which express and strengthen the faith, render worship to God, and effect the sanctification of humanity and thus contribute in the greatest way to establish, strengthen, and manifest ecclesiastical communion. Accordingly, in the celebration of the sacraments the sacred ministers and the other members of the Christian faithful must use the greatest veneration and necessary diligence.
+
+**Can. 841** Since the sacraments are the same for the whole Church and belong to the divine deposit, it is only for the supreme authority of the Church to approve or define the requirements for their validity; it is for the same or another competent authority according to the norm of  can. 838 Â§Â§3 and 4 to decide what pertains to their licit celebration, administration, and reception and to the order to be observed in their celebration.
+
+**Can. 842**
+  §1. A person who has not received baptism cannot be admitted validly to the other sacraments.
+
+  §2. The sacraments of baptism, confirmation, and the Most Holy Eucharist are interrelated in such a way that they are required for full Christian initiation.
+
+**Can. 843**
+  §1. Sacred ministers cannot deny the sacraments to those who seek them at appropriate times, are properly disposed, and are not prohibited by law from receiving them.
+
+  §2. Pastors of souls and other members of the Christian faithful, according to their respective ecclesiastical function, have the duty to take care that those who seek the sacraments are prepared to receive them by proper evangelization and catechetical instruction, attentive to the norms issued by competent authority.
+
+**Can. 844**
+  §1. Catholic ministers administer the sacraments licitly to Catholic members of the Christian faithful alone, who likewise receive them licitly from Catholic ministers alone, without prejudice to the prescripts of Â§Â§2, 3, and 4 of this canon, and  can. 861,Â§2.
+
+  §2. Whenever necessity requires it or true spiritual advantage suggests it, and provided that danger of error or of indifferentism is avoided, the Christian faithful for whom it is physically or morally impossible to approach a Catholic minister are permitted to receive the sacraments of penance, Eucharist, and anointing of the sick from non-
+
+Catholic ministers in whose Churches these sacraments are valid.
+
+  §3. Catholic ministers administer the sacraments of penance, Eucharist, and anointing of the sick licitly to members of Eastern Churches which do not have full communion with the Catholic Church if they seek such on their own accord and are properly disposed. This is also valid for members of other Churches which in the judgment of the Apostolic See are in the same condition in regard to the sacraments as these Eastern Churches.
+
+  §4. If the danger of death is present or if, in the judgment of the diocesan bishop or conference of bishops, some other grave necessity urges it, Catholic ministers administer these same sacraments licitly also to other Christians not having full communion with the Catholic Church, who cannot approach a minister of their own community and who seek such on their own accord, provided that they manifest Catholic faith in respect to these sacraments and are properly disposed.
+
+  §5. For the cases mentioned in Â§Â§2, 3, and 4, the diocesan bishop or conference of bishops is not to issue general norms except after consultation at least with the local competent authority of the interested non-Catholic Church or community.
+
+**Can. 845**
+  §1. Since the sacraments of baptism, confirmation, and orders imprint a character, they cannot be repeated.
+
+  §2. If after completing a diligent inquiry a prudent doubt still exists whether the sacraments mentioned in Â§1
+
+were actually or validly conferred, they are to be conferred conditionally.
+
+**Can. 846**
+  §1. In celebrating the sacraments the liturgical books approved by competent authority are to be observed faithfully; accordingly, no one is to add, omit, or alter anything in them on ones own authority.
+
+  §2. The minister is to celebrate the sacraments according to the ministers own rite.
+
+**Can. 847**
+  §1. In administering the sacraments in which holy oils must be used, the minister must use oils pressed from olives or other plants and, without prejudice to the prescript of  can. 999, n. 2, consecrated or blessed recently by a bishop; he is not to use old oils unless it is necessary.
+
+  §2. The pastor is to obtain the holy oils from his own bishop and is to preserve them diligently with proper care.
+
+**Can. 848** The minister is to seek nothing for the administration of the sacraments beyond the offerings defined by competent authority, always taking care that the needy are not deprived of the assistance of the sacraments because of poverty.
+
+**Can. 849** Baptism, the gateway to the sacraments and necessary for salvation by actual reception or at least by desire, is validly conferred only by a washing of true water with the proper form of words. Through baptism men and women are freed from sin, are reborn as children of God, and, configured to Christ by an indelible character, are incorporated into the Church.
+
+**Can. 850** Baptism is administered according to the order prescribed in the approved liturgical books, except in case of urgent necessity when only those things required for the validity of the sacrament must be observed.
+
+**Can. 851** The celebration of baptism must be prepared properly; consequently:
+
+1. an adult who intends to receive baptism is to be admitted to the catechumenate and is to be led insofar as possible through the various stages to sacramental initiation, according to the order of initiation adapted by the conference of bishops and the special norms issued by it;
+
+2. the parents of an infant to be baptized and those who are to undertake the function of sponsor are to be instructed properly on the meaning of this sacrament and the obligations attached to it. The pastor personally or through others is to take care that the parents are properly instructed through both pastoral advice and common prayer, bringing several families together and, where possible, visiting them.
+
+**Can. 852**
+  §1. The prescripts of the canons on adult baptism are to be applied to all those who, no longer infants, have attained the use of reason.
+
+  §2. A person who is not responsible for oneself (*non sui compos*) is also regarded as an infant with respect to baptism.
+
+**Can. 853** Apart from a case of necessity, the water to be used in conferring baptism must be blessed according to the prescripts of the liturgical books.
+
+**Can. 854** Baptism is to be conferred either by immersion or by pouring; the prescripts of the conference of bishops are to be observed.
+
+**Can. 855** Parents, sponsors, and the pastor are to take care that a name foreign to Christian sensibility is not given.
+
+**Can. 856** Although baptism can be celebrated on any day, it is nevertheless recommended that it be celebrated ordinarily on Sunday or, if possible, at the Easter Vigil.
+
+**Can. 857**
+  §1. Apart from a case of necessity, the proper place of baptism is a church or oratory.
+
+  §2. As a rule an adult is to be baptized in his or her parish church and an infant in the parish church of the parents unless a just cause suggests otherwise.
+
+**Can. 858**
+  §1. Every parish church is to have a baptismal font, without prejudice to the cumulative right already acquired by other churches.
+
+  §2. After having heard the local pastor, the local ordinary can permit or order for the convenience of the faithful that there also be a baptismal font in another church or oratory within the boundaries of the parish.
+
+**Can. 859** If because of distance or other circumstances the one to be baptized cannot go or be brought to the parish church or to the other church or oratory mentioned in  can. 858,Â§2 without grave inconvenience, baptism can and must be conferred in another nearer church or oratory, or even in another fitting place.
+
+**Can. 860**
+  §1. Apart from a case of necessity, baptism is not to be conferred in private houses, unless the local ordinary has permitted it for a grave cause.
+
+  §2. Except in a case of necessity or for some other compelling pastoral reason, baptism is not to be celebrated in hospitals unless the diocesan bishop has established otherwise.
+
+**Can. 861**
+  §1. The ordinary minister of baptism is a bishop, a presbyter, or a deacon, without prejudice to the prescript of can. 530, n. 1.
+
+  §2. When an ordinary minister is absent or impeded, a catechist or another person designated for this function by the local ordinary, or in a case of necessity any person with the right intention, confers baptism licitly. Pastors of souls, especially the pastor of a parish, are to be concerned that the Christian faithful are taught the correct way to baptize.
+
+**Can. 862** Except in a case of necessity, no one is permitted to confer baptism in the territory of another without the required permission, not even upon his own subjects.
+
+**Can. 863** The baptism of adults, at least of those who have completed their fourteenth year, is to be deferred to the diocesan bishop so that he himself administers it if he has judged it Expedient.
+
+**Can. 864** Every person not yet baptized and only such a person is capable of baptism.
+
+**Can. 865**
+  §1. For an adult to be baptized, the person must have manifested the intention to receive baptism, have been instructed sufficiently about the truths of the faith and Christian obligations, and have been tested in the Christian life through the catechumenate. The adult is also to be urged to have sorrow for personal sins.
+
+  §2. An adult in danger of death can be baptized if, having some knowledge of the principal truths of the faith, the person has manifested in any way at all the intention to receive baptism and promises to observe the commandments of the Christian religion.
+
+**Can. 866** Unless there is a grave reason to the contrary, an adult who is baptized is to be confirmed immediately after baptism and is to participate in the eucharistic celebration also by receiving communion
+
+**Can. 867**
+  §1. Parents are obliged to take care that infants are baptized in the first few weeks; as soon as possible after the birth or even before it, they are to go to the pastor to request the sacrament for their child and to be prepared properly for it.
+
+  §2. An infant in danger of death is to be baptized without delay.
+
+**Can. 868**
+  §1. For an infant to be baptized licitly:
+
+1. the parents or at least one of them or the person who legitimately takes their place must consent;
+
+2. there must be a founded hope that the infant will be brought up in the Catholic religion; if such hope is altogether lacking, the baptism is to be delayed according to the prescripts of particular law after the parents have been advised about the reason.
+
+  §2. An infant of Catholic parents or even of non-Catholic parents is baptized licitly in danger of death even against the will of the parents.
+
+**Can. 869**
+  §1. If there is a doubt whether a person has been baptized or whether baptism was conferred validly and the doubt remains after a serious investigation, baptism is to be conferred conditionally.
+
+  §2. Those baptized in a non-Catholic ecclesial community must not be baptized conditionally unless, after an examination of the matter and the form of the words used in the conferral of baptism and a consideration of the intention of the baptized adult and the minister of the baptism, a serious reason exists to doubt the validity of the baptism.
+
+  §3. If in the cases mentioned in Â§Â§1 and 2 the conferral or validity of the baptism remains doubtful, baptism is not to be conferred until after the doctrine of the sacrament of baptism is explained to the person to be baptized, if an adult, and the reasons of the doubtful validity of the baptism are explained to the person or, in the case of an infant, to the parents.
+
+**Can. 870** An abandoned infant or a foundling is to be baptized unless after diligent investigation the baptism of the infant is established.
+
+**Can. 871** If aborted fetuses are alive, they are to be baptized insofar as possible.
+
+**Can. 872** Insofar as possible, a person to be baptized is to be given a sponsor who assists an adult in Christian initiation or together with the parents presents an infant for baptism. A sponsor also helps the baptized person to lead a Christian life in keeping with baptism and to fulfill faithfully the obligations inherent in it.
+
+**Can. 873** There is to be only one male sponsor or one female sponsor or one of each.
+
+**Can. 874**
+  §1. To be permitted to take on the function of sponsor a person must:
+
+1. be designated by the one to be baptized, by the parents or the person who takes their place, or in their absence by the pastor or minister and have the aptitude and intention of fulfilling this function;
+
+2. have completed the sixteenth year of age, unless the diocesan bishop has established another age, or the pastor or minister has granted an exception for a just cause;
+
+3. be a Catholic who has been confirmed and has already received the most holy sacrament of the Eucharist and who leads a life of faith in keeping with the function to be taken on;
+
+4. not be bound by any canonical penalty legitimately imposed or declared;
+
+5. not be the father or mother of the one to be baptized.
+
+  §2. A baptized person who belongs to a non-Catholic ecclesial community is not to participate except together with a Catholic sponsor and then only as a witness of the baptism.
+
+**Can. 875** A person who administers baptism is to take care that, unless a sponsor is present, there is at least a witness who can attest to the conferral of the baptism.
+
+**Can. 876** To prove the conferral of baptism, if prejudicial to no one, the declaration of one witness beyond all exception is sufficient or the oath of the one baptized if the person received baptism as an adult.
+
+**Can. 877**
+  §1. The pastor of the place where the baptism is celebrated must carefully and without any delay record in the baptismal register the names of the baptized, with mention made of the minister, parents, sponsors, witnesses, if any, the place and date of the conferral of the baptism, and the date and place of birth.
+
+  §2. If it concerns a child born to an unmarried mother, the name of the mother must be inserted, if her maternity is established publicly or if she seeks it willingly in writing or before two witnesses. Moreover, the name of the father must be inscribed if a public document or his own declaration before the pastor and two witnesses proves his paternity; in other cases, the name of the baptized is inscribed with no mention of the name of the father or the parents.
+
+  §3. If it concerns an adopted child, the names of those adopting are to be inscribed and, at least if it is done in the civil records of the region, also the names of the natural parents according to the norm of Â§Â§1 and 2, with due regard for the prescripts of the conference of bishops.
+
+**Can. 878** If the baptism was not administered by the pastor or in his presence, the minister of baptism, whoever it is, must inform the pastor of the parish in which it was administered of the conferral of the baptism, so that he records the baptism according to the norm of can. 877, Â§1.
+
+**Can. 879** The sacrament of confirmation strengthens the baptized and obliges them more firmly to be witnesses of Christ by word and deed and to spread and defend the faith. It imprints a character, enriches by the gift of the Holy Spirit the baptized continuing on the path of Christian initiation, and binds them more perfectly to the Church.
+
+**Can. 880**
+  §1. The sacrament of confirmation is conferred by the anointing of chrism on the forehead, which is done by the imposition of the hand and through the words prescribed in the approved liturgical books.
+
+  §2. The chrism to be used in the sacrament of confirmation must be consecrated by a bishop even if a presbyter administers the sacrament.
+
+**Can. 881** It is desirable to celebrate the sacrament of confirmation in a church and during Mass; for a just and reasonable cause, however, it can be celebrated outside Mass and in any worthy place.
+
+**Can. 882** The ordinary minister of confir-mation is a bishop; a presbyter provided with this faculty in virtue of universal law or the special grant of the competent authority also confers this sacrament validly.
+
+**Can. 883** The following possess the faculty of administering confirmation by the law itself:
+
+1. within the boundaries of their jurisdiction, those who are equivalent in law to a diocesan bishop;
+
+2. as regards the person in question, the presbyter who by virtue of office or mandate of the diocesan bishop baptizes one who is no longer an infant or admits one already baptized into the full communion of the Catholic Church;
+
+3. as regards those who are in danger of death, the pastor or indeed any presbyter.
+
+**Can. 884**
+  §1. The diocesan bishop is to administer confirmation personally or is to take care that another bishop administers it. If necessity requires it, he can grant the faculty to one or more specific presbyters, who are to administer this sacrament.
+
+  §2. For a grave cause the bishop and even the presbyter endowed with the faculty of confirming in virtue of the law or the special grant of the competent authority can in single cases also associate presbyters with themselves to administer the sacrament.
+
+**Can. 885**
+  §1. The diocesan bishop is ob-liged to take care that the sacrament of confir-mation is conferred on subjects who properly and reasonably seek it.
+
+  §2. A presbyter who possesses this faculty must use it for the sake of those in whose favor the faculty was granted.
+
+**Can. 886**
+  §1. A bishop in his diocese legitimately administers the sacrament of confirmation even to faithful who are not his subjects, unless their own ordinary expressly prohibits it.
+
+  §2. To administer confirmation licitly in another diocese, a bishop needs at least the reasonably presumed permission of the diocesan bishop unless it concerns his own subjects.
+
+**Can. 887** A presbyter who possesses the faculty of administering confirmation also confers this sacrament licitly on externs in the territory assigned to him unless their proper ordinary prohibits it; he cannot confer it validly on anyone in another territory, without prejudice to the prescript of  can. 883, n. 3.
+
+**Can. 888** Within the territory in which they are able to confer confirmation, ministers can administer it even in exempt places.
+
+**Can. 889**
+  §1. Every baptized person not yet confirmed and only such a person is capable of receiving confirmation.
+
+  §2. To receive confirmation licitly outside the danger of death requires that a person who has the use of reason be suitably instructed, properly disposed, and able to renew the baptismal promises.
+
+**Can. 890** The faithful are obliged to receive this sacrament at the proper time. Parents and pastors of souls, especially pastors of parishes, are to take care that the faithful are properly instructed to receive the sacrament and come to it at the appropriate time.
+
+**Can. 891** The sacrament of confirmation is to be conferred on the faithful at about the age of discretion unless the conference of bishops has determined another age, or there is danger of death, or in the judgment of the minister a grave cause suggests otherwise.
+
+**Can. 892** Insofar as possible, there is to be a sponsor for the person to be confirmed; the sponsor is to take care that the confirmed person behaves as a true witness of Christ and faithfully fulfills the obligations inherent in this sacrament.
+
+**Can. 893**
+  §1. To perform the function of sponsor, a person must fulfill the conditions mentioned in  can. 874.
+
+  §2. It is desirable to choose as sponsor the one who undertook the same function in baptism.
+
+**Can. 894** To prove the conferral of con-firmation the prescripts of  can. 876 are to be observed.
+
+**Can. 895** The names of those confirmed with mention made of the minister, the parents and sponsors, and the place and date of the conferral of confirmation are to be recorded in the confirmation register of the diocesan curia or, where the conference of bishops or the diocesan bishop has prescribed it, in a register kept in the parish archive. The pastor must inform the pastor of the place of baptism about the conferral of confirmation so that a notation is made in the baptismal register according to the norm of can. 535, Â§2.
+
+**Can. 896** If the pastor of the place was not present, the minister either personally or through another is to inform him as soon as possible of the conferral of confirmation.
+
+**Can. 897** The most August sacrament is the Most Holy Eucharist in which Christ the Lord himself is contained, offered, and received and by which the Church continually lives and grows. The eucharistic sacrifice, the memorial of the death and resurrection of the Lord, in which the sacrifice of the cross is perpetuated through the ages is the summit and source of all worship and Christian life, which signifies and effects the unity of the People of God and brings about the building up of the body of Christ. Indeed, the other sacraments and all the ecclesiastical works of the apostolate are closely connected with the Most Holy Eucharist and ordered to it.
+
+**Can. 898** The Christian faithful are to hold the Most Holy Eucharist in highest honor, taking an active part in the celebration of the most august sacrifice, receiving this sacrament most devoutly and frequently, and worshiping it with the highest adoration. In explaining the doctrine about this sacrament, pastors of souls are to teach the faithful diligently about this obligation.
+
+**Can. 899**
+  §1. The eucharistic celebration is the action of Christ himself and the Church. In it, Christ the Lord, through the ministry of the priest, offers himself, substantially present under the species of bread and wine, to God the Father and gives himself as spiritual food to the faithful united with his offering.
+
+  §2. In the eucharistic gathering the people of God are called together with the bishop or, under his authority, a presbyter presiding and acting in the person of Christ. All the faithful who are present, whether clerics or laity, unite together by participating in their own way according to the diversity of orders and liturgical functions.
+
+  §3. The eucharistic celebration is to be organized in such a way that all those participating receive from it the many fruits for which Christ the Lord instituted the eucharistic sacrifice.
+
+**Can. 900**
+  §1. The minister who is able to confect the sacrament of the Eucharist in the person of Christ is a validly ordained priest alone.
+
+  §2. A priest not impeded by canon law celebrates the Eucharist licitly; the provisions of the following canons are to be observed.
+
+**Can. 901** A priest is free to apply the Mass for anyone, living or dead.
+
+**Can. 902** Unless the welfare of the Christian faithful requires or suggests otherwise, priests can concelebrate the Eucharist. They are completely free to celebrate the Eucharist individually, however, but not while a concelebration is taking place in the same church or oratory.
+
+**Can. 903** A priest is to be permitted to celebrate even if the rector of the church does not know him, provided that either he presents a letter of introduction from his ordinary or superior, issued at least within the year, or it can be judged prudently that he is not impeded from celebrating.
+
+**Can. 904** Remembering always that in the mystery of the eucharistic sacrifice the work of redemption is exercised continually, priests are to celebrate frequently; indeed, daily celebration is recommended earnestly since, even if the faithful cannot be present, it is the act of Christ and the Church in which priests fulfill their principal function.
+
+**Can. 905**
+  §1. A priest is not permitted to celebrate the Eucharist more than once a day except in cases where the law permits him to celebrate or concelebrate more than once on the same day.
+
+  §2. If there is a shortage of priests, the local ordinary can allow priests to celebrate twice a day for a just cause, or if pastoral necessity requires it, even three times on Sundays and holy days of obligation.
+
+**Can. 906** Except for a just and reasonable cause, a priest is not to celebrate the eucharistic sacrifice without the participation of at least some member of the faithful.
+
+**Can. 907** In the eucharistic celebration deacons and lay persons are not permitted to offer prayers, especially the eucharistic prayer, or to perform actions which are proper to the celebrating priest.
+
+**Can. 908** Catholic priests are forbidden to concelebrate the Eucharist with priests or ministers of Churches or ecclesial communities which do not have full communion with the Catholic Church.
+
+**Can. 909** A priest is not to neglect to prepare himself properly through prayer for the celebration of the eucharistic sacrifice and to offer thanks to God at its completion.
+
+**Can. 910**
+  §1. The ordinary minister of holy communion is a bishop, presbyter, or deacon.
+
+  §2. The extraordinary minister of holy communion is an acolyte or another member of the Christian faithful designated according to the norm of  can. 230, Â§3.
+
+**Can. 911**
+  §1. The pastor, parochial vicars, chaplains, and, with regard to all those dwelling in the house, the superior of a community in clerical religious institutes and societies of apostolic life have the duty and right of bringing the Most Holy Eucharist as Viaticum to the sick.
+
+  §2. In the case of necessity or with at least the presumed permission of the pastor, chaplain, or superior, who must be notified afterwards, any priest or other minister of holy communion must do this.
+
+**Can. 912** Any baptized person not prohibited by law can and must be admitted to holy communion.
+
+**Can. 913**
+  §1. The administration of the Most Holy Eucharist to children requires that they have sufficient knowledge and careful preparation so that they understand the mystery of Christ according to their capacity and are able to receive the body of Christ with faith and devotion.
+
+  §2. The Most Holy Eucharist, however, can be administered to children in danger of death if they can distinguish the body of Christ from ordinary food and receive communion reverently.
+
+**Can. 914** It is primarily the duty of parents and those who take the place of parents, as well as the duty of pastors, to take care that children who have reached the use of reason are prepared properly and, after they have made sacramental confession, are refreshed with this divine food as soon as possible. It is for the pastor to exercise vigilance so that children who have not attained the use of reason or whom he judges are not sufficiently disposed do not approach holy communion.
+
+**Can. 915** Those who have been excommunicated or interdicted after the imposition or declaration of the penalty and others obstinately persevering in manifest grave sin are not to be admitted to holy communion.
+
+**Can. 916** A person who is conscious of grave sin is not to celebrate Mass or receive the body of the Lord without previous sacramental confession unless there is a grave reason and there is no opportunity to confess; in this case the person is to remember the obligation to make an act of perfect contrition which includes the resolution of confessing as soon as possible.
+
+**Can. 917** A person who has already received the Most Holy Eucharist can receive it a second time on the same day only within the eucharistic celebration in which the person participates, without prejudice to the prescript of  can. 921, Â§2.
+
+**Can. 918** It is highly recommended that the faithful receive holy communion during the eucharistic celebration itself. It is to be administered outside the Mass, however, to those who request it for a just cause, with the liturgical rites being observed.
+
+**Can. 919**
+  §1. A person who is to receive the Most Holy Eucharist is to abstain for at least one hour before holy communion from any food and drink, except for only water and medicine.
+
+  §2. A priest who celebrates the Most Holy Eucharist two or three times on the same day can take something before the second or third celebration even if there is less than one hour between them.
+
+  §3. The elderly, the infirm, and those who care for them can receive the Most Holy Eucharist even if they have eaten something within the preceding hour.
+
+**Can. 920**
+  §1. After being initiated into the Most Holy Eucharist, each of the faithful is obliged to receive holy communion at least once a year.
+
+  §2. This precept must be fulfilled during the Easter season unless it is fulfilled for a just cause at another time during the year.
+
+**Can. 921**
+  §1. The Christian faithful who are in danger of death from any cause are to be nourished by holy communion in the form of Viaticum.
+
+  §2. Even if they have been nourished by holy communion on the same day, however, those in danger of death are strongly urged to receive communion again.
+
+  §3. While the danger of death lasts, it is recommended that holy communion be administered often, but on separate days.
+
+**Can. 922** Holy Viaticum for the sick is not to be delayed too long; those who have the care of souls are to be zealous and vigilant that the sick are nourished by Viaticum while fully conscious.
+
+**Can. 923** The Christian faithful can participate in the eucharistic sacrifice and receive holy communion in any Catholic rite, without prejudice to the prescript of  can. 844.
+
+**Can. 924**
+  §1. The most holy eucharistic sacrifice must be offered with bread and with wine in which a little water must be mixed.
+
+  §2. The bread must be only wheat and recently made so that there is no danger of spoiling.
+
+  §3. The wine must be natural from the fruit of the vine and not spoiled.
+
+**Can. 925** Holy communion is to be given under the form of bread alone, or under both species according to the norm of the liturgical laws, or even under the form of wine alone in a case of necessity.
+
+**Can. 926** According to the ancient tradition of the Latin Church, the priest is to use unleavened bread in the eucharistic celebration whenever he offers it.
+
+**Can. 927** It is absolutely forbidden, even in extreme urgent necessity, to consecrate one matter without the other or even both outside the eucharistic celebration.
+
+**Can. 928** The eucharistic celebration is to be carried out in the Latin language or in another language provided that the liturgical texts have been legitimately approved.
+
+**Can. 929** In celebrating and administering the Eucharist, priests and deacons are to wear the sacred vestments prescribed by the rubrics.
+
+**Can. 930**
+  §1. If an infirm or elderly priest is unable to stand, he can celebrate the eucharistic sacrifice while seated, but not before the people except with the permission of the local ordinary; the liturgical laws are to be observed.
+
+  §2. A blind or otherwise infirm priest licitly celebrates the eucharistic sacrifice by using any approved text of the Mass with the assistance, if needed, of another priest, deacon, or even a properly instructed lay person.
+
+**Can. 931** The celebration and distribution of the Eucharist can be done at any day and hour except those which the liturgical norms exclude.
+
+**Can. 932**
+  §1. The eucharistic celebration is to be carried out in a sacred place unless in a particular case necessity requires otherwise; in such a case the celebration must be done in a decent place.
+
+  §2. The eucharistic sacrifice must be carried out on a dedicated or blessed altar; outside a sacred place a suitable table can be used, always with a cloth and a corporal.
+
+**Can. 933** For a just cause and with the express permission of the local ordinary, a priest is permitted to celebrate the Eucharist in the place of worship of some Church or ecclesial community which does not have full communion with the Catholic Church so long as there is no scandal.
+
+**Can. 934**
+  §1. The Most Holy Eucharist:
+
+1. must be reserved in the cathedral church or its equivalent, in every parish church, and in a church or oratory connected to the house of a religious institute or society of apostolic life;
+
+2. can be reserved in the chapel of the bishop and, with the permission of the local ordinary, in other churches, oratories, and chapels.
+
+  §2. In sacred places where the Most Holy Eucharist is reserved, there must always be someone responsible for it and, insofar as possible, a priest is to celebrate Mass there at least twice a month.
+
+**Can. 935** No one is permitted to keep the Eucharist on ones person or to carry it around, unless pastoral necessity urges it and the prescripts of the diocesan bishop are observed.
+
+**Can. 936** In the house of a religious institute or some other pious house, the Most Holy Eucharist is to be reserved only in the church or principal oratory attached to the house. For a just cause, however, the ordinary can also permit it to be reserved in another oratory of the same house.
+
+**Can. 937** Unless there is a grave reason to the contrary, the church in which the Most Holy Eucharist is reserved is to be open to the faithful for at least some hours every day so that they can pray before the Most Blessed Sacrament.
+
+**Can. 938**
+  §1. The Most Holy Eucharist is to be reserved habitually in only one tabernacle of a church or oratory.
+
+  §2. The tabernacle in which the Most Holy Eucharist is reserved is to be situated in some part of the church or oratory which is distinguished, conspicuous, beautifully decorated, and suitable for prayer.
+
+  §3. The tabernacle in which the Most Holy Eucharist is reserved habitually is to be immovable, made of solid and opaque material, and locked in such a way that the danger of profanation is avoided as much as possible.
+
+  §4. For a grave cause, it is permitted to reserve the Most Holy Eucharist in some other fit-ting and more secure place, especially at night.
+
+  §5. The person responsible for the church or oratory is to take care that the key of the tabernacle in which the Most Holy Eucharist is reserved is safeguarded most diligently.
+
+**Can. 939** Consecrated hosts in a quantity sufficient for the needs of the faithful are to be kept in a pyx or small vessel; they are to be renewed frequently and the older hosts consumed properly.
+
+**Can. 940** A special lamp which indicates and honors the presence of Christ is to shine continuously before a tabernacle in which the Most Holy Eucharist is reserved.
+
+**Can. 941**
+  §1. In churches or oratories where it is permitted to reserve the Most Holy Eucharist, there can be expositions with the pyx or the monstrance; the norms prescribed in the liturgical books are to be observed.
+
+  §2. Exposition of the Most Blessed Sacrament is not to be held in the same area of the church or oratory during the celebration of Mass.
+
+**Can. 942** It is recommended that in these churches and oratories an annual solemn exposition of the Most Blessed Sacrament be held for an appropriate period of time, even if not continuous, so that the local community more profoundly meditates on and adores the eucharistic mystery. Such an exposition is to be held, however, only if a suitable gathering of the faithful is foreseen and the established norms are observed.
+
+**Can. 943** The minister of exposition of the Most Blessed Sacrament and of eucharistic benediction is a priest or deacon; in special circumstances, the minister of exposition and reposition alone without benediction is the acolyte, extraordinary minister of holy communion, or someone else designated by the local ordinary; the prescripts of the diocesan bishop are to be observed.
+
+**Can. 944**
+  §1. When it can be done in the judgment of the diocesan bishop, a procession through the public streets is to be held as a public witness of veneration toward the Most Holy Eucharist, especially on the solemnity of the Body and Blood of Christ.
+
+  §2. It is for the diocesan bishop to establish regulations which provide for the participation in and the dignity of processions.
+
+**Can. 945**
+  §1. In accord with the approved practice of the Church, any priest celebrating or concelebrating is permitted to receive an offering to apply the Mass for a specific intention.
+
+  §2. It is recommended earnestly to priests that they celebrate Mass for the intention of the Christian faithful, especially the needy, even if they have not received an offering.
+
+**Can. 946** The Christian faithful who give an offering to apply the Mass for their intention contribute to the good of the Church and by that offering share its concern to support its ministers and works.
+
+**Can. 947** Any appearance of traYcking or trading is to be excluded entirely from the offering for Masses.
+
+**Can. 948** Separate Masses are to be applied for the intentions of those for whom a single offering, although small, has been given and accepted.
+
+**Can. 949** A person obliged to celebrate and apply Mass for the intention of those who gave an offering is bound by the obligation even if the offerings received have been lost through no fault of his own.
+
+**Can. 950** If a sum of money is offered for the application of Masses without an indication of the number of Masses to be celebrated, the number is to be computed on the basis of the offering established in the place where the donor resides, unless the intention of the donor must be presumed legitimately to have been different.
+
+**Can. 951**
+  §1. A priest who celebrates several Masses on the same day can apply each to the intention for which the offering was given, but subject to the rule that, except on Christmas, he is to keep the offering for only one Mass and transfer the others to the purposes prescribed by the ordinary, while allowing for some recompense by reason of an extrinsic title.
+
+  §2. A priest who concelebrates a second Mass on the same day cannot accept an offering for it under any title.
+
+**Can. 952**
+  §1. It is for the provincial council or a meeting of the bishops of the province to define by decree for the entire province the offering to be given for the celebration and application of Mass, and a priest is not permitted to seek a larger sum. Nevertheless, he is permitted to accept for the application of a Mass a voluntary offering which is larger or even smaller than the one defined.
+
+  §2. Where there is no such decree, the custom in force in the diocese is to be observed.
+
+  §3. Members of all religious institutes must also observe the same decree or local custom mentioned in Â§Â§1 and 2.
+
+**Can. 953** No one is permitted to accept more offerings for Masses to be applied by himself than he can satisfy within a year.
+
+**Can. 954** If in certain churches or oratories more Masses are asked to be celebrated than can be celebrated there, it is permitted for them to be celebrated elsewhere unless the donors have expressly indicated a contrary intention.
+
+**Can. 955**
+  §1. A person who intends to entrust to others the celebration of Masses to be applied is to entrust their celebration as soon as possible to priests acceptable to him, provided that he is certain that they are above suspicion.
+
+He must transfer the entire offering received unless it is certain that the excess over the sum fixed in the diocese was given for him personally. He is also obliged to see to the celebration of the Masses until he learns that the obligation has been accepted and the offering received.
+
+  §2. The time within which Masses must be celebrated begins on the day the priest who is to celebrate them received them unless it is otherwise evident.
+
+  §3. Those who entrust to others Masses to be celebrated are to record in a book without delay both the Masses which they received and those which they transferred to others, as well as their offerings.
+
+  §4. Every priest must note accurately the Masses which he accepted to celebrate and those which he has satisfied.
+
+**Can. 956** Each and every administrator of pious causes or those obliged in any way to see to the celebration of Masses, whether clerics or laity, are to hand over to their ordinaries according to the method defined by the latter the Mass obligations which have not been satisfied within a year.
+
+**Can. 957** The duty and right of exercising vigilance that Mass obligations are fulfilled belong to the local ordinary in churches of secular clergy and to the superiors in churches of religious institutes or societies of apostolic life.
+
+**Can. 958**
+  §1. The pastor and the rector of a church or other pious place which regularly receives offerings for Masses are to have a special book in which they note accurately the number of Masses to be celebrated, the intention, the offering given, and their celebration.
+
+  §2. The ordinary is obliged to examine these books each year either personally or through others.
+
+**Can. 959** In the sacrament of penance the faithful who confess their sins to a legitimate minister, are sorry for them, and intend to reform themselves obtain from God through the absolution imparted by the same minister forgiveness for the sins they have committed after baptism and, at the same, time are reconciled with the Church which they have wounded by sinning.
+
+**Can. 960** Individual and integral confession and absolution constitute the only ordinary means by which a member of the faithful conscious of grave sin is reconciled with God and the Church. Only physical or moral impossibility excuses from confession of this type; in such a case reconciliation can be obtained by other means.
+
+**Can. 961**
+  §1. Absolution cannot be imparted in a general manner to many penitents at once without previous individual confession unless:
+
+1. danger of death is imminent and there is insufficient time for the priest or priests to hear the confessions of the individual penitents;
+
+2. there is grave necessity, that is, when in view of the number of penitents, there are not enough confessors available to hear the confessions of individuals properly within a suitable period of time in such a way that the penitents are forced to be deprived for a long while of sacramental grace or holy communion through no fault of their own. Sufficient necessity is not considered to exist when confessors cannot be present due only to the large number of penitents such as can occur on some great feast or pilgrimage.
+
+  §2. It belongs to the diocesan bishop to judge whether the conditions required according to the norm of Â§1, n. 2 are present. He can determine the cases of such necessity, attentive to the criteria agreed upon with the other members of the conference of bishops.
+
+**Can. 962**
+  §1. For a member of the Christian faithful validly to receive sacramental absolution given to many at one time, it is required not only that the person is properly disposed but also at the same time intends to confess within a suitable period of time each grave sin which at the present time cannot be so confessed.
+
+  §2. Insofar as it can be done even on the occasion of the reception of general absolution, the Christian faithful are to be instructed about the requirements of the norm of Â§1. An exhortation that each person take care to make an act of contrition is to precede general absolution even in the case of danger of death, if there is time.
+
+**Can. 963** Without prejudice to the obligation mentioned in  can. 989, a person whose grave sins are remitted by general absolution is to approach individual confession as soon as possible, given the opportunity, before receiving another general absolution, unless a just cause intervenes.
+
+**Can. 964**
+  §1. The proper place to hear sacramental confessions is a church or oratory.
+
+  §2. The conference of bishops is to establish norms regarding the confessional; it is to take care, however, that there are always confessionals with a fixed grate between the penitent and the confessor in an open place so that the faithful who wish to can use them freely.
+
+  §3. Confessions are not to be heard outside a confessional without a just cause.
+
+**Can. 965** A priest alone is the minister of the sacrament of penance.
+
+**Can. 966**
+  §1. The valid absolution of sins requires that the minister have, in addition to the power of orders, the faculty of exercising it for the faithful to whom he imparts absolution.
+
+  §2. A priest can be given this faculty either by the law itself or by a grant made by the competent authority according to the norm of  can. 969.
+
+**Can. 967**
+  §1. In addition to the Roman Pontiff, cardinals have the faculty of hearing the confessions of the Christian faithful everywhere in the world by the law itself. Bishops likewise have this faculty and use it licitly everywhere unless the diocesan bishop has denied it in a particular case.
+
+  §2. Those who possess the faculty of hearing confessions habitually whether by virtue of office or by virtue of the grant of an ordinary of the place of incardination or of the place in which they have a domicile can exercise that faculty everywhere unless the local ordinary has denied it in a particular case, without prejudice to the prescripts of can. 974, Â§Â§2 and 3.
+
+  §3. Those who are provided with the faculty of hearing confessions by reason of office or grant of a competent superior according to the norm of cann.  968, Â§2 and  969,Â§2 possess the same faculty everywhere by the law itself as regards members and others living day and night in the house of the institute or society; they also use the faculty licitly unless some major superior has denied it in a particular case as regards his own subjects.
+
+**Can. 968**
+  §1. In virtue of office, a local ordinary, canon penitentiary, a pastor, and those who take the place of a pastor possess the faculty of hearing confessions, each within his jurisdiction.
+
+  §2. In virtue of their office, superiors of religious institutes or societies of apostolic life that are clerical and of pontifical right, who have executive power of governance according to the norm of their constitutions, possess the faculty of hearing the confessions of their subjects and of others living day and night in the house, without prejudice to the prescript of  can. 630, Â§4.
+
+**Can. 969**
+  §1. The local ordinary alone is competent to confer upon any presbyters whatsoever the faculty to hear the confessions of any of the faithful. Presbyters who are members of religious institutes, however, are not to use the faculty without at least the presumed permission of their superior.
+
+  §2. The superior of a religious institute or society of apostolic life mentioned in  can. 968, Â§2 is competent to confer upon any presbyters whatsoever the faculty to hear the confessions of their subjects and of others living day and night in the house.
+
+**Can. 970** The faculty to hear confessions is not to be granted except to presbyters who are found to be suitable through an examination or whose suitability is otherwise evident.
+
+**Can. 971** The local ordinary is not to grant the faculty of hearing confessions habitually to a presbyter, even one having a domicile or quasi-domicile in his jurisdiction, unless he has first heard the ordinary of the same presbyter insofar as possible.
+
+**Can. 972** The competent authority mentioned in can. 969 can grant the faculty to hear confessions for either an indefinite or a definite period of time.
+
+**Can. 973** The faculty to hear confessions habitually is to be granted in writing.
+
+**Can. 974**
+  §1. The local ordinary and the competent superior are not to revoke the faculty to hear confessions habitually except for a grave cause.
+
+  §2. When the faculty to hear confessions has been revoked by the local ordinary who granted it as mentioned in  can. 967, Â§2, a presbyter loses the faculty everywhere. If some other local ordinary has revoked the faculty, the presbyter loses it only in the territory of the one who revokes it.
+
+  §3. Any local ordinary who has revoked the faculty of some presbyter to hear confessions is to inform the proper ordinary of incardination of the presbyter or, if he is a member of a religious institute, his competent superior.
+
+  §4. If the proper major superior of a presbyter has revoked the faculty to hear confessions, the presbyter loses the faulty to hear the confessions of members of the institute everywhere. If some other competent superior has revoked the faculty, however, the presbyter loses it only with regard to the subjects in the jurisdiction of that superior.
+
+**Can. 975** Besides by revocation, the faculty mentioned in  can. 967, Â§2 ceases by loss of office, excardination, or loss of domicile.
+
+**Can. 976** Even though a priest lacks the faculty to hear confessions, he absolves validly and licitly any penitents whatsoever in danger of death from any censures and sins, even if an approved priest is present.
+
+**Can. 977** The absolution of an accomplice in a sin against the sixth commandment of the Decalogue is invalid except in danger of death.
+
+**Can. 978**
+  §1. In hearing confessions the priest is to remember that he is equally a judge and a physician and has been established by God as a minister of divine justice and mercy, so that he has regard for the divine honor and the salvation of souls.
+
+  §2. In administering the sacrament, the confessor as a minister of the Church is to adhere faithfully to the doctrine of the magisterium and the norms issued by competent authority.
+
+**Can. 979** In posing questions, the priest is to proceed with prudence and discretion, attentive to the condition and age of the penitent, and is to refrain from asking the name of an accomplice.
+
+**Can. 980** If the confessor has no doubt about the disposition of the penitent, and the penitent seeks absolution, absolution is to be neither refused nor deferred.
+
+**Can. 981** The confessor is to impose salutary and suitable penances in accord with the quality and number of sins, taking into account the condition of the penitent. The penitent is obliged to fulfill these personally.
+
+**Can. 982** Whoever confesses to have denounced falsely an innocent confessor to ecclesiastical authority concerning the crime of solicitation to sin against the sixth commandment of the Decalogue is not to be absolved unless the person has first formally retracted the false denunciation and is prepared to repair damages if there are any.
+
+**Can. 983**
+  §1. The sacramental seal is inviolable; therefore it is absolutely forbidden for a confessor to betray in any way a penitent in words or in any manner and for any reason.
+
+  §2. The interpreter, if there is one, and all others who in any way have knowledge of sins from confession are also obliged to observe secrecy.
+
+**Can. 984**
+  §1. A confessor is prohibited completely from using knowledge acquired from confession to the detriment of the penitent even when any danger of revelation is excluded.
+
+  §2. A person who has been placed in authority cannot use in any manner for external governance the knowledge about sins which he has received in confession at any time.
+
+**Can. 985** The director of novices and his associate and the rector of a seminary or other institute of education are not to hear the sacramental confessions of their students residing in the same house unless the students freely request it in particular cases.
+
+**Can. 986**
+  §1. All to whom the care of souls has been entrusted in virtue of some function are obliged to make provision so that the confessions of the faithful entrusted to them are heard when they reasonably seek to be heard and that they have the opportunity to approach individual confession on days and at times established for their convenience.
+
+  §2. In urgent necessity, any confessor is obliged to hear the confessions of the Christian faithful, and in danger of death, any priest is so obliged.
+
+**Can. 987** To receive the salvific remedy of the sacrament of penance, a member of the Christian faithful must be disposed in such a way that, rejecting sins committed and having a purpose of amendment, the person is turned back to God.
+
+**Can. 988**
+  §1. A member of the Christian faithful is obliged to confess in kind and number all grave sins committed after baptism and not yet remitted directly through the keys of the Church nor acknowledged in individual confession, of which the person has knowledge after diligent examination of conscience.
+
+  §2. It is recommended to the Christian faithful that they also confess venial sins.
+
+**Can. 989** After having reached the age of discretion, each member of the faithful is ob-liged to confess faithfully his or her grave sins at least once a year.
+
+**Can. 990** No one is prohibited from confessing through an interpreter as long as abuses and scandals are avoided and without prejudice to the prescript of  can. 983, Â§2.
+
+**Can. 991** Every member of the Christian faithful is free to confess sins to a legitimately approved confessor of his or her choice, even to one of another rite.
+
+**Can. 992** An indulgence is the remission before God of temporal punishment for sins whose guilt is already forgiven, which a properly disposed member of the Christian faithful gains under certain and defined conditions by the assistance of the Church which as minister of redemption dispenses and applies authoritatively the treasury of the satisfactions of Christ and the saints.
+
+**Can. 993** An indulgence is partial or plenary insofar as it partially or totally frees from the temporal punishment due to sins.
+
+**Can. 994** Any member of the faithful can gain partial or plenary indulgences for oneself or apply them to the dead by way of suffrage.
+
+**Can. 995**
+  §1. In addition to the supreme authority of the Church, only those to whom this power is acknowledged in the law or granted by the Roman Pontiff can bestow indulgences.
+
+  §2. No authority below the Roman Pontiff can entrust the power of granting indulgences to others unless the Apostolic See has given this expressly to the person.
+
+**Can. 996**
+  §1. To be capable of gaining indulgences, a person must be baptized, not excommunicated, and in the state of grace at least at the end of the prescribed works.
+
+  §2. To gain indulgences, however, a capable subject must have at least the general intention of acquiring them and must fulfill the enjoined works in the established time and the proper method, according to the tenor of the grant.
+
+**Can. 997** As regards the granting and use of indulgences, the other prescripts contained in the special laws of the Church must also be observed.
+
+**Can. 998** The anointing of the sick, by which the Church commends the faithful who are dangerously ill to the suffering and glorified Lord in order that he relieve and save them, is conferred by anointing them with oil and pronouncing the words prescribed in the liturgical books.
+
+**Can. 999** In addition to a bishop, the following can bless the oil to be used in the anointing of the sick:
+
+1. those equivalent to a diocesan bishop by law;
+
+2. any presbyter in a case of necessity, but only in the actual celebration of the sacrament.
+
+**Can. 1000**
+  §1. The anointings with the words, order, and manner prescribed in the liturgical books are to be performed carefully. In a case of necessity, however, a single anointing on the forehead or even on some other part of the body is sufficient, while the entire formula is said.
+
+  §2. The minister is to perform the anointings with his own hand, unless a grave reason warrants the use of an instrument.
+
+**Can. 1001** Pastors of souls and those close to the sick are to take care that the sick are consoled by this sacrament at the appropriate time.
+
+**Can. 1002** The communal celebration of the anointing of the sick for many of the sick at once, who have been suitably prepared and are properly disposed, can be performed according to the prescripts of the diocesan bishop.
+
+**Can. 1003**
+  §1. Every priest and a priest alone validly administers the anointing of the sick.
+
+  §2. All priests to whom the care of souls has been entrusted have the duty and right of administering the anointing of the sick for the faithful entrusted to their pastoral office. For a reasonable cause, any other priest can administer this sacrament with at least the presumed consent of the priest mentioned above.
+
+  §3. Any priest is permitted to carry blessed oil with him so that he is able to administer the sacrament of the anointing of the sick in a case of necessity.
+
+**Can. 1004**
+  §1. The anointing of the sick can be administered to a member of the faithful who, having reached the use of reason, begins to be in danger due to sickness or old age.
+
+  §2. This sacrament can be repeated if the sick person, having recovered, again becomes gravely ill or if the condition becomes more grave during the same illness.
+
+**Can. 1005** This sacrament is to be administered in a case of doubt whether the sick person has attained the use of reason, is dangerously ill, or is dead.
+
+**Can. 1006** This sacrament is to be conferred on the sick who at least implicitly requested it when they were in control of their faculties.
+
+**Can. 1007** The anointing of the sick is not to be conferred upon those who persevere obstinately in manifest grave sin.
+
+**Can. 1008** By divine institution, the sacrament of orders establishes some among the Christian faithful as sacred ministers through an indelible character which marks them. They are consecrated and designated, each according to his grade, to nourish the people of God, fufilling in the person of Christ the Head the functions of teaching, sanctifying, and governing.
+
+**Can. 1009**
+  §1. The orders are the episcopate, the presbyterate, and the diaconate.
+
+  §2. They are conferred by the imposition of hands and the consecratory prayer which the liturgical books prescribe for the individual grades.
+
+**Can. 1010** Ordination is to be celebrated within the solemnities of the Mass on a Sunday or holy day of obligation.
+
+For pastoral reasons it can take place also on other days, even weekdays.
+
+**Can. 1011**
+  §1. Ordination generally is to be celebrated in the cathedral church; for pastoral reasons, however, it can be celebrated in another church or oratory.
+
+  §2. Clerics and other members of the Christian faithful must be invited to the ordination so that as large an assembly as possible is present at the celebration.
+
+**Can. 1012** The minister of sacred ordination is a consecrated bishop.
+
+**Can. 1013** No bishop is permitted to consecrate anyone a bishop unless it is first evident that there is a pontifical mandate.
+
+**Can. 1014** Unless the Apostolic See has granted a dispensation, the principal bishop consecrator in an episcopal consecration is to be joined by at least two consecrating bishops; it is especially appropriate, however, that all the bishops present consecrate the elect together with the bishops mentioned.
+
+**Can. 1015**
+  §1. Each person is to be ordained to the presbyterate or the diaconate by his proper bishop or with legitimate dimissorial letters from him.
+
+  §2. If not impeded by a just cause, the proper bishop is to ordain his own subjects personally; without an apostolic indult, however, he cannot ordain licitly a subject of an Eastern rite.
+
+  §3. The person who can give dimissorial letters to receive orders can himself also confer the same orders personally if he possesses the episcopal character.
+
+**Can. 1016** As regards the diaconal ordination of those who intend to be enrolled in the secular clergy, the proper bishop is the bishop of the diocese in which the candidate has a domicile or the bishop of the diocese to which the candidate is determined to devote himself. As regards the presbyteral ordination of secular clerics, it is the bishop of the diocese in which the candidate was incardinated through the diaconate.
+
+**Can. 1017** A bishop cannot confer orders outside his own jurisdiction without the permission of the diocesan bishop.
+
+**Can. 1018**
+  §1. The following can give dimissorial letters for secular clergy:
+
+1. the proper bishop mentioned in can. 1016;
+
+2. an apostolic administrator and, with the consent of the college of consultors, a diocesan administrator; with the consent of the council mentioned in  can. 495, Â§2, an apostolic pro-vicar and an apostolic pro-prefect.
+
+  §2. A diocesan administrator, apostolic pro-vicar, and apostolic pro-prefect are not to grant dimissorial letters to those who have been denied admission to orders by the diocesan bishop, the apostolic vicar, or the apostolic prefect.
+
+**Can. 1019**
+  §1. The major superior of a clerical religious institute of pontifical right or of a clerical society of apostolic life of pontifical right is competent to grant dimissorial letters for the diaconate and the presbyterate to their subjects who are enrolled perpetually or defin-itively in the institute or society according to their constitutions.
+
+  §2. The law for secular clerics governs the ordination of all other candidates of any institute or society; any other indult granted to superiors is revoked.
+
+**Can. 1020** Dimissorial letters are not to be granted unless all the testimonials and documents required by law according to the norm of cann.  1050 and 1051 have been obtained beforehand.
+
+**Can. 1021** Dimissorial letters can be sent to any bishop in communion with the Apostolic See except to a bishop of a rite different from the rite of the candidate unless there is an apostolic indult.
+
+**Can. 1022** After the ordaining bishop has received legitimate dimissorial letters, he is not to proceed to the ordination unless it is clearly evident that the letters are authentic.
+
+**Can. 1023** Dimissorial letters can be limited or revoked by the one who granted them or by his successor, but once granted they do not lapse when the authority of the one who granted them ceases.
+
+**Can. 1024** A baptized male alone receives sacred ordination validly.
+
+**Can. 1025**
+  §1. To confer the presbyteral or diaconal orders licitly, it is required that the candidate, having completed the period of probation according to the norm of law, is endowed in the judgment of his own bishop or of the competent major superior with the necessary qualities, is prevented by no irregularity and no impediment, and has fulfilled the prerequisites according to the norm of  cann. 1033-1039. Moreover, the documents mentioned in  can. 1050 are to be obtained and the investigation mentioned in  can. 1051 is to be completed.
+
+  §2. Furthermore, it is required that he is considered in the judgment of the same legitimate superior as useful for the ministry of the Church.
+
+  §3. The bishop ordaining his own subject who is destined to the service of another diocese must be sure that the one to be ordained is going to be attached to this other diocese.
+
+**Can. 1026** A person must possess due freedom in order to be ordained. It is absolutely forbidden to force anyone in any way or for any reason to receive orders or to deter one who is canonically suitable from receiving them.
+
+**Can. 1027** Those aspiring to the diaconate and presbyterate are to be formed by careful preparation, according to the norm of law.
+
+**Can. 1028** The diocesan bishop or the competent superior is to take care that before candidates are promoted to any order, they are instructed properly about those things which belong to the order and its obligations.
+
+**Can. 1029** Only those are to be promoted to orders who, in the prudent judgment of their own bishop or of the competent major superior, all things considered, have integral faith, are moved by the right intention, have the requisite knowledge, possess a good reputation, and are endowed with integral morals and proven virtues and the other physical and psychic qualities in keeping with the order to be received.
+
+**Can. 1030** Only for a canonical cause, even if occult, can the proper bishop or competent major superior forbid admission to the presbyterate to deacons subject to him who are destined to the presbyterate, without prejudice to recourse according to the norm of law.
+
+**Can. 1031**
+  §1. The presbyterate is not to be conferred except on those who have completed the twenty-fifth year of age and possess sufficient maturity; an interval of at least six months is to be observed between the diaconate and the presbyterate. Those destined to the presbyterate are to be admitted to the order of deacon only after completing the twenty-third year of age.
+
+  §2. A candidate for the permanent diaconate who is not married is not to be admitted to the diaconate until after completing at least the twenty-fifth year of age; one who is married, not until after completing at least the thirty-fifth year of age and with the consent of his wife.
+
+  §3. The conference of bishops is free to establish norms which require an older age for the presbyterate and the permanent diaconate.
+
+  §4. A dispensation of more than a year from the age required according to the norm of Â§Â§1 and 2 is reserved to the Apostolic See.
+
+**Can. 1032**
+  §1. Those aspiring to the presbyterate can be promoted to the diaconate only after they have completed the fifth year of the curriculum of philosophical and theological studies.
+
+  §2. After a deacon has completed the curriculum of studies and before he is promoted to the presbyterate, he is to take part in pastoral care, exercising the diaconal order, for a suitable time defined by the bishop or competent major superior.
+
+  §3. A person aspiring to the permanent diaconate is not to be promoted to this order unless he has completed the time of formation.
+
+**Can. 1033** A person is promoted licitly to orders only if he has received the sacrament of confirmation.
+
+**Can. 1034**
+  §1. A person aspiring to the diaconate or presbyterate is not to be ordained unless he has first been enrolled among the candidates through the liturgical rite of admission by the authority mentioned in cann.  1016 and  1019; his petition is previously to have been written in his own hand, signed, and accepted in writing by the same authority.
+
+  §2. A person who has been received into a clerical institute through vows is not bound to obtain this admission.
+
+**Can. 1035**
+  §1. Before anyone is promoted to the permanent or transitional diaconate, he is required to have received the ministries of lector and acolyte and to have exercised them for a suitable period of time.
+
+  §2. There is to be an interval of at least six months between the conferral of the ministry of acolyte and the diaconate.
+
+**Can. 1036** In order to be promoted to the order of diaconate or of presbyterate, the candidate is to present to his bishop or competent major superior a declaration written in his own hand and signed in which he attests that he will receive the sacred order of his own accord and freely and will devote himself perpetually to the ecclesiastical ministry and at the same time asks to be admitted to the order to be received.
+
+**Can. 1037** An unmarried candidate for the permanent diaconate and a candidate for the presbyterate are not to be admitted to the order of diaconate unless they have assumed the obligation of celibacy in the prescribed rite publicly before God and the Church or have made perpetual vows in a religious institute.
+
+**Can. 1038** A deacon who refuses to be promoted to the presbyterate cannot be prohibited from the exercise of the order received unless he is prevented by a canonical impediment or another grave cause to be evaluated in the judgment of the diocesan bishop or competent major superior.
+
+**Can. 1039** All candidates for any order are to make a spiritual retreat for at least five days in a place and manner determined by the ordinary. Before the bishop proceeds to ordination, he must be certain that the candidates properly made this retreat.
+
+**Can. 1040** Those aVected by any impediment, whether perpetual, which is called an irregularity, or simple, are prevented from receiving orders. The only impediments incurred, however, are those contained in the following canons.
+
+**Can. 1041** The following are irregular for receiving orders:
+
+1. a person who labors under some form of amentia or other psychic illness due to which, after experts have been consulted, he is judged unqualified to fulfill the ministry properly;
+
+2. a person who has committed the delict of apostasy, heresy, or schism;
+
+3. a person who has attempted marriage, even only civilly, while either impeded personally from entering marriage by a matrimonial bond, sacred orders, or a public perpetual vow of chastity, or with a woman bound by a valid marriage or restricted by the same type of vow;
+
+4. a person who has committed voluntary homicide or procured a completed abortion and all those who positively cooperated in either;
+
+5. a person who has mutilated himself or another gravely and maliciously or who has attempted suicide;
+
+6. a person who has placed an act of orders reserved to those in the order of episcopate or presbyterate while either lacking that order or prohibited from its exercise by some declared or imposed canonical penalty.
+
+**Can. 1042** The following are simply impeded from receiving orders:
+
+1. a man who has a wife, unless he is legitimately destined to the permanent diaconate;
+
+2. a person who exercises an office or administration forbidden to clerics according to the norm of cann. 285 and  286 for which he must render an account, until he becomes free by having relinquished the office or administration and rendered the account;
+
+3. a neophyte unless he has been proven sufficiently in the judgment of the ordinary.
+
+**Can. 1043** If the Christian faithful are aware of impediments to sacred orders, they are obliged to reveal them to the ordinary or pastor before the ordination.
+
+**Can. 1044**
+  §1. The following are irregular for the exercise of orders received:
+
+1. a person who has received orders illegitimately while aVected by an irregularity to receive them;
+
+2. a person who has committed a delict mentioned in can. 1041, n. 2, if the delict is public;
+
+3. a person who has committed a delict mentioned in can. 1041, nn. 3, 4, 5, 6.
+
+  §2. The following are impeded from the exercise of orders:
+
+1. a person who has received orders illegitimately while prevented by an impediment from receiving them;
+
+2. a person who is aVected by amentia or some other psychic illness mentioned in  can. 1041, n. 1 until the ordinary, after consulting an expert, permits the exercise of the order.
+
+**Can. 1045** Ignorance of the irregularities and impediments does not exempt from them.
+
+**Can. 1046** Irregularities and impediments are multiplied if they arise from different causes. They are not multiplied, however, if they arise from the repetition of the same cause unless it is a question of the irregularity for voluntary homicide or for having procured a completed abortion.
+
+**Can. 1047**
+  §1. Dispensation from all irregularities is reserved to the Apostolic See alone if the fact on which they are based has been brought to the judicial forum.
+
+  §2. Dispensation from the following irregularities and impediments to receive orders is also reserved to the Apostolic See:
+
+1. irregularities from the public delicts mentioned in  can. 1041, nn. 2 and 3;
+
+2. the irregularity from the delict mentioned in can. 1041, n. 4, whether public or occult;
+
+3. the impediment mentioned in  can. 1042, n. 1.
+
+  §3. Dispensation in public cases from the irregularities from exercising an order received mentioned in can. 1041, n. 3, and even in occult cases from the irregularities mentioned in  can. 1041, n. 4 is also reserved to the Apostolic See.
+
+  §4. An ordinary is able to dispense from irregularities and impediments not reserved to the Holy See.
+
+**Can. 1048** In more urgent occult cases, if the ordinary or, when it concerns the irregularities mentioned in can. 1041, nn. 3 and 4, the Penitentiary cannot be approached and if there is imminent danger of grave harm or infamy, a person impeded by an irregularity from exercising an order can exercise it, but without prejudice to the obligation which remains of making recourse as soon as possible to the ordinary or the Penitentiary, omitting the name and through a confessor.
+
+**Can. 1049**
+  §1. Petitions to obtain a dispensation from irregularities or impediments must indicate all the irregularities and impediments. Nevertheless, a general dispensation is valid even for those omitted in good faith, except for the irregularities mentioned in can. 1041, n. 4, and for others brought to the judicial forum, but not for those omitted in bad faith.
+
+  §2. If it is a question of the irregularity from voluntary homicide or a procured abortion, the number of the delicts also must be mentioned for the validity of the dispensation.
+
+  §3. A general dispensation from irregularities and impediments to receive orders is valid for all the orders.
+
+**Can. 1050** For a person to be promoted to sacred orders, the following documents are required:
+
+1. a testimonial that studies have been properly completed according to the norm of  can. 1032;
+
+2. for those to be ordained to the presbyterate, a testimonial that the diaconate was received;
+
+3. for candidates to the diaconate, a testimonial that baptism, confirmation and the ministries mentioned in Can.  1035 were received; likewise, a testimonial that the declaration mentioned in  can. 1036 was made, and if the one to be ordained to the permanent diaconate is a married candidate, testimonials that the marriage was celebrated and the wife consents.
+
+**Can. 1051** The following prescripts regarding the investigation about the qualities required in the one to be ordained are to be observed:
+
+1. there is to be a testimonial of the rector of the seminary or house of formation about the qualities required to receive the order, that is, about the sound doctrine of the candidate, his genuine piety, good morals, and aptitude to exercise the ministry, as well as, after a properly executed inquiry, about his state of physical and psychic health;
+
+2. in order to conduct the investigation properly, the diocesan bishop or major superior can employ other means which seem useful to him according to the circumstances of time and place, such as testimonial letters, public announcements, or other sources of information.
+
+**Can. 1052**
+  §1. For a bishop conferring ordination by his own right to proceed to the ordination, he must be sure that the documents mentioned in  can. 1050 are at hand and that, after the investigation has been conducted according to the norm of law, positive arguments have proven the suitability of the candidate.
+
+  §2. For a bishop to proceed to the ordination of someone who is not his subject, it is sufficient that the dimissorial letters mention that the same documents are at hand, that the investigation has been performed according to the norm of the law, and that the suitability of the candidate has been established. Moreover, if the candidate is a member of a religious institute or a society of apostolic life, the same letters must also attest that he has been received definitively into the institute or society and is a subject of the superior who gives the letters.
+
+  §3. If, all these notwithstanding, the bishop doubts for specific reasons whether a candidate is suitable to receive orders, he is not to promote him.
+
+**Can. 1053**
+  §1. After an ordination has taken place, the names of those ordained and of the ordaining minister and the place and date of the ordination are to be noted in a special register to be kept carefully in the curia of the place of ordination; all the documents of individual ordinations are to be preserved carefully.
+
+  §2. The ordaining bishop is to give to each of the ordained an authentic testimonial of the reception of ordination; if a bishop other than their own promoted them with dimissorial letters, they are to show the testimonial to their own ordinary for notation of the ordination in a special register to be kept in the archive.
+
+**Can. 1054** The local ordinary if it concerns seculars, or the competent major superior if it concerns his own subjects, is to send notice of each ordination celebrated to the pastor of the place of baptism, who is to record it in his baptismal register according to the norm of can. 535, Â§2.
+
+**Can. 1055**
+  §1. The matrimonial covenant, by which a man and a woman establish between themselves a partnership of the whole of life and which is ordered by its nature to the good of the spouses and the procreation and education of offspring, has been raised by Christ the Lord to the dignity of a sacrament between the baptized.
+
+  §2. For this reason, a valid matrimonial contract cannot exist between the baptized without it being by that fact a sacrament.
+
+**Can. 1056** The essential properties of marriage are unity and indissolubility, which in Christian marriage obtain a special firmness by reason of the sacrament.
+
+**Can. 1057**
+  §1. The consent of the parties, legitimately manifested between persons quali-fied by law, makes marriage; no human power is able to supply this consent.
+
+  §2. Matrimonial consent is an act of the will by which a man and a woman mutually give and accept each other through an irrevocable covenant in order to establish marriage.
+
+**Can. 1058** All persons who are not prohibited by law can contract marriage.
+
+**Can. 1059** Even if only one party is Catholic, the marriage of Catholics is governed not only by divine law but also by canon law, without prejudice to the competence of civil authority concerning the merely civil effects of the same marriage.
+
+**Can. 1060** Marriage possesses the favor of law; therefore, in a case of doubt, the validity of a marriage must be upheld until the contrary is proven.
+
+**Can. 1061**
+  §1. A valid marriage between the baptized is called ratum tantum if it has not been consummated; it is called ratum et consummatum if the spouses have performed between themselves in a human fashion a conjugal act which is suitable in itself for the procreation of offspring, to which marriage is ordered by its nature and by which the spouses become one flesh.
+
+  §2. After a marriage has been celebrated, if the spouses have lived together consummation is presumed until the contrary is proven.
+
+  §3. An invalid marriage is called putative if at least one party celebrated it in good faith, until both parties become certain of its nullity.
+
+**Can. 1062**
+  §1. A promise of marriage, whether unilateral or bilateral, which is called an engagement, is governed by the particular law established by the conference of bishops, after it has considered any existing customs and civil laws.
+
+  §2. A promise to marry does not give rise to an action to seek the celebration of marriage; an action to repair damages, however, does arise if warranted.
+
+**Can. 1063** Pastors of souls are obliged to take care that their ecclesiastical community offers the Christian faithful the assistance by which the matrimonial state is preserved in a Christian spirit and advances in perfection. This assistance must be offered especially by:
+
+1. preaching, catechesis adapted to minors, youth, and adults, and even the use of instruments of social communication, by which the Christian faithful are instructed about the meaning of Christian marriage and about the function of Christian spouses and parents;
+
+2. personal preparation to enter marriage, which disposes the spouses to the holiness and duties of their new state;
+
+3. a fruitful liturgical celebration of marriage which is to show that the spouses signify and share in the mystery of the unity and fruitful love between Christ and the Church;
+
+4. help offered to those who are married, so that faithfully preserving and protecting the conjugal covenant, they daily come to lead holier and fuller lives in their family.
+
+**Can. 1064** It is for the local ordinary to take care that such assistance is organized fit-tingly, after he has also heard men and women proven by experience and expertise if it seems opportune.
+
+**Can. 1065**
+  §1. Catholics who have not yet received the sacrament of confirmation are to receive it before they are admitted to marriage if it can be done without grave inconvenience.
+
+  §2. To receive the sacrament of marriage fruitfully, spouses are urged especially to approach the sacraments of penance and of the Most Holy Eucharist.
+
+**Can. 1066** Before a marriage is celebrated, it must be evident that nothing stands in the way of its valid and licit celebration.
+
+**Can. 1067** The conference of bishops is to establish norms about the examination of spouses and about the marriage banns or other opportune means to accomplish the investigations necessary before marriage. After these norms have been diligently observed, the pastor can proceed to assist at the marriage.
+
+**Can. 1068** In danger of death and if other proofs cannot be obtained, the aYrmation of the contracting parties, even sworn if the case warrants it, that they are baptized and are prevented by no impediment is sufficient unless there are indications to the contrary.
+
+**Can. 1069** All the faithful are obliged to reveal any impediments they know about to the pastor or local ordinary before the celebration of the marriage.
+
+**Can. 1070** If someone other than the pastor who is to assist at marriage has conducted the investigations, the person is to notify the pastor about the results as soon as possible through an authentic document.
+
+**Can. 1071**
+  §1. Except in a case of necessity, a person is not to assist without the permission of the local ordinary at:
+
+1. a marriage of transients;
+
+2. a marriage which cannot be recognized or celebrated according to the norm of civil law;
+
+3. a marriage of a person who is bound by natural obligations toward another party or children arising from a previous union;
+
+4. a marriage of a person who has notoriously rejected the Catholic faith;
+
+5. a marriage of a person who is under a censure;
+
+6. a marriage of a minor child when the parents are unaware or reasonably opposed;
+
+7. a marriage to be entered into through a proxy as mentioned in  can. 1105.
+
+  §2. The local ordinary is not to grant permission to assist at the marriage of a person who has notoriously rejected the Catholic faith unless the norms mentioned in  can. 1125 have been observed with necessary adaptation.
+
+**Can. 1072** Pastors of souls are to take care to dissuade youth from the celebration of marriage before the age at which a person usually enters marriage according to the accepted practices of the region.
+
+**Can. 1073** A diriment impediment renders a person unqualified to contract marriage validly.
+
+**Can. 1074** An impediment which can be proven in the external forum is considered to be public; otherwise it is occult.
+
+**Can. 1075**
+  §1. It is only for the supreme authority of the Church to declare authentically when divine law prohibits or nullifies marriage.
+
+  §2. Only the supreme authority has the right to establish other impediments for the baptized.
+
+**Can. 1076** A custom which introduces a new impediment or is contrary to existing impediments is reprobated.
+
+**Can. 1077**
+  §1. In a special case, the local ordinary can prohibit marriage for his own subjects residing anywhere and for all actually present in his own territory but only for a time, for a grave cause, and for as long as the cause continues.
+
+  §2. Only the supreme authority of the Church can add a nullifying clause to a prohibition.
+
+**Can. 1078**
+  §1. The local ordinary can dispense his own subjects residing anywhere and all actually present in his own territory from all impediments of ecclesiastical law except those whose dispensation is reserved to the Apostolic See.
+
+  §2. Impediments whose dispensation is reserved to the Apostolic See are:
+
+1. the impediment arising from sacred orders or from a public perpetual vow of chastity in a religious institute of pontifical right;
+
+2. the impediment of crime mentioned in can. 1090.
+
+  §3. A dispensation is never given from the impediment of consanguinity in the direct line or in the second degree of the collateral line.
+
+**Can. 1079**
+  §1. In urgent danger of death, the local ordinary can dispense his own subjects residing anywhere and all actually present in his territory both from the form to be observed in the celebration of marriage and from each and every impediment of ecclesiastical law, whether public or occult, except the impediment arising from the sacred order of presbyterate.
+
+  §2. In the same circumstances mentioned in Â§1, but only for cases in which the local ordinary cannot be reached, the pastor, the properly delegated sacred minister, and the priest or deacon who assists at marriage according to the norm of  can. 1116, Â§2 possess the same power of dispensing.
+
+  §3. In danger of death a confessor possesses the power of dispensing from occult impediments for the internal forum, whether within or outside the act of sacramental confession.
+
+  §4. In the case mentioned in Â§2, the local ordinary is not considered accessible if he can be reached only through telegraph or telephone.
+
+**Can. 1080**
+  §1. Whenever an impediment is discovered after everything has already been prepared for the wedding, and the marriage cannot be delayed without probable danger of grave harm until a dispensation is obtained from the competent authority, the local ordinary and, provided that the case is occult, all those mentioned in  can. 1079,Â§Â§2-3 when the conditions prescribed therein have been observed possess the power of dispensing from all impediments except those mentioned in can. 1078, Â§2, n. 1.
+
+  §2. This power is valid even to convalidate a marriage if there is the same danger in delay and there is insufficient time to make recourse to the Apostolic See or to the local ordinary concerning impediments from which he is able to dispense.
+
+**Can. 1081** The pastor or the priest or deacon mentioned in  can. 1079, Â§2 is to notify the local ordinary immediately about a dispensation granted for the external forum; it is also to be noted in the marriage register.
+
+**Can. 1082** Unless a rescript of the Penitentiary provides otherwise, a dispensation from an occult impediment granted in the non-sacramental internal forum is to be noted in a book which must be kept in the secret archive of the curia; no other dispensation for the external forum is necessary if afterwards the occult impediment becomes public.
+
+**Can. 1083**
+  §1. A man before he has completed his sixteenth year of age and a woman before she has completed her fourteenth year of age cannot enter into a valid marriage.
+
+  §2. The conference of bishops is free to establish a higher age for the licit celebration of marriage.
+
+**Can. 1084**
+  §1. Antecedent and perpetual impotence to have intercourse, whether on the part of the man or the woman, whether absolute or relative, nullifies marriage by its very nature.
+
+  §2. If the impediment of impotence is doubtful, whether by a doubt about the law or a doubt about a fact, a marriage must not be impeded nor, while the doubt remains, declared null.
+
+  §3. Sterility neither prohibits nor nullifies marriage, without prejudice to the prescript of  can. 1098.
+
+**Can. 1085**
+  §1. A person bound by the bond of a prior marriage, even if it was not consummated, invalidly attempts marriage.
+
+  §2. Even if the prior marriage is invalid or dissolved for any reason, it is not on that account permitted to contract another before the nullity or dissolution of the prior marriage is established legitimately and certainly.
+
+**Can. 1086**
+  §1. A marriage between two persons, one of whom has been baptized in the Catholic Church or received into it and has not defected from it by a formal act and the other of whom is not baptized, is invalid.
+
+  §2. A person is not to be dispensed from this impediment unless the conditions mentioned in cann.  1125 and 1126 have been fulfilled.
+
+  §3. If at the time the marriage was contracted one party was commonly held to have been baptized or the baptism was doubtful, the validity of the marriage must be presumed according to the norm of can. 1060 until it is proven with certainty that one party was baptized but the other was not.
+
+**Can. 1087** Those in sacred orders invalidly attempt marriage.
+
+**Can. 1088** Those bound by a public perpetual vow of chastity in a religious institute invalidly attempt marriage.
+
+**Can. 1089** No marriage can exist between a man and a woman who has been abducted or at least detained with a view of contracting marriage with her unless the woman chooses marriage of her own accord after she has been separated from the captor and established in a safe and free place.
+
+**Can. 1090**
+  §1. Anyone who with a view to entering marriage with a certain person has brought about the death of that persons spouse or of ones own spouse invalidly attempts this marriage.
+
+  §2. Those who have brought about the death of a spouse by mutual physical or moral cooperation also invalidly attempt a marriage together.
+
+**Can. 1091**
+  §1. In the direct line of consanguinity marriage is invalid between all ancestors and descendants, both legitimate and natural.
+
+  §2. In the collateral line marriage is invalid up to and including the fourth degree.
+
+  §3. The impediment of consanguinity is not multiplied.
+
+  §4. A marriage is never permitted if doubt exists whether the partners are related by consanguinity in any degree of the direct line or in the second degree of the collateral line.
+
+**Can. 1092** Affinity in the direct line in any degree invalidates a marriage.
+
+**Can. 1093** The impediment of public propriety arises from an invalid marriage after the establishment of common life or from notorious or public concubinage. It nullifies marriage in the first degree of the direct line between the man and the blood relatives of the woman, and vice versa.
+
+**Can. 1094** Those who are related in the direct line or in the second degree of the collateral line by a legal relationship arising from adoption cannot contract marriage together validly.
+
+**Can. 1095** The following are incapable of contracting marriage:
+
+1. those who lack the sufficient use of reason;
+
+2. those who suffer from a grave defect of discretion of judgment concerning the essential matrimonial rights and duties mutually to be handed over and accepted;
+
+3. those who are not able to assume the essential obligations of marriage for causes of a psychic nature.
+
+**Can. 1096**
+  §1. For matrimonial consent to exist, the contracting parties must be at least not ignorant that marriage is a permanent partnership between a man and a woman ordered to the procreation of offspring by means of some sexual cooperation.
+
+  §2. This ignorance is not presumed after puberty.
+
+**Can. 1097**
+  §1. Error concerning the person renders a marriage invalid.
+
+  §2. Error concerning a quality of the person does not render a marriage invalid even if it is the cause for the contract, unless this quality is directly and principally intended.
+
+**Can. 1098** A person contracts invalidly who enters into a marriage deceived by malice, perpetrated to obtain consent, concerning some quality of the other partner which by its very nature can gravely disturb the partnership of conjugal life.
+
+**Can. 1099** Error concerning the unity or indissolubility or sacramental dignity of marriage does not vitiate matrimonial consent provided that it does not determine the will.
+
+**Can. 1100** The knowledge or opinion of the nullity of a marriage does not necessarily exclude matrimonial consent.
+
+**Can. 1101**
+  §1. The internal consent of the mind is presumed to conform to the words and signs used in celebrating the marriage.
+
+  §2. If, however, either or both of the parties by a positive act of the will exclude marriage itself, some essential element of marriage, or some essential property of marriage, the party contracts invalidly.
+
+**Can. 1102**
+  §1. A marriage subject to a condition about the future cannot be contracted validly.
+
+  §2. A marriage entered into subject to a condition about the past or the present is valid or not insofar as that which is subject to the condition exists or not.
+
+  §3. The condition mentioned in Â§2, however, cannot be placed licitly without the written permission of the local ordinary.
+
+**Can. 1103** A marriage is invalid if entered into because of force or grave fear from without, even if unintentionally inflicted, so that a person is compelled to choose marriage in order to be free from it.
+
+**Can. 1104**
+  §1. To contract a marriage validly the contracting parties must be present together, either in person or by proxy.
+
+  §2. Those being married are to express matrimonial consent in words or, if they cannot speak, through equivalent signs.
+
+**Can. 1105**
+  §1. To enter into a marriage validly by proxy it is required that:
+
+1. there is a special mandate to contract with a specific person;
+
+2. the proxy is designated by the one mandating and fulfills this function personally.
+
+  §2. To be valid the mandate must be signed by the one mandating and by the pastor or ordinary of the place where the mandate is given, or by a priest delegated by either of them, or at least by two witnesses, or it must be made by means of a document which is authentic according to the norm of civil law.
+
+  §3. If the one mandating cannot write, this is to be noted in the mandate itself and another witness is to be added who also signs the document; otherwise, the mandate is invalid.
+
+  §4. If the one mandating revokes the mandate or develops amentia before the proxy contracts in his or her name, the marriage is invalid even if the proxy or the other contracting party does not know this.
+
+**Can. 1106** A marriage can be contracted through an interpreter; the pastor is not to assist at it, however, unless he is certain of the trustworthiness of the interpreter.
+
+**Can. 1107** Even if a marriage was entered into invalidly by reason of an impediment or a defect of form, the consent given is presumed to persist until its revocation is established.
+
+**Can. 1108**
+  §1. Only those marriages are valid which are contracted before the local ordinary, pastor, or a priest or deacon delegated by either of them, who assist, and before two witnesses according to the rules expressed in the following canons and without prejudice to the exceptions mentioned in cann.  144,  1112,Â§1,  1116, and  1127,Â§Â§1-2.
+
+  §2. The person who assists at a marriage is understood to be only that person who is present, asks for the manifestation of the consent of the contracting parties, and receives it in the name of the Church.
+
+**Can. 1109** Unless the local ordinary and pastor have been excommunicated, interdicted, or suspended from office or declared such through a sentence or decree, by virtue of their office and within the confines of their territory they assist validly at the marriages not only of their subjects but also of those who are not their subjects provided that one of them is of the Latin rite.
+
+**Can. 1110** By virtue of office, a personal ordinary and a personal pastor assist validly only at marriages where at least one of the parties is a subject within the confines of their jurisdiction.
+
+**Can. 1111**
+  §1. As long as they hold office validly, the local ordinary and the pastor can delegate to priests and deacons the faculty, even a general one, of assisting at marriages within the limits of their territory.
+
+  §2. To be valid, the delegation of the faculty to assist at marriages must be given to specific persons expressly.
+
+If it concerns special delegation, it must be given for a specific marriage; if it concerns general delegation, it must be given in writing.
+
+**Can. 1112**
+  §1. Where there is a lack of priests and deacons, the diocesan bishop can delegate lay persons to assist at marriages, with the previous favorable vote of the conference of bishops and after he has obtained the permission of the Holy See.
+
+  §2. A suitable lay person is to be selected, who is capable of giving instruction to those preparing to be married and able to perform the matrimonial liturgy properly.
+
+**Can. 1113** Before special delegation is granted, all those things which the law has established to prove free status are to be fulfilled.
+
+**Can. 1114** The person assisting at marriage acts illicitly unless the person has made certain of the free status of the contracting parties according to the norm of law and, if possible, of the permission of the pastor whenever the person assists in virtue of general delegation.
+
+**Can. 1115** Marriages are to be celebrated in a parish where either of the contracting parties has a domicile, quasidomicile, or month long residence or, if it concerns transients, in the parish where they actually reside. With the permission of the proper ordinary or proper pastor, marriages can be celebrated elsewhere.
+
+**Can. 1116**
+  §1. If a person competent to assist according to the norm of law cannot be present or approached without grave inconvenience, those who intend to enter into a true marriage can contract it validly and licitly before witnesses only:
+
+1. in danger of death;
+
+2. outside the danger of death provided that it is prudently foreseen that the situation will continue for a month.
+
+  §2. In either case, if some other priest or deacon who can be present is available, he must be called and be present at the celebration of the marriage together with the witnesses, without prejudice to the validity of the marriage before witnesses only.
+
+**Can. 1117** The form established above must be observed if at least one of the parties contracting marriage was baptized in the Catholic Church or received into it and has not defected from it by a formal act, without prejudice to the prescripts of  can. 1127,Â§2.
+
+**Can. 1118**
+  §1. A marriage between Catholics or between a Catholic party and a non-Catholic baptized party is to be celebrated in a parish church. It can be celebrated in another church or oratory with the permission of the local ordinary or pastor.
+
+  §2. The local ordinary can permit a marriage to be celebrated in another suitable place.
+
+  §3. A marriage between a Catholic party and a non-baptized party can be celebrated in a church or in another suitable place.
+
+**Can. 1119** Outside the case of necessity, the rites prescribed in the liturgical books approved by the Church or received by legitimate customs are to be observed in the celebration of a marriage.
+
+**Can. 1120** The conference of bishops can produce its own rite of marriage, to be reviewed by the Holy See, in keeping with the usages of places and peoples which are adapted to the Christian spirit; nevertheless, the law remains in effect that the person who assists at the marriage is present, asks for the manifestation of consent of the contracting parties, and receives it.
+
+**Can. 1121**
+  §1. After a marriage has been celebrated, the pastor of the place of the celebration or the person who takes his place, even if neither assisted at the marriage, is to note as soon as possible in the marriage register the names of the spouses, the person who assisted, and the witnesses, and the place and date of the celebration of the marriage according to the method prescribed by the conference of bishops or the diocesan bishop.
+
+  §2. Whenever a marriage is contracted according to the norm of  can. 1116, a priest or deacon, if he was present at the celebration, or otherwise the witnesses in solidum with the contracting parties are bound to inform as soon as possible the pastor or local ordinary about the marriage entered into.
+
+  §3. For a marriage contracted with a dispensation from canonical form, the local ordinary who granted the dispensation is to take care that the dispensation and celebration are inscribed in the marriage registers of both the curia and the proper parish of the Catholic party whose pastor conducted the investigation about the free status. The Catholic spouse is bound to notify as soon as possible the same ordinary and pastor about the marriage celebrated and also to indicate the place of the celebration and the public form observed.
+
+**Can. 1122**
+  §1. The contracted marriage is to be noted also in the baptismal registers in which the baptism of the spouses has been recorded.
+
+  §2. If a spouse did not contract marriage in the parish in which the person was baptized, the pastor of the place of the celebration is to send notice of the marriage which has been entered into as soon as possible to the pastor of the place of the conferral of baptism.
+
+**Can. 1123** Whenever a marriage is either convalidated in the external forum, declared null, or legitimately dissolved other than by death, the pastor of the place of the celebration of the marriage must be informed so that a notation is properly made in the marriage and baptismal registers.
+
+**Can. 1124** Without express permission of the competent authority, a marriage is prohibited between two baptized persons of whom one is baptized in the Catholic Church or received into it after baptism and has not defected from it by a formal act and the other of whom is enrolled in a Church or ecclesial community not in full communion with the Catholic Church.
+
+**Can. 1125** The local ordinary can grant a permission of this kind if there is a just and reasonable cause. He is not to grant it unless the following conditions have been fulfilled:
+
+1. the Catholic party is to declare that he or she is prepared to remove dangers of defecting from the faith and is to make a sincere promise to do all in his or her power so that all offspring are baptized and brought up in the Catholic Church;
+
+2. the other party is to be informed at an appropriate time about the promises which the Catholic party is to make, in such a way that it is certain that he or she is truly aware of the promise and obligation of the Catholic party;
+
+3. both parties are to be instructed about the purposes and essential properties of marriage which neither of the contracting parties is to exclude.
+
+**Can. 1126** It is for the conference of bishops to establish the method in which these declarations and promises, which are always required, must be made and to define the manner in which they are to be established in the external forum and the non-Catholic party informed about them.
+
+**Can. 1127**
+  §1. The prescripts of  can. 1108 are to be observed for the form to be used in a mixed marriage.
+
+Nevertheless, if a Catholic party contracts marriage with a non-Catholic party of an Eastern rite, the canonical form of the celebration must be observed for liceity only; for validity, however, the presence of a sacred minister is required and the other requirements of law are to be observed.
+
+  §2. If grave diYculties hinder the observance of canonical form, the local ordinary of the Catholic party has the right of dispensing from the form in individual cases, after having consulted the ordinary of the place in which the marriage is celebrated and with some public form of celebration for validity. It is for the conference of bishops to establish norms by which the aforementioned dispensation is to be granted in a uniform manner.
+
+  §3. It is forbidden to have another religious celebration of the same marriage to give or renew matrimonial consent before or after the canonical celebration according to the norm of Â§1. Likewise, there is not to be a religious celebration in which the Catholic who is assisting and a non-Catholic minister together, using their own rites, ask for the consent of the parties.
+
+**Can. 1128** Local ordinaries and other pastors of souls are to take care that the Catholic spouse and the children born of a mixed marriage do not lack the spiritual help to fulfill their obligations and are to help spouses foster the unity of conjugal and family life.
+
+**Can. 1129** The prescripts of cann. 1127 and  1128 must be applied also to marriages which the impediment of disparity of cult mentioned in can. 1086, Â§1 impedes.
+
+**Can. 1130** For a grave and urgent cause, the local ordinary can permit a marriage to be celebrated secretly.
+
+**Can. 1131** Permission to celebrate a marriage secretly entails the following:
+
+1. the investigations which must be conducted before the marriage are done secretly;
+
+2. the local ordinary, the one assisting, the witnesses, and the spouses observe secrecy about the marriage celebrated.
+
+**Can. 1132** The obligation of observing the secrecy mentioned in  can. 1131, n. 2 ceases on the part of the local ordinary if grave scandal or grave harm to the holiness of marriage is imminent due to the observance of the secret; this is to be made known to the parties before the celebration of the marriage.
+
+**Can. 1133** A marriage celebrated secretly is to be noted only in a special register to be kept in the secret archive of the curia.
+
+**Can. 1134** From a valid marriage there arises between the spouses a bond which by its nature is perpetual and exclusive. Moreover, a special sacrament strengthens and, as it were, consecrates the spouses in a Christian marriage for the duties and dignity of their state.
+
+**Can. 1135** Each spouse has an equal duty and right to those things which belong to the partnership of conjugal life.
+
+**Can. 1136** Parents have the most grave duty and the primary right to take care as best they can for the physical, social, cultural, moral, and religious education of their offspring.
+
+**Can. 1137** The children conceived or born of a valid or putative marriage are legitimate.
+
+**Can. 1138**
+  §1. The father is he whom a lawful marriage indicates unless clear evidence proves the contrary.
+
+  §2. Children born at least 180 days after the day when the marriage was celebrated or within 300 days from the day of the dissolution of conjugal life are presumed to be legitimate.
+
+**Can. 1139** Illegitimate children are legitimated by the subsequent valid or putative marriage of their parents or by a rescript of the Holy See.
+
+**Can. 1140** As regards canonical effects, legitimated children are equal in all things to legitimate ones unless the law has expressly provided otherwise.
+
+**Can. 1141** A marriage that is ratum et consummatum can be dissolved by no human power and by no cause, except death.
+
+**Can. 1142** For a just cause, the Roman Pontiff can dissolve a non-consummated marriage between baptized persons or between a baptized party and a non-baptized party at the request of both parties or of one of them, even if the other party is unwilling.
+
+**Can. 1143**
+  §1. A marriage entered into by two non-baptized persons is dissolved by means of the pauline privilege in favor of the faith of the party who has received baptism by the very fact that a new marriage is contracted by the same party, provided that the non-baptized party departs.
+
+  §2. The non-baptized party is considered to depart if he or she does not wish to cohabit with the baptized party or to cohabit peacefully without aVront to the Creator unless the baptized party, after baptism was received, has given the other a just cause for departing.
+
+**Can. 1144**
+  §1. For the baptized party to contract a new marriage validly, the non-baptized party must always be interrogated whether:
+
+1. he or she also wishes to receive baptism;
+
+2. he or she at least wishes to cohabit peacefully with the baptized party without aVront to the Creator.
+
+  §2. This interrogation must be done after baptism. For a grave cause, however, the local ordinary can permit the interrogation to be done before baptism or can even dispense from the interrogation either before or after baptism provided that it is evident at least by a summary and extrajudicial process that it cannot be done or would be useless.
+
+**Can. 1145**
+  §1. The interrogation is regularly to be done on the authority of the local ordinary of the converted party.
+
+This ordinary must grant the other spouse a period of time to respond if the spouse seeks it, after having been advised, however, that his or her silence will be considered a negative response if the period passes without effect.
+
+  §2. Even an interrogation made privately by the converted party is valid and indeed licit if the form prescribed above cannot be observed.
+
+  §3. In either case, the fact that the interrogation was done and its outcome must be established legitimately in the external forum.
+
+**Can. 1146** The baptized party has the right to contract a new marriage with a Catholic party:
+
+1. if the other party responded negatively to the interrogation or if the interrogation had been omitted legitimately;
+
+2. if the non-baptized party, already interrogated or not, at first persevered in peaceful cohabitation without aVront to the Creator but then departed without a just cause, without prejudice to the prescripts of cann.  1144 and 1145.
+
+**Can. 1147** For a grave cause, however, the local ordinary can allow a baptized party who uses the pauline privilege to contract marriage with a non-Catholic party, whether baptized or not baptized; the prescripts of the canons about mixed marriages are also to be observed.
+
+**Can. 1148**
+  §1. When he receives baptism in the Catholic Church, a non-baptized man who has several non-baptized wives at the same time can retain one of them after the others have been dismissed, if it is hard for him to remain with the first one. The same is valid for a non-baptized woman who has several non-baptized husbands at the same time.
+
+  §2. In the cases mentioned in Â§1, marriage must be contracted in legitimate form after baptism has been received, and the prescripts about mixed marriages, if necessary, and other matters required by the law are to be observed.
+
+  §3. Keeping in mind the moral, social, and economic conditions of places and of persons, the local ordinary is to take care that the needs of the first wife and the others dismissed are sufficiently provided for according to the norms of justice, Christian charity, and natural equity.
+
+**Can. 1149** A non-baptized person who, after having received baptism in the Catholic Church, cannot restore cohabitation with a non-baptized spouse by reason of captivity or persecution can contract another marriage even if the other party has received baptism in the meantime, without prejudice to the prescript of  can. 1141.
+
+**Can. 1150** In a doubtful matter the privilege of faith possesses the favor of the law.
+
+**Can. 1151** Spouses have the duty and right to preserve conjugal living unless a legitimate cause excuses them.
+
+**Can. 1152**
+  §1. Although it is earnestly recommended that a spouse, moved by Christian charity and concerned for the good of the family, not refuse forgiveness to an adulterous partner and not disrupt conjugal life, nevertheless, if the spouse did not condone the fault of the other expressly or tacitly, the spouse has the right to sever conjugal living unless the spouse consented to the adultery, gave cause for it, or also committed adultery.
+
+  §2. Tacit condonation exists if the innocent spouse has had marital relations voluntarily with the other spouse after having become certain of the adultery. It is presumed, moreover, if the spouse observed conjugal living for six months and did not make recourse to the ecclesiastical or civil authority.
+
+  §3. If the innocent spouse has severed conjugal living voluntarily, the spouse is to introduce a cause for separation within six months to the competent ecclesiastical authority which, after having investigated all the circumstances, is to consider carefully whether the innocent spouse can be moved to forgive the fault and not to prolong the separation permanently.
+
+**Can. 1153**
+  §1. If either of the spouses causes grave mental or physical danger to the other spouse or to the offspring or otherwise renders common life too diYcult, that spouse gives the other a legitimate cause for leaving, either by decree of the local ordinary or even on his or her own authority if there is danger in delay.
+
+  §2. In all cases, when the cause for the separation ceases, conjugal living must be restored unless ecclesiastical authority has established otherwise.
+
+**Can. 1154** After the separation of the spouses has taken place, the adequate support and education of the children must always be suitably provided.
+
+**Can. 1155** The innocent spouse laudably can readmit the other spouse to conjugal life; in this case the innocent spouse renounces the right to separate.
+
+**Can. 1156**
+  §1. To convalidate a marriage which is invalid because of a diriment impediment, it is required that the impediment ceases or is dispensed and that at least the party conscious of the impediment renews consent.
+
+  §2. Ecclesiastical law requires this renewal for the validity of the convalidation even if each party gave consent at the beginning and did not revoke it afterwards.
+
+**Can. 1157** The renewal of consent must be a new act of the will concerning a marriage which the renewing party knows or thinks was null from the beginning.
+
+**Can. 1158**
+  §1. If the impediment is public, both parties must renew the consent in canonical form, without prejudice to the prescript of  can. 1127, Â§2.
+
+  §2. If the impediment cannot be proven, it is sufficient that the party conscious of the impediment renews the consent privately and in secret, provided that the other perseveres in the consent offered; if the impediment is known to both parties, both are to renew the consent.
+
+**Can. 1159**
+  §1. A marriage which is invalid because of a defect of consent is convalidated if the party who did not consent now consents, provided that the consent given by the other party perseveres.
+
+  §2. If the defect of consent cannot be proven, it is sufficient that the party who did not consent gives consent privately and in secret.
+
+  §3. If the defect of consent can be proven, the consent must be given in canonical form.
+
+**Can. 1160** A marriage which is null because of defect of form must be contracted anew in canonical form in order to become valid, without prejudice to the prescript of  can. 1127,Â§2.
+
+**Can. 1161**
+  §1. The radical sanation of an invalid marriage is its convalidation without the renewal of consent, which is granted by competent authority and entails the dispensation from an impediment, if there is one, and from canonical form, if it was not observed, and the retroactivity of canonical effects.
+
+  §2. Convalidation occurs at the moment of the granting of the favor. Retroactivity, however, is understood to extend to the moment of the celebration of the marriage unless other provision is expressly made.
+
+  §3. A radical sanation is not to be granted unless it is probable that the parties wish to persevere in conjugal life.
+
+**Can. 1162**
+  §1. A marriage cannot be radically sanated if consent is lacking in either or both of the parties, whether the consent was lacking from the beginning or, though present in the beginning, was revoked afterwards.
+
+  §2. If this consent was indeed lacking from the beginning but was given afterwards, the sanation can be granted from the moment the consent was given.
+
+**Can. 1163**
+  §1. A marriage which is invalid because of an impediment or a defect of legitimate form can be sanated provided that the consent of each party perseveres.
+
+  §2. A marriage which is invalid because of an impediment of natural law or of divine positive law can be sanated only after the impediment has ceased.
+
+**Can. 1164** A sanation can be granted validly even if either or both of the parties do not know of it; nevertheless, it is not to be granted except for a grave cause.
+
+**Can. 1165**
+  §1. The Apostolic See can grant a radical sanation.
+
+  §2. The diocesan bishop can grant a radical sanation in individual cases even if there are several reasons for nullity in the same marriage, after the conditions mentioned in  can. 1125 for the sanation of a mixed marriage have been ful-filled. He cannot grant one, however, if there is an impediment whose dispensation is reserved to the Apostolic See according to the norm of  can. 1078, Â§2, or if it concerns an impediment of natural law or divine positive law which has now ceased.
+
+**Can. 1166** Sacramentals are sacred signs by which effects, especially spiritual effects, are signified in some imitation of the sacraments and are obtained through the intercession of the Church.
+
+**Can. 1167**
+  §1. The Apostolic See alone can establish new sacramentals, authentically interpret those already received, or abolish or change any of them.
+
+  §2. In confecting or administering sacramentals, the rites and formulas approved by the authority of the Church are to be observed carefully.
+
+**Can. 1168** The minister of sacramentals is a cleric who has been provided with the requisite power. According to the norm of the liturgical books and to the judgment of the local ordinary lay persons who possess the appropriate qualities can also administer some sacramentals.
+
+**Can. 1169**
+  §1. Those marked with the episcopal character and presbyters permitted by law or legitimate grant can perform consecrations and dedications validly.
+
+  §2. Any presbyter can impart blessings except those reserved to the Roman Pontiff or bishops.
+
+  §3. A deacon can impart only those blessings expressly permitted by law.
+
+**Can. 1170** Blessings, which are to be imparted first of all to Catholics, can also be given to catechumens and even to non-Catholics unless there is a prohibition of the Church to the contrary.
+
+**Can. 1171** Sacred objects, which are designated for divine worship by dedication or blessing, are to be treated reverently and are not to be employed for profane or inappropriate use even if they are owned by private persons.
+
+**Can. 1172**
+  §1. No one can perform exorcisms legitimately upon the possessed unless he has obtained special and express permission from the local ordinary.
+
+  §2. The local ordinary is to give this permission only to a presbyter who has piety, knowledge, prudence, and integrity of life.
+
+**Can. 1173** Fulfilling the priestly function of Christ, the Church celebrates the liturgy of the hours. In the liturgy of the hours, the Church, hearing God speaking to his people and recalling the mystery of salvation, praises him without ceasing by song and prayer and intercedes for the salvation of the whole world.
+
+**Can. 1174**
+  §1. Clerics are obliged to carry out the liturgy of the hours according to the norm of  can. 276, Â§2, n. 3; members of institutes of consecrated life and societies of apostolic life, however, are bound according to the norm of their constitutions.
+
+  §2. Other members of the Christian faithful, according to circumstances, are also earnestly invited to participate in the liturgy of the hours as an action of the Church.
+
+**Can. 1175** In carrying out the liturgy of the hours, the true time for each hour is to be observed insofar as possible.
+
+**Can. 1176**
+  §1. Deceased members of the Christian faithful must be given ecclesiastical funerals according to the norm of law.
+
+  §2. Ecclesiastical funerals, by which the Church seeks spiritual support for the deceased, honors their bodies, and at the same time brings the solace of hope to the living, must be celebrated according to the norm of the liturgical laws.
+
+  §3. The Church earnestly recommends that the pious custom of burying the bodies of the deceased be observed; nevertheless, the Church does not prohibit cremation unless it was chosen for reasons contrary to Christian doctrine.
+
+**Can. 1177**
+  §1. A funeral for any deceased member of the faithful must generally be celebrated in his or her parish church.
+
+  §2. Any member of the faithful or those competent to take care of the funeral of a deceased member of the faithful are permitted to choose another church for the funeral rite with the consent of the person who governs it and after no-tification of the proper pastor of the deceased.
+
+  §3. If a death occurred outside the persons own parish, and the body was not transferred to it nor another church legitimately chosen for the funeral rite, the funeral is to be celebrated in the church of the parish where the death occurred unless particular law has designated another church.
+
+**Can. 1178** The funeral of a diocesan bishop is to be celebrated in his own cathedral church unless he has chosen another church.
+
+**Can. 1179** The funerals of religious or members of a society of apostolic life are generally to be celebrated in their own church or oratory by the superior if the institute or society is clerical; otherwise by the chaplain.
+
+**Can. 1180**
+  §1. If a parish has its own cemetery, the deceased members of the faithful must be buried in it unless the deceased or those competent to take care of the burial of the deceased have chosen another cemetery legitimately.Â§2. Everyone, however, is permitted to choose the cemetery of burial unless prohibited by law.
+
+**Can. 1181** Regarding offerings on the occasion of funeral rites, the prescripts of  can. 1264 are to be observed, with the caution, however, that there is to be no favoritism toward persons in funerals and that the poor are not deprived of fitting funerals.
+
+**Can. 1182** When the burial has been completed, a record is to be made in the register of deaths according to the norm of particular law.
+
+**Can. 1183**
+  §1. When it concerns funerals, catechumens must be counted among the Christian faithful.
+
+  §2. The local ordinary can permit children whom the parents intended to baptize but who died before baptism to be given ecclesiastical funerals.
+
+  §3. In the prudent judgment of the local ordinary, ecclesiastical funerals can be granted to baptized persons who are enrolled in a non-Catholic Church or ecclesial community unless their intention is evidently to the contrary and provided that their own minister is not available.
+
+**Can. 1184**
+  §1. Unless they gave some signs of repentance before death, the following must be deprived of ecclesiastical funerals:
+
+1. notorious apostates, heretics, and schismatics;
+
+2. those who chose the cremation of their bodies for reasons contrary to Christian faith;
+
+3. other manifest sinners who cannot be granted ecclesiastical funerals without public scandal of the faithful.
+
+  §2. If any doubt occurs, the local ordinary is to be consulted, and his judgment must be followed.
+
+**Can. 1185** Any funeral Mass must also be denied a person who is excluded from ecclesiastical funerals.
+
+**Can. 1186** To foster the sanctification of the people of God, the Church commends to the special and filial reverence of the Christian faithful the Blessed Mary ever Virgin, Mother of God, whom Christ established as the mother of all people, and promotes the true and authentic veneration of the other saints whose example instructs the Christian faithful and whose intercession sustains them.
+
+**Can. 1187** It is permitted to reverence through public veneration only those servants of God whom the authority of the Church has recorded in the list of the saints or the blessed.
+
+**Can. 1188** The practice of displaying sacred images in churches for the reverence of the faithful is to remain in effect. Nevertheless, they are to be exhibited in moderate number and in suitable order so that the Christian people are not confused nor occasion given for inappropriate devotion.
+
+**Can. 1189** If they are in need of repair, precious images, that is, those distinguished by age, art, or veneration, which are exhibited in churches or oratories for the reverence of the faithful are never to be restored without the written permission of the ordinary; he is to consult experts before he grants permission.
+
+**Can. 1190**
+  §1. It is absolutely forbidden to sell sacred relics.
+
+  §2. Relics of great significance and other relics honored with great reverence by the people cannot be alienated validly in any manner or transferred permanently without the permission of the Apostolic See.
+
+  §3. The prescript of Â§2 is valid also for images which are honored in some church with great reverence by the people.
+
+**Can. 1191**
+  §1. A vow, that is, a deliberate and free promise made to God about a possible and better good, must be fulfilled by reason of the virtue of religion.
+
+  §2. Unless they are prohibited by law, all who possess suitable use of reason are capable of making a vow.
+
+  §3. A vow made out of grave and unjust fear or malice is null by the law itself.
+
+**Can. 1192**
+  §1. A vow is public if a legitimate superior accepts it in the name of the Church; otherwise, it is private.
+
+  §2. A vow is solemn if the Church has recognized it as such; otherwise, it is simple.
+
+  §3. A vow is personal if the person making the vow promises an action; real if the person making the vow promises some thing; mixed if it shares the nature of a personal and a real vow.
+
+**Can. 1193** By its nature a vow obliges only the person who makes it.
+
+**Can. 1194** A vow ceases by the lapse of the time designated to fulfill the obligation, by a substantial change of the matter promised, by the absence of a condition on which the vow depends, by the absence of the purpose of the vow, by dispensation, or by commutation.
+
+**Can. 1195** The person who has power over the matter of the vow can suspend the obligation of the vow for as long a time as the fulfillment of the vow brings disadvantage to that person.
+
+**Can. 1196** In addition to the Roman Pontiff, the following can dispense from private vows for a just cause provided that a dispensation does not injure a right acquired by others:
+
+1. the local ordinary and the pastor with regard to all their subjects and even travelers;
+
+2. the superior of a religious institute or society of apostolic life if it is clerical and of pontifical right with regard to members, novices, and persons who live day and night in a house of the institute or society;
+
+3. those to whom the Apostolic See or the local ordinary has delegated the power of dispensing.
+
+**Can. 1197** The person who makes a private vow can commute the work promised by the vow into a better or equal good; however, one who has the power of dispensing according to the norm of  can. 1196 can commute it into a lesser good.
+
+**Can. 1198** Vows made before religious profession are suspended while the person who made the vow remains in the religious institute.
+
+**Can. 1199**
+  §1. An oath, that is, the invocation of the divine name in witness to the truth, cannot be taken unless in truth, in judgment, and in justice.
+
+  §2. An oath which the canons require or permit cannot be taken validly through a proxy.
+
+**Can. 1200**
+  §1. A person who freely swears to do something is bound by a special obligation of religion to fulfill what he or she aYrmed by oath.
+
+  §2. An oath extorted by malice, force, or grave fear is null by the law itself.
+
+**Can. 1201**
+  §1. A promissory oath follows the nature and conditions of the act to which it is attached.
+
+  §2. If an oath is added to an act which directly tends toward the harm of others or toward the disadvantage of the public good or of eternal salvation, then the act is not reinforced by the oath.
+
+**Can. 1202** The obligation arising from a promissory oath ceases:
+
+1. if it is remitted by the person for whose benefit the oath was made;
+
+2. if the matter sworn to is substantially changed or if, after the circumstances have changed, it becomes either evil or entirely indif-ferent or, finally, impedes a greater good;
+
+3. if the purpose or a condition under which the oath may have been taken ceases;
+
+4. by dispensation or commutation, according to the norm of  can. 1203.
+
+**Can. 1203** Those who can suspend, dispense, or commute a vow have the same power in the same manner over a promissory oath; but if the dispensation from the oath tends to the disadvantage of others who refuse to remit the obligation of the oath, only the Apostolic See can dispense the oath.
+
+**Can. 1204** An oath must be interpreted strictly according to the law and according to the intention of the person taking the oath or, if that person acts out of malice, according to the intention of the person to whom the oath is made.
+
+**Can. 1205** Sacred places are those which are designated for divine worship or for the burial of the faithful by a dedication or a blessing which the liturgical books prescribe for this purpose.
+
+**Can. 1206** The dedication of any place belongs to the diocesan bishop and to those equivalent to him by law; they can entrust the function of carrying out a dedication in their territory to any bishop or, in exceptional cases, to a presbyter.
+
+**Can. 1207** Sacred places are blessed by the ordinary; the blessing of churches, however, is reserved to the diocesan bishop. Either of them, moreover, can delegate another priest for this purpose.
+
+**Can. 1208** When the dedication or blessing of a church or the blessing of a cemetery has been completed, a document is to be drawn up, one copy of which is to be kept in the diocesan curia and another in the archive of the church.
+
+**Can. 1209** The dedication or blessing of any place is sufficiently proven by one witness who is above suspicion, provided that no harm is done to anyone.
+
+**Can. 1210** Only those things which serve the exercise or promotion of worship, piety, or religion are permitted in a sacred place; anything not consonant with the holiness of the place is forbidden. In an individual case, however, the ordinary can permit other uses which are not contrary to the holiness of the place.
+
+**Can. 1211** Sacred places are violated by gravely injurious actions done in them with scandal to the faithful, actions which, in the judgment of the local ordinary, are so grave and contrary to the holiness of the place that it is not permitted to carry on worship in them until the damage is repaired by a penitential rite according to the norm of the liturgical books.
+
+**Can. 1212** Sacred places lose their dedication or blessing if they have been destroyed in large part, or have been turned over permanently to profane use by decree of the competent ordinary or in fact.
+
+**Can. 1213** The ecclesiastical authority freely exercises its powers and functions in sacred places.
+
+**Can. 1214** By the term church is understood a sacred building designated for divine worship to which the faithful have the right of entry for the exercise, especially the public exercise, of divine worship.
+
+**Can. 1215**
+  §1. No church is to be built without the express written consent of the diocesan bishop.
+
+  §2. The diocesan bishop is not to give consent unless, after having heard the presbyteral council and the rectors of the neighboring churches, he judges that the new church can serve the good of souls and that the means necessary for building the church and for divine worship will not be lacking.
+
+  §3. Although religious institutes have received from the diocesan bishop consent to establish a new house in the diocese or the city, they must also obtain his permission before building a church in a certain and determined place.
+
+**Can. 1216** In the building and repair of churches, the principles and norms of the liturgy and of sacred art are to be observed, after the advice of experts has been taken into account.
+
+**Can. 1217**
+  §1. After construction has been completed properly, a new church is to be dedicated or at least blessed as soon as possible; the laws of the sacred liturgy are to be observed.
+
+  §2. Churches, especially cathedrals and parish churches, are to be dedicated by the solemn rite.
+
+**Can. 1218** Each church is to have its own title which cannot be changed after the church has been dedicated.
+
+**Can. 1219** In a church that has legitimately been dedicated or blessed, all acts of divine worship can be performed, without prejudice to parochial rights.
+
+**Can. 1220**
+  §1. All those responsible are to take care that in churches such cleanliness and beauty are preserved as befit a house of God and that whatever is inappropriate to the holiness of the place is excluded.
+
+  §2. Ordinary care for preservation and fitting means of security are to be used to protect sacred and precious goods.
+
+**Can. 1221** Entry to a church is to be free and gratuitous during the time of sacred celebrations.
+
+**Can. 1222**
+  §1. If a church cannot be used in any way for divine worship and there is no possibility of repairing it, the diocesan bishop can relegate it to profane but not sordid use.
+
+  §2. Where other grave causes suggest that a church no longer be used for divine worship, the diocesan bishop, after having heard the presbyteral council, can relegate it to profane but not sordid use, with the consent of those who legitimately claim rights for themselves in the church and provided that the good of souls suffers no detriment thereby.
+
+**Can. 1223** By the term oratory is understood a place for divine worship designated by permission of the ordinary for the benefit of some community or group of the faithful who gather in it and to which other members of the faithful can also come with the consent of the competent superior.
+
+**Can. 1224**
+  §1. The ordinary is not to grant the permission required to establish an oratory unless he has first visited the place destined for the oratory personally or through another and has found it properly prepared.
+
+  §2. After permission has been given, however, an oratory cannot be converted to profane use without the authority of the same ordinary.
+
+**Can. 1225** All sacred celebrations can be performed in legitimately established oratories except those which the law or a prescript of the local ordinary excludes or the liturgical norms prohibit.
+
+**Can. 1226** By the term private chapel is understood a place for divine worship designated by permission of the local ordinary for the benefit of one or more physical persons.
+
+**Can. 1227** Bishops can establish a private chapel for themselves which possesses the same rights as an oratory.
+
+**Can. 1228** Without prejudice to the prescript of can. 1227, the permission of the local ordinary is required for Mass or other sacred celebrations to take place in any private chapel.
+
+**Can. 1229** It is fitting for oratories and private chapels to be blessed according to the rite prescribed in the liturgical books. They must, however, be reserved for divine worship alone and free from all domestic uses.
+
+**Can. 1230** By the term shrine is understood a church or other sacred place to which numerous members of the faithful make pilgrimage for a special reason of piety, with the approval of the local ordinary.
+
+**Can. 1231** For a shrine to be called a national shrine, the conference of bishops must give its approval; for it to be called an international shrine, the approval of the Holy See is required.
+
+**Can. 1232**
+  §1. The local ordinary is competent to approve the statutes of a diocesan shrine; the conference of bishops for the statutes of a national shrine; the Holy See alone for the statutes of an international shrine.
+
+  §2. The statutes are to determine especially the purpose, the authority of the rector, and the ownership and administration of goods.
+
+**Can. 1233** Certain privileges can be granted to shrines whenever local circumstances, the large number of pilgrims, and especially the good of the faithful seem to suggest it.
+
+**Can. 1234**
+  §1. At shrines the means of salvation are to be supplied more abundantly to the faithful by the diligent proclamation of the word of God, the suitable promotion of liturgical life especially through the celebration of the Eucharist and of penance, and the cultivation of approved forms of popular piety.
+
+  §2. Votive offerings of popular art and piety are to be kept on display in the shrines or nearby places and guarded securely.
+
+**Can. 1235**
+  §1. An altar, or a table upon which the eucharistic sacrifice is celebrated, is called fixed if it is so constructed that it adheres to the floor and thus cannot be moved; it is called movable if it can be removed.
+
+  §2. It is desirable to have a fixed altar in every church, but a fixed or a movable altar in other places designated for sacred celebrations.
+
+**Can. 1236**
+  §1. According to the traditional practice of the Church, the table of a fixed altar is to be of stone, and indeed of a single natural stone. Nevertheless, another worthy and solid material can also be used in the judgment of the conference of bishops. The supports or base, however, can be made of any material.
+
+  §2. A movable altar can be constructed of any solid material suitable for liturgical use.
+
+**Can. 1237**
+  §1. Fixed altars must be dedicated, and movable altars must be dedicated or blessed, according to the rites prescribed in the liturgical books.
+
+  §2. The ancient tradition of placing relics of martyrs or other saints under a fixed altar is to be preserved, according to the norms given in the liturgical books.
+
+**Can. 1238**
+  §1. An altar loses its dedication or blessing according to the norm of  can. 1212.
+
+  §2. Altars, whether fixed or movable, do not lose their dedication or blessing if the church or other sacred place is relegated to profane uses.
+
+**Can. 1239**
+  §1. An altar, whether fixed or movable, must be reserved for divine worship alone, to the absolute exclusion of any profane use.
+
+  §2. A body is not to be buried beneath an altar; otherwise, it is not permitted to celebrate Mass on the altar.
+
+**Can. 1240**
+  §1. Where possible, the Church is to have its own cemeteries or at least areas in civil cemeteries that are designated for the deceased members of the faithful and properly blessed.
+
+  §2. If this cannot be achieved, however, then individual graves are to be properly blessed.
+
+**Can. 1241**
+  §1. Parishes and religious institutes can have their own cemetery.
+
+  §2. Other juridic persons or families can also have a special cemetery or tomb, to be blessed according to the judgment of the local ordinary.
+
+**Can. 1242** Bodies are not to be buried in churches unless it is a question of burying in their own church the Roman Pontiff, cardinals, or diocesan bishops, including retired ones.
+
+**Can. 1243** Particular law is to establish appropriate norms about the discipline to be observed in cemeteries, especially with regard to protecting and fostering their sacred character.
+
+**Can. 1244**
+  §1. It is only for the supreme ecclesiastical authority to establish, transfer, and suppress feast days and days of penance common to the universal Church, without prejudice to the prescript of  can. 1246, Â§2.
+
+  §2. Diocesan bishops can decree special feast days or days of penance for their dioceses or places, but only in individual instances.
+
+**Can. 1245** Without prejudice to the right of diocesan bishops mentioned in  can. 87, for a just cause and according to the prescripts of the diocesan bishop, a pastor can grant in individual cases a dispensation from the obligation of observing a feast day or a day of penance or can grant a commutation of the obligation into other pious works. A superior of a religious institute or society of apostolic life, if they are clerical and of pontifical right, can also do this in regard to his own subjects and others living in the house day and night.
+
+**Can. 1246**
+  §1. Sunday, on which by apostolic tradition the paschal mystery is celebrated, must be observed in the universal Church as the primordial holy day of obligation. The following days must also be observed: the Nativity of our Lord Jesus Christ, the Epiphany, the Ascension, the Body and Blood of Christ, Holy Mary the Mother of God, her Immaculate Conception, her Assumption, Saint Joseph, Saint Peter and Saint Paul the Apostles, and All Saints.
+
+  §2. With the prior approval of the Apostolic See, however, the conference of bishops can suppress some of the holy days of obligation or transfer them to a Sunday.
+
+**Can. 1247** On Sundays and other holy days of obligation, the faithful are obliged to participate in the Mass.
+
+Moreover, they are to abstain from those works and aVairs which hinder the worship to be rendered to God, the joy proper to the Lords day, or the suitable relaxation of mind and body.
+
+**Can. 1248**
+  §1. A person who assists at a Mass celebrated anywhere in a Catholic rite either on the feast day itself or in the evening of the preceding day satisfies the obligation of participating in the Mass.
+
+  §2. If participation in the eucharistic celebration becomes impossible because of the absence of a sacred minister or for another grave cause, it is strongly recommended that the faithful take part in a liturgy of the word if such a liturgy is celebrated in a parish church or other sacred place according to the prescripts of the diocesan bishop or that they devote themselves to prayer for a suitable time alone, as a family, or, as the occasion permits, in groups of families.
+
+**Can. 1249** The divine law binds all the Christian faithful to do penance each in his or her own way. In order for all to be united among themselves by some common observance of penance, however, penitential days are prescribed on which the Christian faithful devote themselves in a special way to prayer, perform works of piety and charity, and deny themselves by fulfilling their own obligations more faithfully and especially by observing fast and abstinence, according to the norm of the following canons.
+
+**Can. 1250** The penitential days and times in the universal Church are every Friday of the whole year and the season of Lent.
+
+**Can. 1251** Abstinence from meat, or from some other food as  determined by the Episcopal Conference, is to be observed on all Fridays, unless a  solemnity should fall on a Friday. Abstinence and fasting are to be observed on Ash  Wednesday and Good Friday.
+
+**Can. 1252** The law of abstinence binds those who have completed  their fourteenth year. The law of fasting binds those who have attained their majority,  until the beginning of their sixtieth year. Pastors of souls and parents are to ensure that  even those who by reason of their age are not bound by the law of fasting and abstinence,  are taught the true meaning of penance.
+
+**Can. 1253** The conference of bishops can determine more precisely the observance of fast and abstinence as well as substitute other forms of penance, especially works of charity and exercises of piety, in whole or in part, for abstinence and fast.
+
+
+---
+
+*Source: Code of Canon Law (1983), Libreria Editrice Vaticana*
