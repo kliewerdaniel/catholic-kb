@@ -101,6 +101,20 @@ npm run tauri dev        # Start dev server with hot reload
 npm run tauri build      # Build production binaries
 ```
 
+## Installation (macOS)
+
+The app is not code-signed, so macOS will block it after download. To fix:
+
+1. Download the `.dmg` for your architecture:
+   - **Apple Silicon** (M1/M2/M3/M4): `Catholic Knowledge Base_1.0.0_aarch64.dmg`
+   - **Intel**: `Catholic Knowledge Base_1.0.0_x64.dmg`
+2. Open the DMG and drag the app to Applications
+3. **Before opening**, run this in Terminal:
+   ```bash
+   xattr -cr "/Applications/Catholic Knowledge Base.app"
+   ```
+4. Open the app normally
+
 ## Building for Distribution
 
 ```bash

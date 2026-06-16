@@ -58,6 +58,20 @@ jobs:
           tauriScript: npx tauri
           args: --target ${{ matrix.target }}
 
+      - name: Ad-hoc codesign macOS app
+        if: runner.os == 'macOS'
+        run: |
+          APP_PATH=$(find src-tauri/target/${{ matrix.target }}/release/bundle -name "*.app" -maxdepth 2 | head -1)
+          if [ -n "$APP_PATH" ]; then
+            codesign --force --deep -s - "$APP_PATH"
+            echo "Signed: $APP_PATH"
+          fi
+          DMG_PATH=$(find src-tauri/target/${{ matrix.target }}/release/bundle -name "*.dmg" -maxdepth 2 | head -1)
+          if [ -n "$DMG_PATH" ]; then
+            codesign --force -s - "$DMG_PATH"
+            echo "Signed DMG: $DMG_PATH"
+          fi
+
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
