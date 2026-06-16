@@ -12,6 +12,9 @@ sources/raw/
 # Generated outputs (regenerable)
 outputs/
 
+# Subrepo (populated by CI from pinned commit)
+catholic-kb/
+
 # Environment
 .env
 .env.local
