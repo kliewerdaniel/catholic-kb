@@ -78,11 +78,14 @@ impl EmbeddingIndex {
             return vec![];
         }
 
-        let mut scores: Vec<(usize, f32)> = self.embeddings.iter().enumerate().map(|(i, emb)| {
-            let dot: f32 = emb.iter().zip(query_emb.iter()).map(|(a, b)| a * b).sum();
+        let mut scores: Vec<(usize, f32)> = self.embeddings.iter().enumerate().filter_map(|(i, emb)| {
             let emb_norm: f32 = emb.iter().map(|x| x * x).sum::<f32>().sqrt();
-            let sim = if emb_norm > 0.0 { dot / (query_norm * emb_norm) } else { 0.0 };
-            (i, sim)
+            if emb_norm == 0.0 {
+                return None;
+            }
+            let dot: f32 = emb.iter().zip(query_emb.iter()).map(|(a, b)| a * b).sum();
+            let sim = dot / (query_norm * emb_norm);
+            Some((i, sim))
         }).collect();
 
         scores.sort_by(|a, b| b.1.partial_cmp(&a.1).unwrap_or(std::cmp::Ordering::Equal));

@@ -27,7 +27,9 @@ pub fn assemble_context(query: &str, results: &[SearchResult], max_tokens: usize
         };
 
         let chunk = format!("\n{}\n{}\n", header, text);
-        let chunk_tokens = chunk.len() / 4;
+        // Better token estimation: count words and multiply by 1.3 (average tokens per word)
+        let word_count = chunk.split_whitespace().count();
+        let chunk_tokens = (word_count as f64 * 1.3) as usize;
 
         if current_tokens + chunk_tokens > max_tokens {
             break;
@@ -47,7 +49,6 @@ pub fn read_chunk_text(state: &crate::engine::EngineState, result: &SearchResult
     };
 
     let section = result.section_label.as_deref().unwrap_or("");
-    let chunk_id = ""; // Not available in SearchResult
 
     // Try reading the chunk file
     let chunk_file = state.chunks_dir().join(
@@ -58,9 +59,6 @@ pub fn read_chunk_text(state: &crate::engine::EngineState, result: &SearchResult
         if let Ok(content) = std::fs::read_to_string(&chunk_file) {
             for line in content.lines() {
                 if let Ok(chunk) = serde_json::from_str::<serde_json::Value>(line) {
-                    if !chunk_id.is_empty() && chunk.get("chunk_id").and_then(|c| c.as_str()) == Some(chunk_id) {
-                        return chunk.get("text").and_then(|t| t.as_str()).unwrap_or("").to_string();
-                    }
                     if !section.is_empty() && chunk.get("section_label").and_then(|s| s.as_str()) == Some(section) {
                         return chunk.get("text").and_then(|t| t.as_str()).unwrap_or("").to_string();
                     }

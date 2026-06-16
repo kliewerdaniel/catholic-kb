@@ -15,12 +15,18 @@ pub struct LlmEngine {
     pub chat_model: String,
     pub embed_model: String,
     pub models_dir: PathBuf,
+    client: reqwest::blocking::Client,
 }
 
 impl LlmEngine {
     pub fn new(data_dir: &Path) -> Self {
         let models_dir = data_dir.join("models");
         std::fs::create_dir_all(&models_dir).ok();
+
+        let client = reqwest::blocking::Client::builder()
+            .timeout(std::time::Duration::from_secs(120))
+            .build()
+            .expect("Failed to create HTTP client");
 
         Self {
             ollama_url: std::env::var("OLLAMA_URL")
@@ -30,6 +36,7 @@ impl LlmEngine {
             embed_model: std::env::var("EMBED_MODEL")
                 .unwrap_or_else(|_| "nomic-embed-text".to_string()),
             models_dir,
+            client,
         }
     }
 
@@ -47,12 +54,7 @@ impl LlmEngine {
             "prompt": text
         });
 
-        let client = reqwest::blocking::Client::builder()
-            .timeout(std::time::Duration::from_secs(15))
-            .build()
-            .ok()?;
-
-        let resp = client.post(format!("{}/api/embeddings", self.ollama_url))
+        let resp = self.client.post(format!("{}/api/embeddings", self.ollama_url))
             .json(&payload)
             .send()
             .ok()?;
@@ -83,32 +85,23 @@ impl LlmEngine {
             "stream": false
         });
 
-        let client = reqwest::blocking::Client::builder()
-            .timeout(std::time::Duration::from_secs(120))
-            .build();
-
-        match client {
-            Ok(client) => {
-                match client.post(format!("{}/api/chat", self.ollama_url))
-                    .json(&payload)
-                    .send()
-                {
-                    Ok(resp) => {
-                        match resp.json::<serde_json::Value>() {
-                            Ok(data) => {
-                                data.get("message")
-                                    .and_then(|m| m.get("content"))
-                                    .and_then(|c| c.as_str())
-                                    .unwrap_or("No response generated.")
-                                    .to_string()
-                            }
-                            Err(e) => format!("Error parsing response: {}", e)
-                        }
+        match self.client.post(format!("{}/api/chat", self.ollama_url))
+            .json(&payload)
+            .send()
+        {
+            Ok(resp) => {
+                match resp.json::<serde_json::Value>() {
+                    Ok(data) => {
+                        data.get("message")
+                            .and_then(|m| m.get("content"))
+                            .and_then(|c| c.as_str())
+                            .unwrap_or("No response generated.")
+                            .to_string()
                     }
-                    Err(e) => format!("Error connecting to Ollama: {}", e)
+                    Err(e) => format!("Error parsing response: {}", e)
                 }
             }
-            Err(e) => format!("Error creating HTTP client: {}", e)
+            Err(e) => format!("Error connecting to Ollama: {}", e)
         }
     }
 
@@ -129,12 +122,7 @@ impl LlmEngine {
             "stream": true
         });
 
-        let client = reqwest::blocking::Client::builder()
-            .timeout(std::time::Duration::from_secs(120))
-            .build()
-            .ok()?;
-
-        client.post(format!("{}/api/chat", self.ollama_url))
+        self.client.post(format!("{}/api/chat", self.ollama_url))
             .json(&payload)
             .send()
             .ok()
@@ -170,27 +158,25 @@ impl LlmEngine {
 }
 
 fn check_ollama_model(url: &str, model_name: &str) -> bool {
-    let client = reqwest::blocking::Client::builder()
+    let client = match reqwest::blocking::Client::builder()
         .timeout(std::time::Duration::from_secs(2))
-        .build();
+        .build() {
+            Ok(c) => c,
+            Err(_) => return false,
+        };
 
-    match client {
-        Ok(client) => {
-            match client.get(format!("{}/api/tags", url)).send() {
-                Ok(resp) => {
-                    match resp.json::<serde_json::Value>() {
-                        Ok(data) => {
-                            if let Some(models) = data.get("models").and_then(|m| m.as_array()) {
-                                return models.iter().any(|m| {
-                                    m.get("name").and_then(|n| n.as_str())
-                                        .map(|n| n.contains(model_name))
-                                        .unwrap_or(false)
-                                });
-                            }
-                            false
-                        }
-                        Err(_) => false
+    match client.get(format!("{}/api/tags", url)).send() {
+        Ok(resp) => {
+            match resp.json::<serde_json::Value>() {
+                Ok(data) => {
+                    if let Some(models) = data.get("models").and_then(|m| m.as_array()) {
+                        return models.iter().any(|m| {
+                            m.get("name").and_then(|n| n.as_str())
+                                .map(|n| n.contains(model_name))
+                                .unwrap_or(false)
+                        });
                     }
+                    false
                 }
                 Err(_) => false
             }

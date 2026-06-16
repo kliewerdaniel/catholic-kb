@@ -2,11 +2,21 @@ use tauri::{State, AppHandle, Emitter};
 use serde::{Deserialize, Serialize};
 use std::sync::Mutex;
 use crate::engine::{EngineState, SearchResult};
+use std::sync::atomic::Ordering;
 
 #[derive(Debug, Serialize, Deserialize)]
 pub struct QueryRequest {
     pub question: String,
     pub mode: String,
+}
+
+#[tauri::command]
+pub async fn cancel_query(
+    state: State<'_, Mutex<EngineState>>,
+) -> Result<(), String> {
+    let engine = state.lock().map_err(|e| e.to_string())?;
+    engine.query_cancelled.store(true, Ordering::SeqCst);
+    Ok(())
 }
 
 #[tauri::command]
@@ -16,15 +26,21 @@ pub async fn query_stream(
     question: String,
     mode: String,
 ) -> Result<(), String> {
+    // Reset cancellation flag
+    {
+        let engine = state.lock().map_err(|e| e.to_string())?;
+        engine.query_cancelled.store(false, Ordering::SeqCst);
+    }
+
     // Clone data_dir before entering the lock
     let data_dir = {
-        let engine = state.lock().unwrap();
+        let engine = state.lock().map_err(|e| e.to_string())?;
         engine.data_dir.clone()
     };
 
     // Perform search
     let results = {
-        let mut engine = state.lock().unwrap();
+        let mut engine = state.lock().map_err(|e| e.to_string())?;
         match mode.as_str() {
             "keyword" => crate::engine::search::search_keyword(&engine, &question, None, 10),
             "scripture" => crate::engine::search::search_scripture(&mut engine, &question, 10),
@@ -53,6 +69,15 @@ pub async fn query_stream(
             match resp.text() {
                 Ok(text) => {
                     for line in text.lines() {
+                        // Check for cancellation
+                        {
+                            let engine = state.lock().map_err(|e| e.to_string())?;
+                            if engine.query_cancelled.load(Ordering::SeqCst) {
+                                app.emit("query-error", "Query cancelled").map_err(|e| e.to_string())?;
+                                return Ok(());
+                            }
+                        }
+
                         let line = line.trim();
                         if line.is_empty() {
                             continue;

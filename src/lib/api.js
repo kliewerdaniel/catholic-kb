@@ -57,6 +57,12 @@ export function queryStream(question, mode, { onSources, onToken, onDone, onErro
   return () => {};
 }
 
+export async function cancelQuery() {
+  if (invoke) {
+    return await invoke('cancel_query');
+  }
+}
+
 export async function listDocuments(category) {
   if (invoke) {
     return await invoke('list_documents', { category });

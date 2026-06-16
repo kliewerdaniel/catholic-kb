@@ -19,6 +19,7 @@ pub fn run() {
         .invoke_handler(tauri::generate_handler![
             commands::search::search,
             commands::query::query_stream,
+            commands::query::cancel_query,
             commands::documents::list_documents,
             commands::documents::get_document,
             commands::health::health_check,

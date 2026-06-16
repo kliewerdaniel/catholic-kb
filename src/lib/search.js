@@ -7,7 +7,6 @@ export function initSearch() {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      const { setMode } = require('./chat.js');
       // Dynamic import to avoid circular deps
       import('./chat.js').then(m => m.setMode(btn.dataset.mode));
     });

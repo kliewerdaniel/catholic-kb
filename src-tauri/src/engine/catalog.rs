@@ -12,12 +12,17 @@ impl Catalog {
     }
 }
 
-pub fn load_catalog(path: &Path) -> Catalog {
+pub fn load_catalog(path: &Path) -> Result<Catalog, String> {
+    if !path.exists() {
+        eprintln!("Warning: catalog file not found at {}", path.display());
+        return Ok(Catalog { documents: vec![] });
+    }
+
     let content = std::fs::read_to_string(path)
-        .unwrap_or_else(|_| r#"{"documents":[]}"#.to_string());
+        .map_err(|e| format!("Failed to read catalog: {}", e))?;
 
     let raw: serde_json::Value = serde_json::from_str(&content)
-        .unwrap_or(serde_json::Value::Null);
+        .map_err(|e| format!("Failed to parse catalog JSON: {}", e))?;
 
     let docs = raw.get("documents")
         .and_then(|d| d.as_array())
@@ -28,13 +33,18 @@ pub fn load_catalog(path: &Path) -> Catalog {
         })
         .unwrap_or_default();
 
-    Catalog { documents: docs }
+    Ok(Catalog { documents: docs })
 }
 
-pub fn load_json(path: &Path) -> serde_json::Value {
+pub fn load_json(path: &Path) -> Result<serde_json::Value, String> {
+    if !path.exists() {
+        eprintln!("Warning: JSON file not found at {}", path.display());
+        return Ok(serde_json::Value::Null);
+    }
+
     let content = std::fs::read_to_string(path)
-        .unwrap_or_else(|_| "{}".to_string());
+        .map_err(|e| format!("Failed to read {}: {}", path.display(), e))?;
 
     serde_json::from_str(&content)
-        .unwrap_or(serde_json::Value::Null)
+        .map_err(|e| format!("Failed to parse JSON {}: {}", path.display(), e))
 }

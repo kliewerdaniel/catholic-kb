@@ -1,4 +1,4 @@
-import { search as apiSearch, queryStream as apiQueryStream } from './api.js';
+import { search as apiSearch, queryStream as apiQueryStream, cancelQuery as apiCancelQuery } from './api.js';
 import { renderMarkdown } from './markdown.js';
 import { getChatHistory, saveChatHistory } from './storage.js';
 
@@ -28,6 +28,13 @@ export async function send() {
   const input = document.getElementById('input');
   const question = input.value.trim();
   if (!question || isStreaming) return;
+
+  // Cancel any ongoing query
+  if (abortQuery) {
+    abortQuery();
+    abortQuery = null;
+    apiCancelQuery().catch(() => {});
+  }
 
   isStreaming = true;
   const sendBtn = document.getElementById('send-btn');

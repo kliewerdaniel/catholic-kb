@@ -47,8 +47,14 @@ export function renderMarkdown(text) {
   });
   html = html.replace(/(<tr>.*<\/tr>\n?)+/g, (match) => `<table>${match}</table>`);
 
-  // Links
-  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
+  // Links (with URL validation to prevent XSS)
+  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, text, url) => {
+    const decodedUrl = url.replace(/&amp;/g, '&');
+    if (/^(https?:|mailto:|\/|#)/i.test(decodedUrl)) {
+      return `<a href="${url}" target="_blank" rel="noopener noreferrer">${text}</a>`;
+    }
+    return match;
+  });
 
   // Paragraphs (double newline)
   html = html.replace(/\n\n/g, '</p><p>');

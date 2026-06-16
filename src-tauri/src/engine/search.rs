@@ -3,16 +3,15 @@ use regex::Regex;
 use crate::engine::{EngineState, SearchResult};
 use crate::engine::helpers;
 
+const MAX_KEYWORD_FILE_SIZE: u64 = 1024 * 1024; // 1MB limit for keyword search files
+
 pub fn search_keyword(
     state: &EngineState,
     query: &str,
     category: Option<&str>,
     max_results: usize,
 ) -> Vec<SearchResult> {
-    let pattern = match Regex::new(&regex::escape(query)) {
-        Ok(r) => r,
-        Err(_) => return vec![],
-    };
+    let query_lower = query.to_lowercase();
 
     let search_root = if let Some(cat) = category {
         state.kbmd_dir().join(cat)
@@ -30,8 +29,15 @@ pub fn search_keyword(
                 continue;
             }
 
+            // Skip files larger than the limit
+            if let Ok(metadata) = std::fs::metadata(&md_file) {
+                if metadata.len() > MAX_KEYWORD_FILE_SIZE {
+                    continue;
+                }
+            }
+
             if let Ok(content) = std::fs::read_to_string(&md_file) {
-                if pattern.is_match(&content) {
+                if content.to_lowercase().contains(&query_lower) {
                     let rel = md_file.strip_prefix(state.data_dir.clone())
                         .map(|p| p.to_string_lossy().to_string())
                         .unwrap_or_default();

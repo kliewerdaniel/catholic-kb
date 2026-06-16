@@ -90,6 +90,7 @@ pub struct EngineState {
     pub canon_refs: Option<serde_json::Value>,
     pub doc_refs: Option<serde_json::Value>,
     pub embedding_index: Option<embeddings::EmbeddingIndex>,
+    pub query_cancelled: std::sync::atomic::AtomicBool,
 }
 
 impl EngineState {
@@ -104,6 +105,7 @@ impl EngineState {
             canon_refs: None,
             doc_refs: None,
             embedding_index: None,
+            query_cancelled: std::sync::atomic::AtomicBool::new(false),
         }
     }
 
@@ -126,7 +128,13 @@ impl EngineState {
     pub fn load_catalog(&mut self) -> &catalog::Catalog {
         if self.catalog.is_none() {
             let path = self.kb_index_dir().join("catalog.json");
-            self.catalog = Some(catalog::load_catalog(&path));
+            match catalog::load_catalog(&path) {
+                Ok(cat) => self.catalog = Some(cat),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.catalog = Some(catalog::Catalog { documents: vec![] });
+                }
+            }
         }
         self.catalog.as_ref().unwrap()
     }
@@ -134,7 +142,13 @@ impl EngineState {
     pub fn load_cross_refs(&mut self) -> &serde_json::Value {
         if self.cross_refs.is_none() {
             let path = self.kb_index_dir().join("cross-references.json");
-            self.cross_refs = Some(catalog::load_json(&path));
+            match catalog::load_json(&path) {
+                Ok(val) => self.cross_refs = Some(val),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.cross_refs = Some(serde_json::Value::Null);
+                }
+            }
         }
         self.cross_refs.as_ref().unwrap()
     }
@@ -142,7 +156,13 @@ impl EngineState {
     pub fn load_topic_index(&mut self) -> &serde_json::Value {
         if self.topic_index.is_none() {
             let path = self.kb_index_dir().join("topic-index.json");
-            self.topic_index = Some(catalog::load_json(&path));
+            match catalog::load_json(&path) {
+                Ok(val) => self.topic_index = Some(val),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.topic_index = Some(serde_json::Value::Null);
+                }
+            }
         }
         self.topic_index.as_ref().unwrap()
     }
@@ -150,7 +170,13 @@ impl EngineState {
     pub fn load_scripture_refs(&mut self) -> &serde_json::Value {
         if self.scripture_refs.is_none() {
             let path = self.kb_index_dir().join("scripture-refs.json");
-            self.scripture_refs = Some(catalog::load_json(&path));
+            match catalog::load_json(&path) {
+                Ok(val) => self.scripture_refs = Some(val),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.scripture_refs = Some(serde_json::Value::Null);
+                }
+            }
         }
         self.scripture_refs.as_ref().unwrap()
     }
@@ -158,7 +184,13 @@ impl EngineState {
     pub fn load_ccc_refs(&mut self) -> &serde_json::Value {
         if self.ccc_refs.is_none() {
             let path = self.kb_index_dir().join("ccc-refs.json");
-            self.ccc_refs = Some(catalog::load_json(&path));
+            match catalog::load_json(&path) {
+                Ok(val) => self.ccc_refs = Some(val),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.ccc_refs = Some(serde_json::Value::Null);
+                }
+            }
         }
         self.ccc_refs.as_ref().unwrap()
     }
@@ -166,7 +198,13 @@ impl EngineState {
     pub fn load_canon_refs(&mut self) -> &serde_json::Value {
         if self.canon_refs.is_none() {
             let path = self.kb_index_dir().join("canon-refs.json");
-            self.canon_refs = Some(catalog::load_json(&path));
+            match catalog::load_json(&path) {
+                Ok(val) => self.canon_refs = Some(val),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.canon_refs = Some(serde_json::Value::Null);
+                }
+            }
         }
         self.canon_refs.as_ref().unwrap()
     }
@@ -174,7 +212,13 @@ impl EngineState {
     pub fn load_doc_refs(&mut self) -> &serde_json::Value {
         if self.doc_refs.is_none() {
             let path = self.kb_index_dir().join("doc-refs.json");
-            self.doc_refs = Some(catalog::load_json(&path));
+            match catalog::load_json(&path) {
+                Ok(val) => self.doc_refs = Some(val),
+                Err(e) => {
+                    eprintln!("Warning: {}", e);
+                    self.doc_refs = Some(serde_json::Value::Null);
+                }
+            }
         }
         self.doc_refs.as_ref().unwrap()
     }
