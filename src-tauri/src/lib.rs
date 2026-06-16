@@ -34,65 +34,53 @@ pub fn run() {
 
 fn determine_data_dir() -> std::path::PathBuf {
     // Priority order:
-    // 1. App data dir (production)
-    // 2. Bundled resources
-    // 3. Parent of executable (development)
+    // 1. App data dir with already-extracted data (production)
+    // 2. Resources dir with compressed data (first launch)
+    // 3. Symlinked data (development)
+    // 4. CWD fallback
 
     let app_data = dirs::data_local_dir()
         .unwrap_or_else(|| std::path::PathBuf::from("."))
         .join("catholic-kb");
 
-    // Check if data exists in app data dir
+    // Check if data already extracted in app data dir
     if app_data.join("kbmd").exists() {
-        println!("Using data dir: {:?}", app_data);
+        println!("Using extracted data dir: {:?}", app_data);
         return app_data;
     }
 
-    // Check for bundled resources (production)
-    if let Ok(exe) = std::env::current_exe() {
-        if let Some(parent) = exe.parent() {
-            let resource_dir = parent.join("resources");
-            if resource_dir.join("kb-data.zst").exists() || resource_dir.join("kbmd").exists() {
-                println!("Using resource dir: {:?}", resource_dir);
-                return resource_dir;
-            }
+    // Check for bundled compressed resources (production - first launch)
+    if let Some(res_dir) = find_resources_dir() {
+        if res_dir.join("kbmd.tar.zst").exists() {
+            println!("Found compressed resources at: {:?}", res_dir);
+            return app_data; // Will decompress below
+        }
+        // Or already-extracted resources (dev symlink)
+        if res_dir.join("kbmd").exists() {
+            println!("Using resource dir: {:?}", res_dir);
+            return res_dir;
         }
     }
 
     // Fallback: use current directory (development)
     let cwd = std::env::current_dir().unwrap_or_else(|_| std::path::PathBuf::from("."));
-    println!("Using cwd: {:?}", cwd);
+    println!("Using cwd fallback: {:?}", cwd);
     cwd
 }
 
-fn decompress_data_if_needed(data_dir: &std::path::PathBuf) {
-    if data_dir.join("kbmd").exists() {
-        return; // Already decompressed
-    }
-
-    // Try to find and decompress kb-data.zst
-    let zst_path = find_resource_file("kb-data.zst");
-    if let Some(path) = zst_path {
-        println!("Decompressing knowledge base data...");
-        if let Err(e) = decompress_zstd(&path, data_dir) {
-            eprintln!("Failed to decompress data: {}", e);
-        }
-    }
-}
-
-fn find_resource_file(filename: &str) -> Option<std::path::PathBuf> {
-    // Check relative to executable
+fn find_resources_dir() -> Option<std::path::PathBuf> {
+    // Check relative to executable (production bundle)
     if let Ok(exe) = std::env::current_exe() {
         if let Some(parent) = exe.parent() {
-            let path = parent.join("resources").join(filename);
+            let path = parent.join("resources");
             if path.exists() {
                 return Some(path);
             }
         }
     }
 
-    // Check in current directory
-    let path = std::path::PathBuf::from("resources").join(filename);
+    // Check in current directory (development)
+    let path = std::path::PathBuf::from("resources");
     if path.exists() {
         return Some(path);
     }
@@ -100,7 +88,50 @@ fn find_resource_file(filename: &str) -> Option<std::path::PathBuf> {
     None
 }
 
-fn decompress_zstd(input: &std::path::Path, output_dir: &std::path::Path) -> Result<(), Box<dyn std::error::Error>> {
+fn decompress_data_if_needed(data_dir: &std::path::PathBuf) {
+    if data_dir.join("kbmd").exists() {
+        return; // Already decompressed
+    }
+
+    let res_dir = match find_resources_dir() {
+        Some(d) => d,
+        None => {
+            eprintln!("No resources directory found");
+            return;
+        }
+    };
+
+    std::fs::create_dir_all(data_dir).ok();
+
+    // Decompress kbmd.tar.zst -> kbmd/
+    let kbmd_zst = res_dir.join("kbmd.tar.zst");
+    if kbmd_zst.exists() {
+        println!("Decompressing kbmd...");
+        let kbmd_dir = data_dir.join("kbmd");
+        std::fs::create_dir_all(&kbmd_dir).ok();
+        if let Err(e) = decompress_tar_zst(&kbmd_zst, &kbmd_dir) {
+            eprintln!("Failed to decompress kbmd: {}", e);
+        }
+    }
+
+    // Decompress kb-index.tar.zst -> kb-index/
+    let kbindex_zst = res_dir.join("kb-index.tar.zst");
+    if kbindex_zst.exists() {
+        println!("Decompressing kb-index...");
+        let kbindex_dir = data_dir.join("kb-index");
+        std::fs::create_dir_all(&kbindex_dir).ok();
+        if let Err(e) = decompress_tar_zst(&kbindex_zst, &kbindex_dir) {
+            eprintln!("Failed to decompress kb-index: {}", e);
+        }
+    }
+
+    println!("Data decompression complete: {:?}", data_dir);
+}
+
+fn decompress_tar_zst(
+    input: &std::path::Path,
+    output_dir: &std::path::Path,
+) -> Result<(), Box<dyn std::error::Error>> {
     use std::io::Read;
 
     let mut file = std::fs::File::open(input)?;
@@ -108,15 +139,9 @@ fn decompress_zstd(input: &std::path::Path, output_dir: &std::path::Path) -> Res
     let mut tar_data = Vec::new();
     decoder.read_to_end(&mut tar_data)?;
 
-    // The compressed data is a tar archive
-    // For now, just decompress the raw zstd stream
-    // TODO: Implement tar extraction for proper directory structure
-    std::fs::create_dir_all(output_dir)?;
+    // Extract tar archive
+    let mut archive = tar::Archive::new(std::io::Cursor::new(tar_data));
+    archive.unpack(output_dir)?;
 
-    // Write the decompressed data as a single file for now
-    let output_file = output_dir.join("kb-data.tar");
-    std::fs::write(&output_file, &tar_data)?;
-
-    println!("Decompressed to: {:?}", output_file);
     Ok(())
 }

@@ -171,7 +171,7 @@ impl LlmEngine {
 
 fn check_ollama_model(url: &str, model_name: &str) -> bool {
     let client = reqwest::blocking::Client::builder()
-        .timeout(std::time::Duration::from_secs(5))
+        .timeout(std::time::Duration::from_secs(2))
         .build();
 
     match client {

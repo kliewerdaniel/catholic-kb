@@ -21,15 +21,39 @@ document.addEventListener('DOMContentLoaded', async () => {
   const theme = getTheme();
   document.documentElement.setAttribute('data-theme', theme);
 
+  // Show loading state
+  const loadingEl = document.getElementById('loading-overlay');
+  const loadingText = document.getElementById('loading-text');
+
+  function setLoading(msg) {
+    if (loadingText) loadingText.textContent = msg;
+  }
+
   // Initialize modules
   initChat();
   initSearch();
   initSettings();
   initShortcuts();
 
-  // Load data
-  await loadDocuments();
-  await updateHealthDisplay();
+  // Load data with progress
+  setLoading('Loading documents...');
+  try {
+    await loadDocuments();
+  } catch (e) {
+    console.error('Failed to load documents:', e);
+  }
+
+  setLoading('Checking system health...');
+  try {
+    await updateHealthDisplay();
+  } catch (e) {
+    console.error('Health check failed:', e);
+  }
+
+  // Hide loading overlay
+  if (loadingEl) {
+    loadingEl.classList.add('hidden');
+  }
 
   // Auto-resize textarea
   const input = document.getElementById('input');
