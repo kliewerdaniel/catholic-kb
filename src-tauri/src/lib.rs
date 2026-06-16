@@ -4,16 +4,15 @@ mod models;
 
 use std::sync::Mutex;
 use engine::EngineState;
+use tauri::Manager;
+use tauri::Emitter;
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     // Determine data directory — check for bundled resources first, then fallback
     let data_dir = determine_data_dir();
 
-    // Decompress data on first launch
-    decompress_data_if_needed(&data_dir);
-
-    let engine_state = Mutex::new(EngineState::new(data_dir));
+    let engine_state = Mutex::new(EngineState::new(data_dir.clone()));
 
     tauri::Builder::default()
         .plugin(tauri_plugin_shell::init())
@@ -28,6 +27,15 @@ pub fn run() {
             commands::settings::get_settings,
             commands::settings::set_settings,
         ])
+        .setup(move |app| {
+            // Decompress data in background after window is shown
+            let handle = app.handle().clone();
+            let data_dir = data_dir.clone();
+            std::thread::spawn(move || {
+                decompress_data_if_needed(&handle, &data_dir);
+            });
+            Ok(())
+        })
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
 }
@@ -88,7 +96,7 @@ fn find_resources_dir() -> Option<std::path::PathBuf> {
     None
 }
 
-fn decompress_data_if_needed(data_dir: &std::path::PathBuf) {
+fn decompress_data_if_needed(handle: &tauri::AppHandle, data_dir: &std::path::Path) {
     if data_dir.join("kbmd").exists() {
         return; // Already decompressed
     }
@@ -101,30 +109,37 @@ fn decompress_data_if_needed(data_dir: &std::path::PathBuf) {
         }
     };
 
-    std::fs::create_dir_all(data_dir).ok();
+    std::fs::create_dir_all(&data_dir).ok();
+
+    let emit = |msg: &str| {
+        let _ = handle.emit("decompress-progress", msg);
+    };
 
     // Decompress kbmd.tar.zst -> kbmd/
     let kbmd_zst = res_dir.join("kbmd.tar.zst");
     if kbmd_zst.exists() {
-        println!("Decompressing kbmd...");
+        emit("Extracting documents...");
         let kbmd_dir = data_dir.join("kbmd");
         std::fs::create_dir_all(&kbmd_dir).ok();
         if let Err(e) = decompress_tar_zst(&kbmd_zst, &kbmd_dir) {
             eprintln!("Failed to decompress kbmd: {}", e);
+            emit(&format!("Error: {}", e));
         }
     }
 
     // Decompress kb-index.tar.zst -> kb-index/
     let kbindex_zst = res_dir.join("kb-index.tar.zst");
     if kbindex_zst.exists() {
-        println!("Decompressing kb-index...");
+        emit("Extracting search index...");
         let kbindex_dir = data_dir.join("kb-index");
         std::fs::create_dir_all(&kbindex_dir).ok();
         if let Err(e) = decompress_tar_zst(&kbindex_zst, &kbindex_dir) {
             eprintln!("Failed to decompress kb-index: {}", e);
+            emit(&format!("Error: {}", e));
         }
     }
 
+    emit("ready");
     println!("Data decompression complete: {:?}", data_dir);
 }
 

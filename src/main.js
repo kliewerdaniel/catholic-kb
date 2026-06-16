@@ -29,13 +29,49 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (loadingText) loadingText.textContent = msg;
   }
 
+  // Listen for decompression progress from Rust
+  let decompressDone = false;
+  try {
+    const { listen } = await import('@tauri-apps/api/event');
+    await listen('decompress-progress', (event) => {
+      const msg = event.payload;
+      if (msg === 'ready') {
+        decompressDone = true;
+      } else {
+        setLoading(msg);
+      }
+    });
+  } catch {
+    // Not in Tauri
+    decompressDone = true;
+  }
+
+  // If data already extracted, skip waiting
+  setLoading('Starting up...');
+  // Give a moment for decompress event to arrive
+  await new Promise(r => setTimeout(r, 200));
+
   // Initialize modules
   initChat();
   initSearch();
   initSettings();
   initShortcuts();
 
-  // Load data with progress
+  // If decompression is running, wait for it
+  if (!decompressDone) {
+    setLoading('Extracting knowledge base (first launch only)...');
+    await new Promise(resolve => {
+      const check = setInterval(() => {
+        if (decompressDone) {
+          clearInterval(check);
+          resolve();
+        }
+      }, 500);
+      // Safety timeout - don't wait forever
+      setTimeout(() => { clearInterval(check); resolve(); }, 60000);
+    });
+  }
+
   setLoading('Loading documents...');
   try {
     await loadDocuments();
