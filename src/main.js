@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // Listen for decompression progress from Rust
   let decompressDone = false;
+  let decompressError = null;
   try {
     const { listen } = await import('@tauri-apps/api/event');
     await listen('decompress-progress', (event) => {
@@ -46,8 +47,12 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (msg === 'ready') {
         decompressDone = true;
       } else {
-        loadingText.textContent = msg;
+        if (loadingText) loadingText.textContent = msg;
       }
+    });
+    await listen('decompress-error', (event) => {
+      decompressError = event.payload;
+      decompressDone = true;
     });
   } catch {
     // Not in Tauri
@@ -76,8 +81,29 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
       }, 500);
       // Safety timeout - don't wait forever
-      setTimeout(() => { clearInterval(check); resolve(); }, 60000);
+      setTimeout(() => {
+        clearInterval(check);
+        if (!decompressDone) {
+          decompressError = decompressError || 'Knowledge base extraction timed out. Please restart the app.';
+          decompressDone = true;
+        }
+        resolve();
+      }, 60000);
     });
+  }
+
+  // Show error if decompression failed
+  if (decompressError) {
+    setProgress(0, '');
+    if (loadingText) {
+      loadingText.innerHTML = `<span style="color: #ef4444; font-weight: 600;">Initialization Error</span><br><span style="font-size: 0.9em; opacity: 0.8;">${decompressError}</span>`;
+    }
+    if (progressFill) {
+      progressFill.style.width = '0%';
+      progressFill.style.backgroundColor = '#ef4444';
+    }
+    // Don't hide overlay — let user see the error
+    return;
   }
 
   setProgress(1, 'Loading documents...');

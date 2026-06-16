@@ -1,6 +1,6 @@
 [package]
 name = "catholic-knowledge-base"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Catholic Knowledge Base — Local-first theological research app"
 

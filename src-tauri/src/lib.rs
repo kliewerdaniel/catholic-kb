@@ -4,7 +4,6 @@ mod models;
 
 use std::sync::Mutex;
 use engine::EngineState;
-use tauri::Manager;
 use tauri::Emitter;
 
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
@@ -77,39 +76,70 @@ fn determine_data_dir() -> std::path::PathBuf {
 }
 
 fn find_resources_dir() -> Option<std::path::PathBuf> {
-    // Check relative to executable (production bundle)
+    // Strategy 1: macOS app bundle — .app/Contents/Resources/
+    // On macOS, current_exe() resolves to .app/Contents/MacOS/<exe>,
+    // so go up to .app/Contents/ then into Resources/
     if let Ok(exe) = std::env::current_exe() {
-        if let Some(parent) = exe.parent() {
-            let path = parent.join("resources");
+        if let Some(mac_dir) = exe.parent() {
+            // .app/Contents/MacOS/<exe> -> .app/Contents/Resources/
+            if let Some(contents_dir) = mac_dir.parent() {
+                let macos_resources = contents_dir.join("Resources");
+                if macos_resources.exists() {
+                    println!("Found macOS bundle resources at: {:?}", macos_resources);
+                    return Some(macos_resources);
+                }
+            }
+
+            // Fallback: exe.parent()/resources (Linux/Windows bundle)
+            let path = mac_dir.join("resources");
             if path.exists() {
+                println!("Found resources at exe-relative path: {:?}", path);
                 return Some(path);
             }
         }
     }
 
-    // Check in current directory (development)
+    // Strategy 2: Check bundle_resources env var (set by Tauri at runtime)
+    if let Ok(bundle_res) = std::env::var("TAURI_RESOURCE_DIR") {
+        let path = std::path::PathBuf::from(bundle_res);
+        if path.exists() {
+            println!("Found resources via TAURI_RESOURCE_DIR: {:?}", path);
+            return Some(path);
+        }
+    }
+
+    // Strategy 3: Check in current directory (development)
     let path = std::path::PathBuf::from("resources");
     if path.exists() {
+        println!("Found resources in CWD: {:?}", path);
         return Some(path);
     }
 
+    eprintln!("No resources directory found in any location");
     None
 }
 
 fn decompress_data_if_needed(handle: &tauri::AppHandle, data_dir: &std::path::Path) {
     if data_dir.join("kbmd").exists() {
-        return; // Already decompressed
+        println!("Data already decompressed at: {:?}", data_dir);
+        let _ = handle.emit("decompress-progress", "ready");
+        return;
     }
 
     let res_dir = match find_resources_dir() {
         Some(d) => d,
         None => {
-            eprintln!("No resources directory found");
+            eprintln!("No resources directory found — cannot decompress data");
+            let _ = handle.emit("decompress-error", "Could not find bundled knowledge base resources. Please reinstall the application.");
             return;
         }
     };
 
-    std::fs::create_dir_all(&data_dir).ok();
+    if let Err(e) = std::fs::create_dir_all(&data_dir) {
+        eprintln!("Failed to create data directory {:?}: {}", data_dir, e);
+        let _ = handle.emit("decompress-error", &format!("Failed to create data directory: {}", e));
+        return;
+    }
 
     let emit = |msg: &str| {
         let _ = handle.emit("decompress-progress", msg);
@@ -120,11 +150,20 @@ fn decompress_data_if_needed(handle: &tauri::AppHandle, data_dir: &std::path::Pa
     if kbmd_zst.exists() {
         emit("Extracting documents...");
         let kbmd_dir = data_dir.join("kbmd");
-        std::fs::create_dir_all(&kbmd_dir).ok();
+        if let Err(e) = std::fs::create_dir_all(&kbmd_dir) {
+            eprintln!("Failed to create kbmd directory: {}", e);
+            let _ = handle.emit("decompress-error", &format!("Failed to create documents directory: {}", e));
+            return;
+        }
         if let Err(e) = decompress_tar_zst(&kbmd_zst, &kbmd_dir) {
             eprintln!("Failed to decompress kbmd: {}", e);
-            emit(&format!("Error: {}", e));
+            let _ = handle.emit("decompress-error", &format!("Failed to extract documents: {}. Please check disk space and try again.", e));
+            return;
         }
+    } else {
+        eprintln!("kbmd.tar.zst not found at {:?}", kbmd_zst);
+        let _ = handle.emit("decompress-error", "Knowledge base archive (kbmd.tar.zst) not found. Please reinstall the application.");
+        return;
     }
 
     // Decompress kb-index.tar.zst -> kb-index/
@@ -132,12 +171,21 @@ fn decompress_data_if_needed(handle: &tauri::AppHandle, data_dir: &std::path::Pa
     if kbindex_zst.exists() {
         emit("Extracting search index...");
         let kbindex_dir = data_dir.join("kb-index");
-        std::fs::create_dir_all(&kbindex_dir).ok();
+        if let Err(e) = std::fs::create_dir_all(&kbindex_dir) {
+            eprintln!("Failed to create kb-index directory: {}", e);
+            let _ = handle.emit("decompress-error", &format!("Failed to create search index directory: {}", e));
+            return;
+        }
         if let Err(e) = decompress_tar_zst(&kbindex_zst, &kbindex_dir) {
             eprintln!("Failed to decompress kb-index: {}", e);
-            emit(&format!("Error: {}", e));
+            let _ = handle.emit("decompress-error", &format!("Failed to extract search index: {}. Please check disk space and try again.", e));
+            return;
         }
     }
+
+    // Strip macOS quarantine attributes from extracted files
+    #[cfg(target_os = "macos")]
+    strip_quarantine_attributes(data_dir);
 
     emit("ready");
     println!("Data decompression complete: {:?}", data_dir);
@@ -159,4 +207,31 @@ fn decompress_tar_zst(
     archive.unpack(output_dir)?;
 
     Ok(())
+}
+
+/// Strip macOS quarantine attributes from extracted files to prevent Gatekeeper blocks.
+#[cfg(target_os = "macos")]
+fn strip_quarantine_attributes(dir: &std::path::Path) {
+    use std::process::Command;
+
+    let output = Command::new("xattr")
+        .args(["-r", "-d", "com.apple.quarantine"])
+        .arg(dir)
+        .output();
+
+    match output {
+        Ok(o) if o.status.success() => {
+            println!("Stripped quarantine attributes from: {:?}", dir);
+        }
+        Ok(o) => {
+            // xattr returns non-zero if no files had the attribute — that's fine
+            let stderr = String::from_utf8_lossy(&o.stderr);
+            if !stderr.contains("No such file") && !stderr.is_empty() {
+                eprintln!("xattr warning: {}", stderr);
+            }
+        }
+        Err(e) => {
+            eprintln!("Failed to run xattr (non-critical): {}", e);
+        }
+    }
 }
