@@ -24,9 +24,17 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Show loading state
   const loadingEl = document.getElementById('loading-overlay');
   const loadingText = document.getElementById('loading-text');
+  const progressFill = document.getElementById('loading-progress');
 
-  function setLoading(msg) {
+  let currentStep = 0;
+  const totalSteps = 3;
+
+  function setProgress(step, msg) {
+    currentStep = step;
     if (loadingText) loadingText.textContent = msg;
+    if (progressFill) {
+      progressFill.style.width = Math.round((step / totalSteps) * 100) + '%';
+    }
   }
 
   // Listen for decompression progress from Rust
@@ -38,7 +46,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (msg === 'ready') {
         decompressDone = true;
       } else {
-        setLoading(msg);
+        loadingText.textContent = msg;
       }
     });
   } catch {
@@ -47,7 +55,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   }
 
   // If data already extracted, skip waiting
-  setLoading('Starting up...');
+  setProgress(0, 'Starting up...');
   // Give a moment for decompress event to arrive
   await new Promise(r => setTimeout(r, 200));
 
@@ -59,7 +67,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   // If decompression is running, wait for it
   if (!decompressDone) {
-    setLoading('Extracting knowledge base (first launch only)...');
+    setProgress(0, 'Extracting knowledge base (first launch only)...');
     await new Promise(resolve => {
       const check = setInterval(() => {
         if (decompressDone) {
@@ -72,24 +80,23 @@ document.addEventListener('DOMContentLoaded', async () => {
     });
   }
 
-  setLoading('Loading documents...');
+  setProgress(1, 'Loading documents...');
   try {
     await loadDocuments();
   } catch (e) {
     console.error('Failed to load documents:', e);
   }
 
-  setLoading('Checking system health...');
-  try {
-    await updateHealthDisplay();
-  } catch (e) {
-    console.error('Health check failed:', e);
-  }
+  setProgress(2, 'Ready');
 
-  // Hide loading overlay
+  // Hide loading overlay immediately - don't wait for health check
   if (loadingEl) {
     loadingEl.classList.add('hidden');
   }
+
+  // Health check runs in background after app is visible
+  setProgress(3, '');
+  updateHealthDisplay().catch(e => console.error('Health check failed:', e));
 
   // Auto-resize textarea
   const input = document.getElementById('input');
