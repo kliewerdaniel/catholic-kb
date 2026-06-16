@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Catholic Knowledge Base</title>
+<link rel="stylesheet" href="styles/themes.css">
+<link rel="stylesheet" href="styles/main.css">
+<link rel="stylesheet" href="styles/sidebar.css">
+<link rel="stylesheet" href="styles/chat.css">
+<link rel="stylesheet" href="styles/viewer.css">
+<link rel="stylesheet" href="styles/settings.css">
+</head>
+<body>
+
+<!-- Sidebar -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <div class="sidebar-title">
+      <h1>Catholic KB</h1>
+      <button class="icon-btn" id="sidebar-toggle" title="Toggle sidebar">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <rect x="1" y="3" width="14" height="2" rx="1"/>
+          <rect x="1" y="7" width="10" height="2" rx="1"/>
+          <rect x="1" y="11" width="14" height="2" rx="1"/>
+        </svg>
+      </button>
+    </div>
+    <div class="sidebar-stats" id="sidebar-stats">Loading...</div>
+  </div>
+
+  <div class="health" id="health">
+    <div class="health-item"><div class="health-dot" id="dot-ollama"></div><span>Checking...</span></div>
+  </div>
+
+  <div class="sidebar-tabs">
+    <button class="tab-btn active" data-tab="documents">Documents</button>
+    <button class="tab-btn" data-tab="favorites">Favorites</button>
+    <button class="tab-btn" data-tab="history">History</button>
+  </div>
+
+  <div class="sidebar-search">
+    <input type="text" id="doc-search" placeholder="Filter documents..." />
+  </div>
+
+  <div class="doc-list" id="doc-list"></div>
+  <div class="favorites-list hidden" id="favorites-list"></div>
+  <div class="history-list hidden" id="history-list"></div>
+</aside>
+
+<!-- Document Viewer Panel -->
+<aside class="viewer-panel hidden" id="viewer-panel">
+  <div class="viewer-header">
+    <h2 id="viewer-title">Document</h2>
+    <button class="icon-btn" id="viewer-close" title="Close viewer">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+        <path d="M4.5 3.5L8 7l3.5-3.5M4.5 12.5L8 9l3.5 3.5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+      </svg>
+    </button>
+  </div>
+  <div class="viewer-content" id="viewer-content"></div>
+</aside>
+
+<!-- Main Chat Area -->
+<main class="main">
+  <div class="mode-bar">
+    <div class="mode-group">
+      <span class="mode-label">Mode:</span>
+      <button class="mode-btn active" data-mode="auto">Auto</button>
+      <button class="mode-btn" data-mode="semantic">Semantic</button>
+      <button class="mode-btn" data-mode="keyword">Keyword</button>
+      <button class="mode-btn" data-mode="scripture">Scripture</button>
+      <button class="mode-btn" data-mode="ccc">CCC</button>
+      <button class="mode-btn" data-mode="canon">Canon</button>
+    </div>
+    <div class="mode-actions">
+      <button class="icon-btn" id="settings-btn" title="Settings">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M8 10a2 2 0 100-4 2 2 0 000 4z"/>
+          <path d="M13.5 8c0-.28-.02-.55-.06-.82l1.56-1.22-1.5-2.6-1.84.74a5.04 5.04 0 00-1.42-.82L9.88 2H6.88l-.24 1.28a5.04 5.04 0 00-1.42.82L3.4 3.36l-1.5 2.6 1.56 1.22A5.07 5.07 0 003.4 8c0 .28.02.55.06.82L1.9 10.04l1.5 2.6 1.84-.74c.44.34.91.6 1.42.82L6.88 14h3l.24-1.28a5.04 5.04 0 001.42-.82l1.84.74 1.5-2.6-1.56-1.22c.04-.27.06-.54.06-.82z"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <div class="chat" id="chat">
+    <div class="welcome">
+      <h2>Catholic Knowledge Base</h2>
+      <p>Ask questions about Catholic doctrine, Scripture, the Catechism, Canon Law, Church Fathers, and Magisterial documents.</p>
+      <div class="welcome-examples">
+        <button class="example-btn" onclick="askExample('What does the CCC say about the Eucharist?')">
+          <span class="example-icon">📖</span>
+          <span>What does CCC say about the Eucharist?</span>
+        </button>
+        <button class="example-btn" onclick="askExample('John 6:53')">
+          <span class="example-icon">✝️</span>
+          <span>John 6:53</span>
+        </button>
+        <button class="example-btn" onclick="askExample('real presence')">
+          <span class="example-icon">🔍</span>
+          <span>real presence</span>
+        </button>
+        <button class="example-btn" onclick="askExample('Canon 915')">
+          <span class="example-icon">⚖️</span>
+          <span>Canon 915</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="input-bar">
+    <div class="input-wrapper">
+      <textarea id="input" placeholder="Ask a question... (Enter to send, Shift+Enter for newline)" rows="1"></textarea>
+      <button id="send-btn" onclick="send()" title="Send (Enter)">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M1.5 1.5l13 6.5-13 6.5 2-6.5-2-6.5z"/>
+        </svg>
+      </button>
+    </div>
+    <div class="input-hints">
+      <span><kbd>Enter</kbd> send</span>
+      <span><kbd>Shift+Enter</kbd> newline</span>
+      <span><kbd>Ctrl+K</kbd> search</span>
+    </div>
+  </div>
+</main>
+
+<!-- Settings Modal -->
+<div class="modal-overlay hidden" id="settings-modal">
+  <div class="modal">
+    <div class="modal-header">
+      <h2>Settings</h2>
+      <button class="icon-btn" onclick="closeSettings()">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M4.5 4.5l7 7M11.5 4.5l-7 7" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="setting-group">
+        <label>Theme</label>
+        <div class="setting-row">
+          <button class="theme-btn active" data-theme="dark">Dark</button>
+          <button class="theme-btn" data-theme="light">Light</button>
+        </div>
+      </div>
+      <div class="setting-group">
+        <label>Default Search Mode</label>
+        <select id="setting-mode">
+          <option value="auto">Auto</option>
+          <option value="semantic">Semantic</option>
+          <option value="keyword">Keyword</option>
+          <option value="scripture">Scripture</option>
+          <option value="ccc">CCC</option>
+          <option value="canon">Canon</option>
+        </select>
+      </div>
+      <div class="setting-group">
+        <label>Font Size</label>
+        <input type="range" id="setting-font" min="12" max="20" value="14">
+        <span id="font-size-label">14px</span>
+      </div>
+      <div class="setting-group">
+        <label>Model Status</label>
+        <div class="model-status" id="model-status">
+          <div class="model-item">
+            <span>Chat Model:</span>
+            <span id="chat-model-status">Checking...</span>
+          </div>
+          <div class="model-item">
+            <span>Embed Model:</span>
+            <span id="embed-model-status">Checking...</span>
+          </div>
+        </div>
+      </div>
+      <div class="setting-group">
+        <label>Chat History</label>
+        <button class="danger-btn" onclick="clearHistory()">Clear History</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Keyboard Shortcuts Modal -->
+<div class="modal-overlay hidden" id="shortcuts-modal">
+  <div class="modal modal-sm">
+    <div class="modal-header">
+      <h2>Keyboard Shortcuts</h2>
+      <button class="icon-btn" onclick="closeShortcuts()">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
+          <path d="M4.5 4.5l7 7M11.5 4.5l-7 7" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        </svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="shortcut-row"><kbd>Enter</kbd><span>Send message</span></div>
+      <div class="shortcut-row"><kbd>Shift+Enter</kbd><span>New line</span></div>
+      <div class="shortcut-row"><kbd>Ctrl+K</kbd> / <kbd>Cmd+K</kbd><span>Focus search</span></div>
+      <div class="shortcut-row"><kbd>Ctrl+/</kbd> / <kbd>Cmd+/</kbd><span>Show shortcuts</span></div>
+      <div class="shortcut-row"><kbd>Escape</kbd><span>Close panel/modal</span></div>
+      <div class="shortcut-row"><kbd>1-6</kbd><span>Switch search mode</span></div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast notifications -->
+<div class="toast-container" id="toast-container"></div>
+
+<script src="lib/storage.js"></script>
+<script src="lib/markdown.js"></script>
+<script src="lib/api.js"></script>
+<script src="lib/chat.js"></script>
+<script src="lib/search.js"></script>
+<script src="lib/documents.js"></script>
+<script src="lib/settings.js"></script>
+<script src="lib/shortcuts.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
