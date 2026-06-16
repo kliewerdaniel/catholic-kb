@@ -19,8 +19,10 @@ jobs:
         shell: bash
         run: |
           COMMIT=$(python3 -c "import json; print(json.load(open('.catholic-kb-commit.json'))['catholic_kb_commit'])")
-          git clone https://github.com/kliewerdaniel/catholic-kb.git catholic-kb
-          git -C catholic-kb checkout "$COMMIT"
+          git init catholic-kb
+          git -C catholic-kb remote add origin https://github.com/kliewerdaniel/catholic-kb.git
+          git -C catholic-kb fetch --depth 1 origin "$COMMIT"
+          git -C catholic-kb checkout FETCH_HEAD
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -69,8 +71,10 @@ jobs:
         shell: bash
         run: |
           COMMIT=$(python3 -c "import json; print(json.load(open('.catholic-kb-commit.json'))['catholic_kb_commit'])")
-          git clone https://github.com/kliewerdaniel/catholic-kb.git catholic-kb
-          git -C catholic-kb checkout "$COMMIT"
+          git init catholic-kb
+          git -C catholic-kb remote add origin https://github.com/kliewerdaniel/catholic-kb.git
+          git -C catholic-kb fetch --depth 1 origin "$COMMIT"
+          git -C catholic-kb checkout FETCH_HEAD
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -114,8 +118,10 @@ jobs:
         shell: bash
         run: |
           COMMIT=$(python3 -c "import json; print(json.load(open('.catholic-kb-commit.json'))['catholic_kb_commit'])")
-          git clone https://github.com/kliewerdaniel/catholic-kb.git catholic-kb
-          git -C catholic-kb checkout "$COMMIT"
+          git init catholic-kb
+          git -C catholic-kb remote add origin https://github.com/kliewerdaniel/catholic-kb.git
+          git -C catholic-kb fetch --depth 1 origin "$COMMIT"
+          git -C catholic-kb checkout FETCH_HEAD
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
