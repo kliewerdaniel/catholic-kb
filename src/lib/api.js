@@ -84,6 +84,13 @@ export async function healthCheck() {
   return mockHealth();
 }
 
+export async function checkDecompression() {
+  if (invoke) {
+    return await invoke('check_decompression');
+  }
+  return true; // Not in Tauri — assume ready
+}
+
 export async function getSettings() {
   if (invoke) {
     return await invoke('get_settings');

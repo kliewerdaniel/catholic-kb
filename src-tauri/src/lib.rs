@@ -6,6 +6,12 @@ use std::sync::Mutex;
 use engine::EngineState;
 use tauri::Emitter;
 
+#[tauri::command]
+fn check_decompression(state: tauri::State<'_, Mutex<EngineState>>) -> bool {
+    let engine = state.lock().unwrap();
+    engine.kbmd_dir().exists()
+}
+
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     // Determine data directory — check for bundled resources first, then fallback
@@ -26,6 +32,7 @@ pub fn run() {
             commands::models::get_model_status,
             commands::settings::get_settings,
             commands::settings::set_settings,
+            check_decompression,
         ])
         .setup(move |app| {
             // Decompress data in background after window is shown

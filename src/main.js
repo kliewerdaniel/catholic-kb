@@ -4,6 +4,7 @@ import { loadDocuments } from './lib/documents.js';
 import { initSettings, updateHealthDisplay } from './lib/settings.js';
 import { initShortcuts } from './lib/shortcuts.js';
 import { getTheme } from './lib/storage.js';
+import { checkDecompression } from './lib/api.js';
 
 // Toast notifications
 window.showToast = function(message, type = 'info') {
@@ -70,15 +71,33 @@ document.addEventListener('DOMContentLoaded', async () => {
   initSettings();
   initShortcuts();
 
+  // Check if data is already decompressed (avoids race condition with event listener)
+  try {
+    const ready = await checkDecompression();
+    if (ready) {
+      decompressDone = true;
+    }
+  } catch {}
+
   // If decompression is running, wait for it
   if (!decompressDone) {
     setProgress(0, 'Extracting knowledge base (first launch only)...');
     await new Promise(resolve => {
-      const check = setInterval(() => {
+      const check = setInterval(async () => {
         if (decompressDone) {
           clearInterval(check);
           resolve();
+          return;
         }
+        // Poll Rust directly in case event was missed
+        try {
+          const ready = await checkDecompression();
+          if (ready) {
+            decompressDone = true;
+            clearInterval(check);
+            resolve();
+          }
+        } catch {}
       }, 500);
       // Safety timeout - don't wait forever
       setTimeout(() => {
