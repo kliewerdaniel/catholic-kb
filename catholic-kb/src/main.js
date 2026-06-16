@@ -41,9 +41,18 @@ document.addEventListener('DOMContentLoaded', async () => {
   // Listen for decompression progress from Rust
   let decompressDone = false;
   let decompressError = null;
+
+  setProgress(0, 'Starting up...');
+
+  // Set up event listeners with timeout so we don't hang if Tauri bridge isn't ready
   try {
     const { listen } = await import('@tauri-apps/api/event');
-    await listen('decompress-progress', (event) => {
+    const listenWithTimeout = (eventName, handler, ms = 2000) =>
+      Promise.race([
+        listen(eventName, handler),
+        new Promise(r => setTimeout(r, ms))
+      ]);
+    await listenWithTimeout('decompress-progress', (event) => {
       const msg = event.payload;
       if (msg === 'ready') {
         decompressDone = true;
@@ -51,19 +60,17 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (loadingText) loadingText.textContent = msg;
       }
     });
-    await listen('decompress-error', (event) => {
+    await listenWithTimeout('decompress-error', (event) => {
       decompressError = event.payload;
       decompressDone = true;
     });
   } catch {
-    // Not in Tauri
+    // Not in Tauri or timed out — checkDecompression below handles it
     decompressDone = true;
   }
 
-  // If data already extracted, skip waiting
-  setProgress(0, 'Starting up...');
   // Give a moment for decompress event to arrive
-  await new Promise(r => setTimeout(r, 200));
+  await new Promise(r => setTimeout(r, 100));
 
   // Initialize modules
   initChat();

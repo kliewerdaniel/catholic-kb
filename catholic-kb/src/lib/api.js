@@ -65,7 +65,11 @@ export async function cancelQuery() {
 
 export async function listDocuments(category) {
   if (invoke) {
-    return await invoke('list_documents', { category });
+    const result = await Promise.race([
+      invoke('list_documents', { category }),
+      new Promise(r => setTimeout(() => r(mockDocuments()), 10000))
+    ]);
+    return result;
   }
   return mockDocuments();
 }
@@ -86,7 +90,11 @@ export async function healthCheck() {
 
 export async function checkDecompression() {
   if (invoke) {
-    return await invoke('check_decompression');
+    const result = await Promise.race([
+      invoke('check_decompression'),
+      new Promise(r => setTimeout(() => r(true), 3000))
+    ]);
+    return result;
   }
   return true; // Not in Tauri — assume ready
 }
