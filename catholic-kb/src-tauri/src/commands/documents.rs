@@ -2,11 +2,17 @@ use tauri::State;
 use crate::engine::{EngineState, DocumentMeta, DocumentDetail};
 use std::sync::Mutex;
 
+#[derive(serde::Serialize)]
+pub struct ListDocumentsResult {
+    documents: Vec<DocumentMeta>,
+    count: usize,
+}
+
 #[tauri::command]
 pub fn list_documents(
     state: State<'_, Mutex<EngineState>>,
     category: Option<String>,
-) -> Vec<DocumentMeta> {
+) -> ListDocumentsResult {
     let mut engine = state.lock().unwrap();
 
     // Load catalog and extract what we need, then drop the borrow
@@ -21,7 +27,10 @@ pub fn list_documents(
         }
     };
 
-    docs
+    ListDocumentsResult {
+        documents: docs.clone(),
+        count: docs.len(),
+    }
 }
 
 #[tauri::command]

@@ -94,6 +94,21 @@ fn find_resources_dir() -> Option<std::path::PathBuf> {
                 let macos_resources = contents_dir.join("Resources");
                 if macos_resources.exists() {
                     println!("Found macOS bundle resources at: {:?}", macos_resources);
+                    // Tauri v2 places bundled resources inside Resources/_up_/resources/
+                    let up_resources = macos_resources.join("_up_").join("resources");
+                    if up_resources.exists() && (up_resources.join("kbmd.tar.zst").exists()
+                        || up_resources.join("kb-index.tar.zst").exists())
+                    {
+                        println!("Found _up_/resources with archives at: {:?}", up_resources);
+                        return Some(up_resources);
+                    }
+                    // Fall back to Resources/ itself if it contains the archives directly
+                    if macos_resources.join("kbmd.tar.zst").exists()
+                        || macos_resources.join("kb-index.tar.zst").exists()
+                    {
+                        return Some(macos_resources);
+                    }
+                    // Still return Resources/ — decompress will check both sub-paths
                     return Some(macos_resources);
                 }
             }
